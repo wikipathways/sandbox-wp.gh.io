@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: WikiPathways
+title: WikiPathways - SANDBOX
 tagline: A community curated pathway database
 description: WikiPathways is a community curated pathway database dedicated to open science.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -98,6 +98,11 @@ defaults:
       layout: "pathway-page"
   - scope:
       path: ""
+      type: "drafts"
+    values:
+      layout: "drafts-page"
+  - scope:
+      path: ""
     values:
       layout: "default"
       sitemap: false
@@ -113,6 +118,8 @@ collections:
   organisms:
     output: true
   pathways:
+    output: true
+  drafts:
     output: true
   browse:
     output: true

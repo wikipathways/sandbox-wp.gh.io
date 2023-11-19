@@ -1,0 +1,461 @@
+---
+layout: default
+---
+
+<!-- AUTHOR PROCESSING -->
+{% assign blocked_authors = "Wpblocked,Unknown,TestUser,MaintBot" | split:"," %}
+{% assign authList = "" | split: ',' %}
+{% assign authListCite = "" | split: ',' %}
+{% for auth in page.authors %}
+  {% unless blocked_authors contains auth %}
+      {% assign realname = site.authors | where: "username", auth | map: "realname" | first  %}
+      {% unless blocked_authors contains realname %}
+        {% capture thisAuth %}
+          <a href="{{site.url}}/authors/{{auth}}.html" title="View author profile">{{ realname }}</a>
+        {% endcapture %}
+        {% assign authList = authList | push: thisAuth %}
+        {% assign authListCite = authListCite | push: realname %}
+      {% endunless %}
+  {% endunless %}
+{% endfor %}
+
+{% assign authListCite2 = "" | split: "" %}
+{% for name in authListCite %}
+  {% assign parts = name | split: " " %}
+  {% assign lastName = parts.last %}
+  {% if parts.size > 2 %}
+    {% assign initial = parts.first | slice: 0, 1 %}
+    {% assign middleInitial = parts[1] | slice: 0, 1 %}
+    {% assign result = lastName | append: " " | append: initial | append: middleInitial %}
+  {% else %}
+    {% assign initial = parts.first | slice: 0, 1 %}
+    {% assign result = lastName | append: " " | append: initial %}
+  {% endif %}
+  {% assign authListCite2 = authListCite2 | push: result %}
+{% endfor %}
+
+<!-- TITLE and ORG -->
+<h1 id="title"> {{ page.title }} ({{ page.wpid }})</h1>
+<h3><i>{{page.organisms | array_to_sentence_string }}</i></h3>
+
+<div style="position: relative;">
+  <!-- OPEN MENU -->
+  <div class="dropdown" style="position: absolute;top: 6px;">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButton" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span style="position: absolute; top: 0; left: 0; color: #FF8120; background-color: #FFFFFF; font-size: 2.0em;" title="Open in new tab" >
+        <i class="fa fa-arrow-up-right-from-square"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+      <a class="dropdown-item" href="https://pathway-viewer.toolforge.org/?id={{page.wpid}}"  target="_blank">Open in new tab</a>
+      {% if page.ndex %}
+        <a class="dropdown-item" href="https://www.ndexbio.org/viewer/networks/{{page.ndex}}" target="_blank">Open in NDEx</a>
+      {% endif %}
+    </div>
+  </div>
+  <!-- SVG IMAGE -->
+  <div id="pathway-viewer" style="height:500px;margin-bottom: 2px;">
+    <a href="/draft_assets/{{ page.wpid }}/{{ page.wpid }}.svg" target="_blank" title="Click anywhere to open intereactive view in new tab">
+      <img src="/draft_assets/{{ page.wpid }}/{{ page.wpid }}.svg"
+      style="border-style: none; height:100%; width:100%;"/>
+    </a>
+  </div>
+  <!-- DOWNLOAD MENU -->
+  <div class="dropdown" style="position: absolute;bottom: 5px;">
+    <button class="dropdown-toggle" style="padding: 4px;background-color: transparent;color: transparent;border: none;cursor: pointer;" 
+      type="button" id="dropdownMenuButton" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">
+      <span title="Download pathway as..." style="color: #FF8120; background-color: #FFFFFF; font-size: 2.0em;">
+        <i class="fa fa-download"></i>
+      </span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+      <a class="dropdown-item" href="/draft_assets/{{ page.wpid }}/{{ page.wpid }}.png" download>Download PNG</a>
+      <a class="dropdown-item" href="/draft_assets/{{ page.wpid }}/{{ page.wpid }}.svg" download>Download SVG</a>
+      <a class="dropdown-item" href="/draft_assets/{{ page.wpid }}/{{ page.wpid }}.json" download>Download JSON</a>
+      <a class="dropdown-item" href="/draft_assets/{{ page.wpid }}/{{ page.wpid }}.gpml" download>Download GPML</a>
+      <a class="dropdown-item" href="/download.html" target="_blank"><span style="font-size:small; font-style:italic;">
+        Learn more about Downloads</span></a>
+    <!-- <a class="dropdown-item" href="https://www.sejda.com/html-to-pdf?save-link={{site.url}}/pathways/{{ page.wpid }}.html" target="_blank">Generate PDF of page</a> -->
+    </div>
+  </div>
+  <!-- SHARE MENU -->
+  <div style="position: absolute;left: 50px;bottom: 11px;">
+    <a href="#" data-toggle="modal" data-target="#copy-to-clipboard-modal">
+      <span title="Share pathway" style="color: #FF8120; background-color: #FFFFFF; font-size: 2.0em;">
+        <i class="fa fa-share"></i>
+      </span>
+    </a>
+  </div>
+</div>
+
+<!-- CITE POPUP -->
+<div class="modal fade" id="copy-to-clipboard-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Share this pathway</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        {% capture fullCite %}
+          {{ authListCite2 | join: ", " | replace: ".", "" }}. {{ page.title }} ({{ page.wpid }}) [Internet] Last edited: {{ page.last-edited }}. Available from: https://www.wikipathways.org/instance/{{ page.wpid }}.
+        {% endcapture %}
+        <div class="form-group">
+          <label for="copy-to-clipboard-input2">Full citation:</label>
+          <div class="input-group mb-3">
+            <input type="text" class="form-control" id="copy-to-clipboard-input2" readonly value="{{ fullCite | lstrip }}">
+            <div class="input-group-append">
+              <button class="btn btn-outline-secondary" type="button" onclick="copyToClipboard('copy-to-clipboard-input2')">Copy</button>
+            </div>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="copy-to-clipboard-input1">Permanent link:</label>
+          <div class="input-group mb-3">
+            <input type="text" class="form-control" id="copy-to-clipboard-input1" readonly value="https://www.wikipathways.org/instance/{{ page.wpid }}">
+            <div class="input-group-append">
+              <button class="btn btn-outline-secondary" type="button" onclick="copyToClipboard('copy-to-clipboard-input1')">Copy</button>
+            </div>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="copy-to-clipboard-input3">Embed code:</label>
+          <div class="input-group mb-3">
+            <input type="text" class="form-control" id="copy-to-clipboard-input3" readonly value='<iframe src ="https://pathway-viewer.toolforge.org/?id={{ page.wpid }}" width="600px" height="300px" style="overflow:hidden;"></iframe>'>
+            <div class="input-group-append">
+              <button class="btn btn-outline-secondary" type="button" onclick="copyToClipboard('copy-to-clipboard-input3')">Copy</button>
+            </div>
+          </div>
+        </div>
+        <div>
+          <label>Social media:</label>
+          {% include share.html %}
+        </div>
+      </div>
+      <div class="modal-footer">
+        <p style="font-size:small; color:#999999; font-style:italic; position:absolute;left:20px;bottom:0px;">
+          Learn more about <a href="/cite.html" target="_blank">How to Cite</a>.
+        </p>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- DESCRIPTION-->
+<div id="description" style="margin-top: 10px;">
+  {{ page.description }}
+</div>
+
+<!-- AUTHORS -->
+<h2 id="authors">Authors</h2>
+    {{ authList | array_to_sentence_string }}
+
+<!-- ACTIVITY -->    
+<h2 id="activity">Activity</h2>
+  <!-- Evaluate last-edited date to set badge color -->
+  {% assign edit = page.last-edited | date: '%s' %}
+  {% assign now = 'now' | date: '%s' %}
+  {% assign diffSeconds = now | minus: edit %}
+  {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 %}
+  {% if diffDays <= 7 %} {% assign badgeColor="brightgreen" %} <!-- within 1 week, green-->
+  {% elsif diffDays >1095 %} {% assign badgeColor="999" %} <!-- over 3 years, gray-->
+  {% else %} {% assign badgeColor="blue" %} {% endif %} <!-- otherwise, blue -->
+    <!-- This badge is updated by Jekyll via the value of "last-edited" in each pathway .md-->
+    <a href="https://github.com/wikipathways/wikipathways.github.io/commits/main/_pathways/{{page.wpid}}.md"
+      target="_blank">
+      <img alt="last edited"
+        src="https://img.shields.io/static/v1?style=flat-square&label=last edited&message={{page.last-edited | date_to_string}}&color={{badgeColor}}">
+    </a>
+    <!--This badge is updated async to Jekyll by edits to the corresponding status.json (Note: 5 minute cache by shields.io)-->
+    <a id="badge-json" target="_blank"
+    href="https://github.com/wikipathways/wikipathways-database/pulls"
+    file="https://raw.githubusercontent.com/wikipathways/wikipathways-database/main/pathways/{{page.wpid}}/{{page.wpid}}-status.json">
+    </a>
+    <!--This badge shows the curation status-->
+    <a id="badge-curation" target="_blank"
+    href="https://www.wikipathways.org/wikipathways-collection/reports/{{page.wpid}}.html"
+    file="https://www.wikipathways.org/wikipathways-collection/reports/{{page.wpid}}.json">
+    </a>
+    <h3>Discuss this pathway</h3> 
+    <p style="color:#999999; font-style:italic;margin-left: 15px;">
+        Check for <a href="https://github.com/wikipathways/wikipathways-help/discussions?discussions_q=is:open+{{ page.wpid }}" target="_blank">ongoing discussions</a>
+         or <a href="https://github.com/wikipathways/wikipathways-help/discussions/new/?category=pathway-discussion&title=[{{ page.wpid }} Discussion]:" target="_blank">start your own</a>.
+    </p>
+    <!--
+    <h3>Report an issue with this pathway</h3>
+    <p style="color:#999999; font-style:italic;margin-left: 15px;">
+        Check for <a href="https://github.com/wikipathways/wikipathways-help/issues?q=is:issue+is:open+{{ page.wpid }}" target="_blank">open issues</a>
+         or <a href="https://github.com/wikipathways/wikipathways-help/issues/new/?template=REPORT-PATHWAY-ISSUE-FORM.yml&title=[{{ page.wpid }} Issue]:" target="_blank">start your own</a>.
+    </p>  
+    -->
+<!-- CITED BY -->    
+<h2 id="citedby">Cited In
+  <a href="">
+        <span title="THIS IS JUST A DRAFT" style="color: #FF8120; font-size: 0.8em;">
+          <i class="fa fa-pencil"></i>
+        </span>
+  </a>
+</h2> 
+<ul> 
+        {% for citation in page.citedin %}
+          <!-- Check type -->
+          {% assign cit-slash = citation.link | split: "/" | first %}
+          {% assign cit-slash-dot = cit-slash | split: "." | first %}
+          {% if cit-slash == "https:" %} <!-- fully formed url -->
+          {% assign cit-link = citation.link %}
+          {% assign cit-title = citation.title %}
+          {% assign cit-label = 'URL' %}
+          {% elsif cit-slash-dot == "10" %} <!-- DOI in need of prefix -->
+            {% assign cit-link = "https://doi.org/" | append: citation.link %}
+            {% assign cit-title = citation.title %}
+            {% assign cit-label = 'DOI' %}
+          {% else %} <!-- presumed PubMed or PMC ID in need of prefix -->
+            {% assign cit-link = "https://pubmed.ncbi.nlm.nih.gov/" | append: citation.link %}
+            {% assign cit-title = citation.title %}
+            {% assign cit-label = 'PMC' %}
+          {% endif %}
+          <!-- Check archived -->
+          {% assign cit-archived = "" %}
+          {% assign cit-dot = citation.archived | split: "." | first %}
+          {% if cit-dot == "https://doi" %} <!-- fully formed DOI url -->
+            {% capture cit-archived %}
+            Cites <a href="{{ citation.archived }}" target="_blank">this version</a>
+            {% endcapture %}
+          {% elsif cit-dot == "10" %} <!-- DOI in need of prefix -->
+            {% capture cit-archived %}
+            Cites <a href="https://doi.org/{{ citation.archived }}" target="_blank">this version</a>
+            {% endcapture %}
+          {% else %} <!-- empty or not a DOI; therefore don't display it -->
+          {% endif %}
+          {% assign cit-title-size = cit-title | size %}
+          {% if cit-title-size < 10 %}
+            {% assign cit-title = citation.link %}
+          {% endif %}
+          <li>
+            <a href="{{ cit-link }}" title="Link to {{ citation.link }}" target="_blank">
+              {{ cit-title }}</a>. {{ cit-archived }}
+          </li>
+        {% endfor %}
+</ul>
+<p style="font-size:small; color:#999999; font-style:italic;margin-left: 15px;">Are you planning to include this pathway in your next publication? See <a href="/cite.html">How to Cite</a> and add a link here to your paper once it's online.</p>
+
+<!-- ORGANISMS -->    
+<h2 id="organism">Organisms</h2>
+    {% for org in site.organisms %}
+    {% if page.organisms contains org.latin %}
+    <a class="btn btn-sm btn-pill btn-organism" href="{{org.url}}">{{org.latin}}</a>
+    {% endif %}
+    {% endfor %}
+
+<!-- COMMUNITIES -->    
+<h2 id="communities">Communities
+    <a href="">
+      <span title="THIS IS JUST A DRAFT" style="color: #FF8120; font-size: 0.8em;">
+        <i class="fa fa-pencil"></i>
+      </span>
+    </a>
+</h2>
+    {% for com in site.communities %}
+    {% if page.communities contains com.community-tag %}
+    <a class="btn btn-sm btn-pill btn-community" href="{{com.url}}">{{com.display-name}}</a>
+    {% endif %}
+    {% endfor %}
+
+<!-- ANNOTATIONS -->    
+<h2 id="annotations">Annotations</h2>
+    {% assign annot-types = page.annotations | map: "type" | uniq %}
+    {% for type in annot-types %}
+    <h3>{{ type }}</h3>
+      {% assign annot-values= page.annotations | where: "type", type | map: "value" %}
+      {% for annot in annot-values %}
+        <a class="btn btn-sm btn-pill btn-annotation" href="/browse/table.html?{{ type }}={{ annot }}">{{ annot }}</a>
+      {% endfor %}
+    {% endfor %}
+
+<!-- TABLES --> 
+{% assign wpid-parts=page.wpid | append: "-datanodes" %}
+{% assign parts=site.data.drafts[wpid-parts] %}
+<div style="display: flex; align-items: center;">   
+  <h2 id="participants">Participants    
+      <a href="/draft_assets/{{ page.wpid }}/{{ page.wpid }}-datanodes.tsv"
+      target="_blank">
+        <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+          <i class="fa fa-download"></i>
+        </span>
+      </a>
+      <!-- QUERY MENU -->
+      {% if page.organisms contains "Homo sapiens" %}
+        {% assign partsIdList = parts | map: "NCBI gene" | uniq | compact | slice: 0,99  %}
+        {% if partsIdList and partsIdList.size != 0 %}
+          {% assign partsIdList = partsIdList | join: "," %}
+      <div class="dropdown" style="float: right;margin-left: 8px;">
+        <button class="dropdown-toggle" style="padding: 4px;margin-left: 10px;background-color: transparent;color: transparent;border: none;cursor: pointer;font-size: small" 
+          type="button" id="dropdownMenuButton" data-toggle="dropdown"
+          aria-haspopup="true" aria-expanded="false">
+          <span style="position: absolute; top: 3px; left: 0; color: #FF8120; font-size: 1.3em;" title="Query services" >
+            <i class="fa fa-magnifying-glass"></i>
+          </span>
+        </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButtonDatanodes">
+          <a class="dropdown-item"  style="color: #000000; background-image: url(https://cdn.drugst.one/libs/drugstone-buttons/0.0.1/android-chrome-192x192.png);background-repeat: no-repeat;background-position: left;background-position-x: left;background-size: 20px 20px;background-position-x: 6px;background-origin: padding-box;padding-left: 32px !important; margin: 10px;"
+          href="https://drugst.one/standalone?nodes={{partsIdList}}&autofillEdges=true&activateNetworkMenuButtonAdjacentDrugs=true&interactionDrugProtein=NeDRex&licensedDatasets=true" 
+          target="_blank" 
+          title="Query drug interactions with the GeneProducts of this pathway. Learn more at the link destination.">Query Drugst.One</a>
+        </div>
+      </div>
+        {% endif %}
+      {% endif %}
+  </h2>
+</div>
+<input type="button" class="badge badge-secondary" id="tableLess1" value="fewer rows" style="float: left; margin-bottom: 2px;">
+<div class="table-container">
+  <table id="participants-table"> 
+    <thead>
+        <th>Label</th>
+        <th>Type</th>
+        <th>Compact Identifier</th>
+        <th>Comment</th>
+    </thead>
+    <tbody>
+      {% for row in parts %}
+        <tr>
+          <td>{{ row["Label"] }}</td>
+          <td>{{ row["Type"] }}</td>
+          {% if row["Identifier"] != null %}
+          {% assign xrefUrl = "https://bioregistry.io/" | append:row["Identifier"] %}
+            <td><a href={{ xrefUrl }} target="_blank">{{ row["Identifier"] }}</a></td>
+          {% else %} 
+            <td><span style="font-style:italic; color:#CCCCCC;">None</span></td>
+          {% endif %} 
+          <td>{{ row["Comment"] }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+  </table>
+  <div class="table-gradient-overlay"></div>
+</div>
+<input type="button" class="badge badge-secondary" id="tableMore" value="more rows" style="float: left; margin: -8px 4px 0px 0px;">
+<input type="button" class="badge badge-secondary" id="tableLess" value="fewer rows" style="float: left; margin-top: -8px;">
+<br />
+
+<!-- REFERENCES -->
+<h2 id="references">References    
+  <a href="/draft_assets/{{ page.wpid }}/{{ page.wpid }}-bibliography.tsv"
+    target="_blank">
+    <span title="Download as TSV" style="color: #FF8120; font-size: 0.8em;">
+      <i class="fa fa-download"></i>
+    </span>
+  </a>
+</h2>
+{% assign wpid-refs=page.wpid | append: "-bibliography" %}
+{% assign refs=site.data.drafts[wpid-refs] %}
+<ol>
+  {% for ref in refs %}
+    <li style="padding-bottom: 10px;">
+      {% if ref.Citation %}
+        {{ ref.Citation }}
+      {% else %}
+        {{ ref.Database }}:
+        {% if ref.Database == "URL" %}
+          <a href="{{ ref.ID }}" target="_blank" class="external" rel="nofollow">{{ ref.ID }}</a>
+        {% elsif ref.Database == "KEGG Pathway" %}
+          <a href="http://www.genome.jp/dbget-bin/www_bget?pathway+{{ ref.ID }}" target="_blank" class="external" rel="nofollow">{{ ref.ID }}</a>
+        {% elsif ref.Database == "Entrez Gene" %}
+          <a href="http://www.ncbi.nlm.nih.gov/gene/{{ ref.ID }}" target="_blank" class="external" rel="nofollow">{{ ref.ID }}</a>
+        {% elsif ref.Database == "WikiPathways" %}
+          <a href="https://www.wikipathways.org/instance/{{ ref.ID }}" target="_blank" class="external" rel="nofollow">{{ ref.ID }}</a>
+        {% elsif ref.Database == "Uniprot-TrEMBL" %}
+          <a href="http://www.uniprot.org/uniprot/{{ ref.ID }}" target="_blank" class="external" rel="nofollow">{{ ref.ID }}</a>
+        {% else %}
+          {{ ref.ID }}
+        {% endif %}
+      {% endif %}
+    </li>
+  {% endfor %}
+</ol>
+
+<!-- JAVASCRIPT -->
+<script> 
+  var trs = $("#participants-table tr");
+  const btnMore = $("#tableMore");
+  const btnLess = $("#tableLess");
+  const btnLess1 = $("#tableLess1");
+  const tableContainer = document.querySelector('.table-container');
+  const gradientOverlay = tableContainer.querySelector('.table-gradient-overlay');
+  const startIndex = 6;
+  const trsLength = trs.length;
+  var currentIndex = startIndex;
+  
+  var badgeJson = $("#badge-json")[0];
+  var badgeJsonFileUrl = badgeJson.getAttribute("file");
+  if (UrlExists(badgeJsonFileUrl)){
+    badgeJson.innerHTML = '<img alt="pathway status" src="https://img.shields.io/endpoint?style=flat-square&url='+badgeJsonFileUrl+'">';
+  }
+  var badgeCuration = $("#badge-curation")[0];
+  var badgeCurationFileUrl = badgeCuration.getAttribute("file");
+  if (UrlExists(badgeCurationFileUrl)){
+    badgeCuration.innerHTML = '<img alt="pathway curation" src="https://img.shields.io/endpoint?style=flat-square&url='+badgeCurationFileUrl+'">';
+  }
+  
+  function UrlExists(url) {
+    var http = new XMLHttpRequest();
+    http.open('HEAD', url, false);
+    try {
+      http.send();
+      return http.status != 404;
+    } catch (error) {
+      return false;
+    }
+  }
+
+  trs.hide();
+  trs.slice(0, startIndex).show();
+  checkButton();
+
+  btnMore.click(function (e) {
+    e.preventDefault();
+    $("#participants-table tr").slice(startIndex, trsLength).show();
+    checkButton();
+  });
+
+  btnLess.click(function (e) {
+    e.preventDefault();
+    $("#participants-table tr").slice(startIndex, trsLength).hide();
+    checkButton();
+  });
+  btnLess1.click(function (e) {
+    e.preventDefault();
+    $("#participants-table tr").slice(startIndex, trsLength).hide();
+    checkButton();
+  });
+
+  function checkButton() {
+    var currentLength = $("#participants-table tr:visible").length;
+
+    if (currentLength == trsLength) {
+      btnMore.hide();
+      btnLess.show();
+      btnLess1.show();
+      gradientOverlay.style.display = 'none';
+    } else {
+      btnMore.show();
+      btnLess.hide();
+      btnLess1.hide();
+      gradientOverlay.style.display = 'block';
+    }
+  }
+
+  function copyToClipboard(inputId) {
+    var copyText = document.getElementById(inputId);
+    copyText.select();
+    copyText.setSelectionRange(0, 99999); /* For mobile devices */
+    document.execCommand("copy");
+    //alert("Copied the text: " + copyText.value);
+  }
+
+</script>
