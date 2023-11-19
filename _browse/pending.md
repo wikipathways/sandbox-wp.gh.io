@@ -1,15 +1,14 @@
 ---
 layout: default
-redirect_from: /index.php/Special:RecentPathwayChanges
 order: 4
-display-title: "Updated"
-tooltip: "The most recently updated pathways" 
+display-title: "Pending"
+tooltip: "Pathway drafts currently in review" 
 btn-class: "btn-front"
 ---
     
-<h2 id="title">Recently Updated Pathways</h2>
-<p>A date-sorted list of 20 pathways that have been recently edited.  <b><em>Note: This does not include <a href="/browse/pending.html">pathways pending review</a>.</em></b></p> 
-<a class="btn btn-sm btn-front my-2" style="float:right;margin-right:20px;" title="Browse newly added pathways" href="/browse/new.html">New</a>
+<h2 id="title">Draft Pathways</h2>
+<p>A date-sorted list of pathways with new edits currently in review. </p> 
+<a class="btn btn-sm btn-front my-2" style="float:right;margin-right:20px;" title="Browse newly added pathways" href="/browse/new.html">New</a><a class="btn btn-sm btn-front my-2" style="float:right;margin-right:20px;" title="Browse recently updated pathways" href="/browse/updated.html">Updated</a>
 
 <h2>Pathways</h2>
 <ul class="nav nav-tabs">
@@ -20,16 +19,16 @@ btn-class: "btn-front"
         <a class="nav-link" data-toggle="tab" href="#list">List</a>
       </li>
 </ul>
-{% assign sorted_pathways = site.pathways | sort: "last-edited" | reverse | slice:0, 20 %}
+{% assign draft_pathways = site.drafts | sort: "last-edited" | reverse %}
 <div class="tab-content" >
     <div class="tab-pane fade show active" id="gallery" role="tabpanel">
         <br/>
     <div class="row">
-      {% for pw in sorted_pathways %}
+      {% for pw in draft_pathways %}
           <div class="col-sm-auto">
             <div class="card" style="width: 10rem;">
               <a class="card-link" href="{{ pw.url }}">
-              <img class="card-img-top" loading="lazy" src="/assets/img/{{pw.wpid}}/{{pw.wpid}}-thumb.png" alt="{{ pw.title }}">
+              <img class="card-img-top" loading="lazy" src="/draft_assets/{{pw.wpid}}/{{pw.wpid}}.png" alt="{{ pw.title }}">
               <div class="card-body">
                 <p class="card-text">{{ pw.title }} <em>({{ pw.organisms.first }})</em>
                 <br /><b>last edited: {{ pw.last-edited }}</b></p>
@@ -44,7 +43,7 @@ btn-class: "btn-front"
     <br/>
     <div class="row" style="margin-left: 10px;">
       <ul>
-        {% for pw in sorted_pathways %}
+        {% for pw in draft_pathways %}
               <li><a href="{{ pw.url }}">{{ pw.title }} - {{pw.wpid}} <em>({{ pw.organisms.first }})</em> --<b>last edited: {{ pw.last-edited }}</b></a></li>
         {% endfor %}
       </ul>
@@ -53,10 +52,10 @@ btn-class: "btn-front"
 </div>
 <br/>
 <hr/>
-<h2>Authors of Recently Updated Pathways</h2>
+<h2>Authors of Pathways with Drafts in Review</h2>
 <!-- AUTHOR PROCESSING -->
 {% assign blocked_authors = "Wpblocked,Unknown,TestUser,MaintBot" | split:"," %}
-{% assign sorted_pw_authors = sorted_pathways | map: "authors" | join: ','  | split: ',' | uniq  %} <!-- REPLACE authors with "recent author" -->
+{% assign sorted_pw_authors = draft_pathways | map: "authors" | join: ','  | split: ',' | uniq  %} <!-- REPLACE authors with "recent author" -->
 {% assign all_authors = '' | split: '' %}
 {% for auth in sorted_pw_authors %}
   {% unless blocked_authors contains auth %}
