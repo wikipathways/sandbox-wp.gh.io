@@ -1,6 +1,21 @@
 ---
 layout: default
----
+---    
+<!-- SANDBOX REF -->
+<div class="alert alert-danger" role="alert">
+  This is a draft view of a pathway edit currently <a href="https://github.com/wikipathways/sandbox-wp-db/pull/{{page.pr-number}}" class="alert-link" target="_blank">in review</a>. Do not share or cite this page.
+</div>
+{% assign existing_pathway = site.pathways | where: "wpid", page.wpid | first %}
+<!-- if existing_pathway is not null, then show bannner -->
+{% if existing_pathway %}
+<div class="alert alert-primary" role="alert">
+  This is an update to pathway <a href="/pathways/{{page.wpid}}" class="alert-link" target="_blank">{{page.wpid}}</a>.
+</div>
+{% else %}
+<div class="alert alert-primary" role="alert">
+  This is a new, original pathway with a temporary WPID. An official WPID will be assigned upon publication.
+</div>
+{% endif %}
 
 <!-- AUTHOR PROCESSING -->
 {% assign blocked_authors = "Wpblocked,Unknown,TestUser,MaintBot" | split:"," %}
@@ -49,10 +64,10 @@ layout: default
       </span>
     </button>
     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-      <a class="dropdown-item" href="https://pathway-viewer.toolforge.org/?id={{page.wpid}}"  target="_blank">Open in new tab</a>
-      {% if page.ndex %}
+      <a class="dropdown-item" href="/draft_assets/{{ page.wpid }}/{{ page.wpid }}.svg"  target="_blank">Open in new tab</a>
+      <!-- {% if page.ndex %}
         <a class="dropdown-item" href="https://www.ndexbio.org/viewer/networks/{{page.ndex}}" target="_blank">Open in NDEx</a>
-      {% endif %}
+      {% endif %} -->
     </div>
   </div>
   <!-- SVG IMAGE -->
@@ -83,8 +98,8 @@ layout: default
   </div>
   <!-- SHARE MENU -->
   <div style="position: absolute;left: 50px;bottom: 11px;">
-    <a href="#" data-toggle="modal" data-target="#copy-to-clipboard-modal">
-      <span title="Share pathway" style="color: #FF8120; background-color: #FFFFFF; font-size: 2.0em;">
+    <a href="#" >
+      <span title="THIS IS JUST A DRAFT" style="color: #FF8120; background-color: #FFFFFF; font-size: 2.0em;">
         <i class="fa fa-share"></i>
       </span>
     </a>
@@ -163,13 +178,14 @@ layout: default
   {% assign diffSeconds = now | minus: edit %}
   {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 %}
   {% if diffDays <= 7 %} {% assign badgeColor="brightgreen" %} <!-- within 1 week, green-->
-  {% elsif diffDays >1095 %} {% assign badgeColor="999" %} <!-- over 3 years, gray-->
+  {% elsif diffDays >30 %} {% assign badgeColor="red" %} <!-- over 30 days, red-->
   {% else %} {% assign badgeColor="blue" %} {% endif %} <!-- otherwise, blue -->
     <!-- This badge is updated by Jekyll via the value of "last-edited" in each pathway .md-->
-    <a href="https://github.com/wikipathways/wikipathways.github.io/commits/main/_pathways/{{page.wpid}}.md"
+    <!-- SANDBOX REF -->
+    <a href="https://github.com/wikipathways/sandbox-wp-db/pull/{{page.pr-number}}" 
       target="_blank">
-      <img alt="last edited"
-        src="https://img.shields.io/static/v1?style=flat-square&label=last edited&message={{page.last-edited | date_to_string}}&color={{badgeColor}}">
+      <img alt="in review"
+        src="https://img.shields.io/static/v1?style=flat-square&label=in review&message={{page.last-edited | date_to_string}}&color={{badgeColor}}">
     </a>
     <!--This badge is updated async to Jekyll by edits to the corresponding status.json (Note: 5 minute cache by shields.io)-->
     <a id="badge-json" target="_blank"

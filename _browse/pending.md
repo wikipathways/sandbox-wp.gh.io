@@ -8,7 +8,7 @@ btn-class: "btn-front"
     
 <h2 id="title">Draft Pathways</h2>
 <p>A date-sorted list of pathways with new edits currently in review. </p> 
-<a class="btn btn-sm btn-front my-2" style="float:right;margin-right:20px;" title="Browse newly added pathways" href="/browse/new.html">New</a><a class="btn btn-sm btn-front my-2" style="float:right;margin-right:20px;" title="Browse recently updated pathways" href="/browse/updated.html">Updated</a>
+<a class="btn btn-sm btn-front my-2" style="float:right;margin-right:20px;" title="Browse recently updated pathways" href="/browse/updated.html">Updated</a><a class="btn btn-sm btn-front my-2" style="float:right;margin-right:20px;" title="Browse newly added pathways" href="/browse/new.html">New</a>
 
 <h2>Pathways</h2>
 <ul class="nav nav-tabs">
