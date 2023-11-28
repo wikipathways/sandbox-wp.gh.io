@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="wp5397-svg" version="1.1" baseProfile="full" preserveAspectRatio="xMidYMid" color="black" class="Diagram" viewBox="0 0 870.9999999999998 595.571428571428" width="800px" height="600px" vocab="http://vocabularies.wikipathways.org/wp#">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="wp010-svg" version="1.1" baseProfile="full" preserveAspectRatio="xMidYMid" color="black" class="Diagram" viewBox="0 0 870.9999999999998 595.571428571428" width="800px" height="600px" vocab="http://vocabularies.wikipathways.org/wp#">
   <style type="text/css"><![CDATA[
 ]]></style>
   <defs>
@@ -460,8 +460,8 @@
       </symbol>
     </g>
   </defs>
-  <g id="WP5397" class="Viewport" color="black" name="Name: Vitamin A1 and A5/X pathways Last Modified: 20230725062304 Organism: Homo sapiens">
-    <rect fill="white" stroke="black" stroke-width="0" fill-opacity="1" height="595.571428571428px" id="WP5397-icon" width="870.9999999999998px" x="0" y="0" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
+  <g id="WP010" class="Viewport" color="black" name="Name: Vitamin A1 and A5/X pathways Organism: Homo sapiens">
+    <rect fill="white" stroke="black" stroke-width="0" fill-opacity="1" height="595.571428571428px" id="WP010-icon" width="870.9999999999998px" x="0" y="0" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
     <g id="id1d9696ec" class="Edge Interaction" color="#000000">
       <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="167.78759477919033, 5.8" stroke-width="1">
         <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="id1d9696ec-path" d="M494.7857142857142,73.0714285714287L654.4999999999998,141.07142857142836" marker-end="url(#markerEndMimConversion)" class="EdgeBody"/>
@@ -738,10 +738,9 @@
         </text>
       </a>
     </g>
-    <text id="WP5397-text" class="Text" direction="ltr" dominant-baseline="central" fill="black" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="bold" overflow="visible" stroke="white" stroke-width="0px" text-anchor="start" transform="translate(5,36)">
-      <tspan x="0" y="-18">Name: Vitamin A1 and A5/X pathways</tspan>
-      <tspan x="0" y="0">Last Modified: 20230725062304</tspan>
-      <tspan x="0" y="18">Organism: Homo sapiens</tspan>
+    <text id="WP010-text" class="Text" direction="ltr" dominant-baseline="central" fill="black" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="bold" overflow="visible" stroke="white" stroke-width="0px" text-anchor="start" transform="translate(5,27)">
+      <tspan x="0" y="-9">Name: Vitamin A1 and A5/X pathways</tspan>
+      <tspan x="0" y="9">Organism: Homo sapiens</tspan>
     </text>
   </g>
 </svg>

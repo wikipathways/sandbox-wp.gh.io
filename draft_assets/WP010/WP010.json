@@ -2655,10 +2655,10 @@
     "@context": [
       "https://cdn.rawgit.com/wikipathways/WpVocabularies/7a46a05/contexts/pvjs.jsonld",
       {
-        "@base": "WP5397/"
+        "@base": "WP010/"
       }
     ],
-    "author": "[Egonw, Ash iyer]",
+    "author": "[Egonw, AlexanderPico]",
     "comments": [
       {
         "content": "Vitamin A5/X pathway which shows how our food results in precursors from which Vitamin A5/X (9CBC, 9CDHBC, 9CDHROL-ES and 9CDKHROL) is metabolized which is converted into Vitamin A5/X acid (9CDHRA) which binds to RXR.",
@@ -2713,7 +2713,7 @@
       "d1ac3",
       "fcb5c"
     ],
-    "dataSourceVersion": "WP5397_r127034",
+    "dataSourceVersion": "WP0001_20231104",
     "displayName": "Vitamin A1 and A5/X pathways",
     "drawAs": "rect",
     "fill": "white",
@@ -2721,18 +2721,17 @@
     "fontWeight": "bold",
     "gpmlElementName": "Pathway",
     "height": 595.571428571428,
-    "id": "WP5397",
+    "id": "WP010",
     "kaavioType": "Group",
-    "lastModified": "20230725062304",
     "name": "Vitamin A1 and A5/X pathways",
     "organism": "Homo sapiens",
     "padding": 5,
-    "pathwayVersion": "WP5397",
+    "pathwayVersion": "WP010",
     "standardName": "Vitamin A1 and A5/X pathways",
     "stroke": "black",
     "strokeWidth": 0,
     "textAlign": "left",
-    "textContent": "Name: Vitamin A1 and A5/X pathways\nLast Modified: 20230725062304\nOrganism: Homo sapiens",
+    "textContent": "Name: Vitamin A1 and A5/X pathways\nOrganism: Homo sapiens",
     "type": [
       "Pathway",
       "http://identifiers.org/pw/PW:0000135",
