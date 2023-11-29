@@ -26,13 +26,7 @@
         "SingleFreeNode",
         "Entrez Gene:5916",
         "Protein",
-        "Ensembl:ENSG00000172819",
-        "P594:ENSG00000172819",
-        "P351:5916",
-        "HGNC:RARG",
-        "RARG",
-        "P353:RARG",
-        "Wikidata:Q18031042"
+        "CompactIdentifier:ncbigene:5916"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -74,15 +68,7 @@
         "SingleFreeNode",
         "PubChem-compound:638015",
         "Metabolite",
-        "ChEBI:CHEBI:17898",
-        "ChEBI:17898",
-        "P683:CHEBI:17898",
-        "P683:17898",
-        "HMDB:HMDB0001358",
-        "HMDB:HMDB01358",
-        "P2057:HMDB0001358",
-        "P2057:HMDB01358",
-        "Wikidata:Q28529715"
+        "CompactIdentifier:pubchem.compound:638015"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -120,13 +106,7 @@
         "SingleFreeNode",
         "Entrez Gene:5914",
         "Protein",
-        "Ensembl:ENSG00000131759",
-        "P594:ENSG00000131759",
-        "P351:5914",
-        "HGNC:RARA",
-        "RARA",
-        "P353:RARA",
-        "Wikidata:Q18031040"
+        "CompactIdentifier:ncbigene:5914"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -477,12 +457,7 @@
         "SingleFreeNode",
         "Wikidata:Q306135",
         "Metabolite",
-        "ChEBI:CHEBI:17579",
-        "ChEBI:17579",
-        "P683:CHEBI:17579",
-        "P683:17579",
-        "HMDB:HMDB00561",
-        "P2057:HMDB00561"
+        "CompactIdentifier:wikidata:Q306135"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -701,13 +676,7 @@
         "SingleFreeNode",
         "Entrez Gene:6257",
         "Protein",
-        "Ensembl:ENSG00000204231",
-        "P594:ENSG00000204231",
-        "P351:6257",
-        "HGNC:RXRB",
-        "RXRB",
-        "P353:RXRB",
-        "Wikidata:Q18031337"
+        "CompactIdentifier:ncbigene:6257"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -743,7 +712,8 @@
         "DataNode",
         "SingleFreeNode",
         "Wikidata:Q120868409",
-        "Metabolite"
+        "Metabolite",
+        "CompactIdentifier:wikidata:Q120868409"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -951,15 +921,7 @@
         "SingleFreeNode",
         "PubChem-compound:444795",
         "Metabolite",
-        "ChEBI:CHEBI:15367",
-        "ChEBI:15367",
-        "P683:CHEBI:15367",
-        "P683:15367",
-        "HMDB:HMDB0001852",
-        "HMDB:HMDB01852",
-        "P2057:HMDB0001852",
-        "P2057:HMDB01852",
-        "Wikidata:Q29417"
+        "CompactIdentifier:pubchem.compound:444795"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -995,7 +957,8 @@
         "DataNode",
         "SingleFreeNode",
         "Wikidata:Q120868469",
-        "Metabolite"
+        "Metabolite",
+        "CompactIdentifier:wikidata:Q120868469"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1153,7 +1116,7 @@
         "SingleFreeNode",
         "WikiPathways:WP716",
         "Pathway",
-        "Wikidata:Q27436284"
+        "CompactIdentifier:undefined"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1191,13 +1154,7 @@
         "SingleFreeNode",
         "Entrez Gene:5915",
         "Protein",
-        "Ensembl:ENSG00000077092",
-        "P594:ENSG00000077092",
-        "P351:5915",
-        "HGNC:RARB",
-        "RARB",
-        "P353:RARB",
-        "Wikidata:Q18031041"
+        "CompactIdentifier:ncbigene:5915"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1244,7 +1201,8 @@
         "DataNode",
         "SingleFreeNode",
         "Wikidata:Q120868444",
-        "Metabolite"
+        "Metabolite",
+        "CompactIdentifier:wikidata:Q120868444"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1349,13 +1307,7 @@
         "SingleFreeNode",
         "Entrez Gene:6256",
         "Protein",
-        "Ensembl:ENSG00000186350",
-        "P594:ENSG00000186350",
-        "P351:6256",
-        "HGNC:RXRA",
-        "RXRA",
-        "P353:RXRA",
-        "Wikidata:Q17516011"
+        "CompactIdentifier:ncbigene:6256"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1393,13 +1345,7 @@
         "SingleFreeNode",
         "Entrez Gene:6258",
         "Protein",
-        "Ensembl:ENSG00000143171",
-        "P594:ENSG00000143171",
-        "P351:6258",
-        "HGNC:RXRG",
-        "RXRG",
-        "P353:RXRG",
-        "Wikidata:Q18031338"
+        "CompactIdentifier:ncbigene:6258"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1558,7 +1504,8 @@
         "DataNode",
         "SingleFreeNode",
         "Wikidata:Q120868227",
-        "Metabolite"
+        "Metabolite",
+        "CompactIdentifier:wikidata:Q120868227"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1597,7 +1544,8 @@
         "DataNode",
         "SingleFreeNode",
         "Wikidata:Q120868159",
-        "Metabolite"
+        "Metabolite",
+        "CompactIdentifier:wikidata:Q120868159"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1667,10 +1615,7 @@
         "SingleFreeNode",
         "Wikidata:Q27135678",
         "Metabolite",
-        "ChEBI:CHEBI:67188",
-        "ChEBI:67188",
-        "P683:CHEBI:67188",
-        "P683:67188"
+        "CompactIdentifier:wikidata:Q27135678"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1747,7 +1692,8 @@
         "DataNode",
         "SingleFreeNode",
         "Wikidata:Q120868257",
-        "Metabolite"
+        "Metabolite",
+        "CompactIdentifier:wikidata:Q120868257"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1912,15 +1858,7 @@
         "SingleFreeNode",
         "PubChem-compound:445354",
         "Metabolite",
-        "ChEBI:CHEBI:17336",
-        "ChEBI:17336",
-        "P683:CHEBI:17336",
-        "P683:17336",
-        "HMDB:HMDB00305",
-        "HMDB:HMDB0000305",
-        "P2057:HMDB00305",
-        "P2057:HMDB0000305",
-        "Wikidata:Q424976"
+        "CompactIdentifier:pubchem.compound:445354"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",

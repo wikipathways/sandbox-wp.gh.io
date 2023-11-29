@@ -519,20 +519,20 @@
         <tspan x="0" y="0">Vitamin A5/Xs</tspan>
       </text>
     </g>
-    <a id="b8ab7" class="SingleFreeNode DataNode Wikidata_Q306135 Metabolite ChEBI_CHEBI_17579 ChEBI_17579 P683_CHEBI_17579 P683_17579 HMDB_HMDB00561 P2057_HMDB00561" color="#0000ff" name="ATBC" transform="translate(290.9999999999997,221.07142857142833)" xlink:href="https://tools.wmflabs.org/scholia/Q306135" target="_blank">
+    <a id="b8ab7" class="SingleFreeNode DataNode Wikidata_Q306135 Metabolite CompactIdentifier_wikidata_Q306135" color="#0000ff" name="ATBC" transform="translate(290.9999999999997,221.07142857142833)" xlink:href="https://bioregistry.io/wikidata:Q306135" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="25px" id="b8ab7-icon" width="68.04761904761925px" x="0" y="0" transform="matrix(0.9855172413793104, 0, 0, 0.9615384615384616, 0.49275862068965637, 0.48076923076922995)" class="Icon"/>
       <text id="b8ab7-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(34.023809523809625,16.5)">
         <tspan x="0" y="0">ATBC</tspan>
       </text>
     </a>
-    <a id="e1706" class="SingleFreeNode DataNode WikiPathways_WP716 Pathway Wikidata_Q27436284" color="#14961e" name="See also WP716" transform="translate(677.1428571428576,48.57142857142858)" xlink:href="https://tools.wmflabs.org/scholia/Q27436284" target="_blank">
+    <a id="e1706" class="SingleFreeNode DataNode WikiPathways_WP716 Pathway CompactIdentifier_undefined" color="#14961e" name="See also WP716" transform="translate(677.1428571428576,48.57142857142858)" xlink:href="https://bioregistry.io/CompactIdentifier:undefined" target="_blank">
       <rect fill="#ffffff" stroke="#14961e" stroke-width="1" fill-opacity="1" height="37.26190476190472px" id="e1706-icon" rx="15" ry="15" width="80.95238095238096px" x="0" y="0" transform="matrix(0.9877977919814062, 0, 0, 0.9738643434971997, 0.4938988959907036, 0.4869321717485988)" class="Icon"/>
       <text id="e1706-text" class="Text" direction="ltr" fill="#14961e" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="bold" stroke="black" stroke-width="0px" text-anchor="middle" transform="translate(40.47619047619048,22.63095238095236)">
         <tspan x="0" y="-6.6000000000000005">See also</tspan>
         <tspan x="0" y="6.6000000000000005">WP716</tspan>
       </text>
     </a>
-    <a id="ebea8" class="SingleFreeNode DataNode Wikidata_Q120868159 Metabolite" color="#0000ff" name="9CDHROL-ES" transform="translate(603.9999999999998,141.07142857142836)" xlink:href="https://tools.wmflabs.org/scholia/Q120868159" target="_blank">
+    <a id="ebea8" class="SingleFreeNode DataNode Wikidata_Q120868159 Metabolite CompactIdentifier_wikidata_Q120868159" color="#0000ff" name="9CDHROL-ES" transform="translate(603.9999999999998,141.07142857142836)" xlink:href="https://bioregistry.io/wikidata:Q120868159" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="25px" id="ebea8-icon" width="101px" x="0" y="0" transform="matrix(0.9901960784313726, 0, 0, 0.9615384615384616, 0.4950980392156836, 0.48076923076922995)" class="Icon"/>
       <text id="ebea8-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(50.5,16.5)">
         <tspan x="0" y="0">9CDHROL-ES</tspan>
@@ -552,50 +552,50 @@
     </g>
     <g id="ac208" class="Group GroupGroup" color="#808080" transform="translate(467,417.0714285714282)">
       <use fill="transparent" fill-opacity="0" stroke="#808080" stroke-dasharray="5,3" stroke-width="0" height="41px" id="ac208-icon" width="185.49999999999932px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
-      <a id="e7539" class="SingleFreeNode DataNode Entrez_Gene_6256 Protein Ensembl_ENSG00000186350 P594_ENSG00000186350 P351_6256 HGNC_RXRA RXRA P353_RXRA Wikidata_Q17516011" color="#000000" name="RXRa" transform="translate(8,8)" xlink:href="https://tools.wmflabs.org/scholia/Q17516011" target="_blank">
+      <a id="e7539" class="SingleFreeNode DataNode Entrez_Gene_6256 Protein CompactIdentifier_ncbigene_6256" color="#000000" name="RXRa" transform="translate(8,8)" xlink:href="https://bioregistry.io/ncbigene:6256" target="_blank">
         <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="25px" id="e7539-icon" width="56.49999999999977px" x="0" y="0" transform="matrix(0.9826086956521738, 0, 0, 0.9615384615384616, 0.49130434782608745, 0.48076923076922995)" class="Icon"/>
         <text id="e7539-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(28.249999999999886,16.5)">
           <tspan x="0" y="0">RXRa</tspan>
         </text>
       </a>
-      <a id="c6ed7" class="SingleFreeNode DataNode Entrez_Gene_6257 Protein Ensembl_ENSG00000204231 P594_ENSG00000204231 P351_6257 HGNC_RXRB RXRB P353_RXRB Wikidata_Q18031337" color="#000000" name="RXRb" transform="translate(64.49999999999977,8)" xlink:href="https://tools.wmflabs.org/scholia/Q18031337" target="_blank">
+      <a id="c6ed7" class="SingleFreeNode DataNode Entrez_Gene_6257 Protein CompactIdentifier_ncbigene_6257" color="#000000" name="RXRb" transform="translate(64.49999999999977,8)" xlink:href="https://bioregistry.io/ncbigene:6257" target="_blank">
         <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="25px" id="c6ed7-icon" width="56.49999999999977px" x="0" y="0" transform="matrix(0.9826086956521738, 0, 0, 0.9615384615384616, 0.49130434782608745, 0.48076923076922995)" class="Icon"/>
         <text id="c6ed7-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(28.249999999999886,16.5)">
           <tspan x="0" y="0">RXRb</tspan>
         </text>
       </a>
-      <a id="e77de" class="SingleFreeNode DataNode Entrez_Gene_6258 Protein Ensembl_ENSG00000143171 P594_ENSG00000143171 P351_6258 HGNC_RXRG RXRG P353_RXRG Wikidata_Q18031338" color="#000000" name="RXRc" transform="translate(120.99999999999955,8)" xlink:href="https://tools.wmflabs.org/scholia/Q18031338" target="_blank">
+      <a id="e77de" class="SingleFreeNode DataNode Entrez_Gene_6258 Protein CompactIdentifier_ncbigene_6258" color="#000000" name="RXRc" transform="translate(120.99999999999955,8)" xlink:href="https://bioregistry.io/ncbigene:6258" target="_blank">
         <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="25px" id="e77de-icon" width="56.49999999999977px" x="0" y="0" transform="matrix(0.9826086956521738, 0, 0, 0.9615384615384616, 0.49130434782608745, 0.48076923076922995)" class="Icon"/>
         <text id="e77de-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(28.249999999999886,16.5)">
           <tspan x="0" y="0">RXRc</tspan>
         </text>
       </a>
     </g>
-    <a id="dc2c8" class="SingleFreeNode DataNode Wikidata_Q120868469 Metabolite" color="#0000ff" name="9CDHROL" transform="translate(603.9999999999998,221.0714285714283)" xlink:href="https://tools.wmflabs.org/scholia/Q120868469" target="_blank">
+    <a id="dc2c8" class="SingleFreeNode DataNode Wikidata_Q120868469 Metabolite CompactIdentifier_wikidata_Q120868469" color="#0000ff" name="9CDHROL" transform="translate(603.9999999999998,221.0714285714283)" xlink:href="https://bioregistry.io/wikidata:Q120868469" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="25px" id="dc2c8-icon" width="101px" x="0" y="0" transform="matrix(0.9901960784313726, 0, 0, 0.9615384615384616, 0.4950980392156836, 0.48076923076922995)" class="Icon"/>
       <text id="dc2c8-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(50.5,16.5)">
         <tspan x="0" y="0">9CDHROL</tspan>
       </text>
     </a>
-    <a id="ed5a6" class="SingleFreeNode DataNode Wikidata_Q27135678 Metabolite ChEBI_CHEBI_67188 ChEBI_67188 P683_CHEBI_67188 P683_67188" color="#0000ff" name="9CBC" transform="translate(421.7857142857143,141.07142857142836)" xlink:href="https://tools.wmflabs.org/scholia/Q27135678" target="_blank">
+    <a id="ed5a6" class="SingleFreeNode DataNode Wikidata_Q27135678 Metabolite CompactIdentifier_wikidata_Q27135678" color="#0000ff" name="9CBC" transform="translate(421.7857142857143,141.07142857142836)" xlink:href="https://bioregistry.io/wikidata:Q27135678" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="25px" id="ed5a6-icon" width="101px" x="0" y="0" transform="matrix(0.9901960784313726, 0, 0, 0.9615384615384616, 0.4950980392156836, 0.48076923076922995)" class="Icon"/>
       <text id="ed5a6-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(50.5,16.5)">
         <tspan x="0" y="0">9CBC</tspan>
       </text>
     </a>
-    <a id="cc04a" class="SingleFreeNode DataNode Wikidata_Q120868409 Metabolite" color="#0000ff" name="9CDHBC" transform="translate(442.66666666666663,221.0714285714283)" xlink:href="https://tools.wmflabs.org/scholia/Q120868409" target="_blank">
+    <a id="cc04a" class="SingleFreeNode DataNode Wikidata_Q120868409 Metabolite CompactIdentifier_wikidata_Q120868409" color="#0000ff" name="9CDHBC" transform="translate(442.66666666666663,221.0714285714283)" xlink:href="https://bioregistry.io/wikidata:Q120868409" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="25px" id="cc04a-icon" width="59.23809523809529px" x="0" y="0" transform="matrix(0.983399209486166, 0, 0, 0.9615384615384616, 0.49169960474308283, 0.48076923076922995)" class="Icon"/>
       <text id="cc04a-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(29.619047619047645,16.5)">
         <tspan x="0" y="0">9CDHBC</tspan>
       </text>
     </a>
-    <a id="e3cc0" class="SingleFreeNode DataNode Wikidata_Q120868444 Metabolite" color="#0000ff" name="9CDHRA" transform="translate(508.9999999999998,311.0714285714282)" xlink:href="https://tools.wmflabs.org/scholia/Q120868444" target="_blank">
+    <a id="e3cc0" class="SingleFreeNode DataNode Wikidata_Q120868444 Metabolite CompactIdentifier_wikidata_Q120868444" color="#0000ff" name="9CDHRA" transform="translate(508.9999999999998,311.0714285714282)" xlink:href="https://bioregistry.io/wikidata:Q120868444" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="25px" id="e3cc0-icon" width="101px" x="0" y="0" transform="matrix(0.9901960784313726, 0, 0, 0.9615384615384616, 0.4950980392156836, 0.48076923076922995)" class="Icon"/>
       <text id="e3cc0-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(50.5,16.5)">
         <tspan x="0" y="0">9CDHRA</tspan>
       </text>
     </a>
-    <a id="ebba6" class="SingleFreeNode DataNode Wikidata_Q120868227 Metabolite" color="#0000ff" name="9CDHRA-ES" transform="translate(666.9999999999998,311.07142857142827)" xlink:href="https://tools.wmflabs.org/scholia/Q120868227" target="_blank">
+    <a id="ebba6" class="SingleFreeNode DataNode Wikidata_Q120868227 Metabolite CompactIdentifier_wikidata_Q120868227" color="#0000ff" name="9CDHRA-ES" transform="translate(666.9999999999998,311.07142857142827)" xlink:href="https://bioregistry.io/wikidata:Q120868227" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="25px" id="ebba6-icon" width="101px" x="0" y="0" transform="matrix(0.9901960784313726, 0, 0, 0.9615384615384616, 0.4950980392156836, 0.48076923076922995)" class="Icon"/>
       <text id="ebba6-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(50.5,16.5)">
         <tspan x="0" y="0">9CDHRA-ES</tspan>
@@ -637,13 +637,13 @@
         <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="c5bed-path" d="M290.74999999999966,455.0714285714282L290.2619047619049,502.0714285714281" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
       </g>
     </g>
-    <a id="dbf2b" class="SingleFreeNode DataNode PubChem-compound_444795 Metabolite ChEBI_CHEBI_15367 ChEBI_15367 P683_CHEBI_15367 P683_15367 HMDB_HMDB0001852 HMDB_HMDB01852 P2057_HMDB0001852 P2057_HMDB01852 Wikidata_Q29417" color="#0000ff" name="ATRA" transform="translate(239.76190476190482,311.0714285714282)" xlink:href="https://tools.wmflabs.org/scholia/Q29417" target="_blank">
+    <a id="dbf2b" class="SingleFreeNode DataNode PubChem-compound_444795 Metabolite CompactIdentifier_pubchem_compound_444795" color="#0000ff" name="ATRA" transform="translate(239.76190476190482,311.0714285714282)" xlink:href="https://bioregistry.io/pubchem_compound:444795" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="25px" id="dbf2b-icon" width="101px" x="0" y="0" transform="matrix(0.9901960784313726, 0, 0, 0.9615384615384616, 0.4950980392156836, 0.48076923076922995)" class="Icon"/>
       <text id="dbf2b-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(50.5,16.5)">
         <tspan x="0" y="0">ATRA</tspan>
       </text>
     </a>
-    <a id="a58df" class="SingleFreeNode DataNode PubChem-compound_638015 Metabolite ChEBI_CHEBI_17898 ChEBI_17898 P683_CHEBI_17898 P683_17898 HMDB_HMDB0001358 HMDB_HMDB01358 P2057_HMDB0001358 P2057_HMDB01358 Wikidata_Q28529715" color="#0000ff" name="ATRAL" transform="translate(364.7619047619049,311.0714285714282)" xlink:href="https://tools.wmflabs.org/scholia/Q28529715" target="_blank">
+    <a id="a58df" class="SingleFreeNode DataNode PubChem-compound_638015 Metabolite CompactIdentifier_pubchem_compound_638015" color="#0000ff" name="ATRAL" transform="translate(364.7619047619049,311.0714285714282)" xlink:href="https://bioregistry.io/pubchem_compound:638015" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="25px" id="a58df-icon" width="101px" x="0" y="0" transform="matrix(0.9901960784313726, 0, 0, 0.9615384615384616, 0.4950980392156836, 0.48076923076922995)" class="Icon"/>
       <text id="a58df-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(50.5,16.5)">
         <tspan x="0" y="0">ATRAL</tspan>
@@ -659,13 +659,13 @@
         <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="e1461-path" d="M447.0357142857142,166.07142857142836L415.2619047619049,311.0714285714282" marker-end="url(#markerEndMimConversion)" class="EdgeBody"/>
       </g>
     </g>
-    <a id="f7eea" class="SingleFreeNode DataNode PubChem-compound_445354 Metabolite ChEBI_CHEBI_17336 ChEBI_17336 P683_CHEBI_17336 P683_17336 HMDB_HMDB00305 HMDB_HMDB0000305 P2057_HMDB00305 P2057_HMDB0000305 Wikidata_Q424976" color="#0000ff" name="ATROL" transform="translate(169.99999999999991,221.07142857142827)" xlink:href="https://tools.wmflabs.org/scholia/Q424976" target="_blank">
+    <a id="f7eea" class="SingleFreeNode DataNode PubChem-compound_445354 Metabolite CompactIdentifier_pubchem_compound_445354" color="#0000ff" name="ATROL" transform="translate(169.99999999999991,221.07142857142827)" xlink:href="https://bioregistry.io/pubchem_compound:445354" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="25px" id="f7eea-icon" width="90px" x="0" y="0" transform="matrix(0.989010989010989, 0, 0, 0.9615384615384616, 0.4945054945054892, 0.48076923076922995)" class="Icon"/>
       <text id="f7eea-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(45,16.5)">
         <tspan x="0" y="0">ATROL</tspan>
       </text>
     </a>
-    <a id="ef07e" class="SingleFreeNode DataNode Wikidata_Q120868257 Metabolite" color="#0000ff" name="ATROL-ES" transform="translate(169.99999999999991,141.07142857142836)" xlink:href="https://tools.wmflabs.org/scholia/Q120868257" target="_blank">
+    <a id="ef07e" class="SingleFreeNode DataNode Wikidata_Q120868257 Metabolite CompactIdentifier_wikidata_Q120868257" color="#0000ff" name="ATROL-ES" transform="translate(169.99999999999991,141.07142857142836)" xlink:href="https://bioregistry.io/wikidata:Q120868257" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="25px" id="ef07e-icon" width="90px" x="0" y="0" transform="matrix(0.989010989010989, 0, 0, 0.9615384615384616, 0.4945054945054892, 0.48076923076922995)" class="Icon"/>
       <text id="ef07e-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(45,16.5)">
         <tspan x="0" y="0">ATROL-ES</tspan>
@@ -719,19 +719,19 @@
     </g>
     <g id="fcb5c" class="Group GroupGroup" color="#808080" transform="translate(198,414.0714285714282)">
       <use fill="transparent" fill-opacity="0" stroke="#808080" stroke-dasharray="5,3" stroke-width="0" height="41px" id="fcb5c-icon" width="185.49999999999932px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
-      <a id="a654a" class="SingleFreeNode DataNode Entrez_Gene_5914 Protein Ensembl_ENSG00000131759 P594_ENSG00000131759 P351_5914 HGNC_RARA RARA P353_RARA Wikidata_Q18031040" color="#000000" name="RARa" transform="translate(8,8)" xlink:href="https://tools.wmflabs.org/scholia/Q18031040" target="_blank">
+      <a id="a654a" class="SingleFreeNode DataNode Entrez_Gene_5914 Protein CompactIdentifier_ncbigene_5914" color="#000000" name="RARa" transform="translate(8,8)" xlink:href="https://bioregistry.io/ncbigene:5914" target="_blank">
         <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="25px" id="a654a-icon" width="56.49999999999977px" x="0" y="0" transform="matrix(0.9826086956521738, 0, 0, 0.9615384615384616, 0.49130434782608745, 0.48076923076922995)" class="Icon"/>
         <text id="a654a-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(28.249999999999886,16.5)">
           <tspan x="0" y="0">RARa</tspan>
         </text>
       </a>
-      <a id="e3892" class="SingleFreeNode DataNode Entrez_Gene_5915 Protein Ensembl_ENSG00000077092 P594_ENSG00000077092 P351_5915 HGNC_RARB RARB P353_RARB Wikidata_Q18031041" color="#000000" name="RARb" transform="translate(64.49999999999977,8)" xlink:href="https://tools.wmflabs.org/scholia/Q18031041" target="_blank">
+      <a id="e3892" class="SingleFreeNode DataNode Entrez_Gene_5915 Protein CompactIdentifier_ncbigene_5915" color="#000000" name="RARb" transform="translate(64.49999999999977,8)" xlink:href="https://bioregistry.io/ncbigene:5915" target="_blank">
         <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="25px" id="e3892-icon" width="56.49999999999977px" x="0" y="0" transform="matrix(0.9826086956521738, 0, 0, 0.9615384615384616, 0.49130434782608745, 0.48076923076922995)" class="Icon"/>
         <text id="e3892-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(28.249999999999886,16.5)">
           <tspan x="0" y="0">RARb</tspan>
         </text>
       </a>
-      <a id="a2423" class="SingleFreeNode DataNode Entrez_Gene_5916 Protein Ensembl_ENSG00000172819 P594_ENSG00000172819 P351_5916 HGNC_RARG RARG P353_RARG Wikidata_Q18031042" color="#000000" name="RARg" transform="translate(120.99999999999955,8)" xlink:href="https://tools.wmflabs.org/scholia/Q18031042" target="_blank">
+      <a id="a2423" class="SingleFreeNode DataNode Entrez_Gene_5916 Protein CompactIdentifier_ncbigene_5916" color="#000000" name="RARg" transform="translate(120.99999999999955,8)" xlink:href="https://bioregistry.io/ncbigene:5916" target="_blank">
         <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="25px" id="a2423-icon" width="56.49999999999977px" x="0" y="0" transform="matrix(0.9826086956521738, 0, 0, 0.9615384615384616, 0.49130434782608745, 0.48076923076922995)" class="Icon"/>
         <text id="a2423-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(28.249999999999886,16.5)">
           <tspan x="0" y="0">RARg</tspan>
