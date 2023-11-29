@@ -569,13 +569,7 @@
         "SingleFreeNode",
         "Entrez Gene:4846",
         "GeneProduct",
-        "Ensembl:ENSG00000164867",
-        "P594:ENSG00000164867",
-        "P351:4846",
-        "HGNC:NOS3",
-        "NOS3",
-        "P353:NOS3",
-        "Wikidata:Q15328584"
+        "CompactIdentifier:ncbigene:4846"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -680,13 +674,7 @@
         "SingleFreeNode",
         "Entrez Gene:186",
         "GeneProduct",
-        "Ensembl:ENSG00000180772",
-        "P594:ENSG00000180772",
-        "P351:186",
-        "HGNC:AGTR2",
-        "AGTR2",
-        "P353:AGTR2",
-        "Wikidata:Q17816212"
+        "CompactIdentifier:ncbigene:186"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -723,11 +711,7 @@
         "SingleFreeNode",
         "KEGG Compound:C15852",
         "Metabolite",
-        "ChEBI:80129",
-        "ChEBI:CHEBI:80129",
-        "P683:80129",
-        "P683:CHEBI:80129",
-        "Wikidata:Q58310855"
+        "CompactIdentifier:kegg.compound:C15852"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -820,13 +804,7 @@
         "SingleFreeNode",
         "Entrez Gene:623",
         "GeneProduct",
-        "Ensembl:ENSG00000100739",
-        "P594:ENSG00000100739",
-        "P351:623",
-        "HGNC:BDKRB1",
-        "BDKRB1",
-        "P353:BDKRB1",
-        "Wikidata:Q18016454"
+        "CompactIdentifier:ncbigene:623"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -897,13 +875,7 @@
         "SingleFreeNode",
         "Entrez Gene:185",
         "GeneProduct",
-        "Ensembl:ENSG00000144891",
-        "P594:ENSG00000144891",
-        "P351:185",
-        "HGNC:AGTR1",
-        "AGTR1",
-        "P353:AGTR1",
-        "Wikidata:Q15332826"
+        "CompactIdentifier:ncbigene:185"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -968,14 +940,7 @@
         "SingleFreeNode",
         "HMDB:HMDB0000037",
         "Metabolite",
-        "ChEBI:27584",
-        "ChEBI:CHEBI:27584",
-        "P683:27584",
-        "P683:CHEBI:27584",
-        "HMDB:HMDB00037",
-        "P2057:HMDB0000037",
-        "P2057:HMDB00037",
-        "Wikidata:Q184564"
+        "CompactIdentifier:hmdb:HMDB0000037"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1072,13 +1037,7 @@
         "SingleFreeNode",
         "Entrez Gene:7040",
         "GeneProduct",
-        "Ensembl:ENSG00000105329",
-        "P594:ENSG00000105329",
-        "P351:7040",
-        "HGNC:TGFB1",
-        "TGFB1",
-        "P353:TGFB1",
-        "Wikidata:Q14904613"
+        "CompactIdentifier:ncbigene:7040"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1410,14 +1369,7 @@
         "SingleFreeNode",
         "HMDB:HMDB0004246",
         "Metabolite",
-        "ChEBI:3165",
-        "ChEBI:CHEBI:3165",
-        "P683:3165",
-        "P683:CHEBI:3165",
-        "HMDB:HMDB04246",
-        "P2057:HMDB04246",
-        "P2057:HMDB0004246",
-        "Wikidata:Q24745328"
+        "CompactIdentifier:hmdb:HMDB0004246"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1518,13 +1470,7 @@
         "SingleFreeNode",
         "Entrez Gene:1511",
         "GeneProduct",
-        "Ensembl:ENSG00000100448",
-        "P594:ENSG00000100448",
-        "P351:1511",
-        "HGNC:CTSG",
-        "CTSG",
-        "P353:CTSG",
-        "Wikidata:Q14906548"
+        "CompactIdentifier:ncbigene:1511"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1561,14 +1507,7 @@
         "SingleFreeNode",
         "HMDB:HMDB0001035",
         "Metabolite",
-        "ChEBI:2719",
-        "ChEBI:CHEBI:2719",
-        "P683:2719",
-        "P683:CHEBI:2719",
-        "HMDB:HMDB01035",
-        "P2057:HMDB0001035",
-        "P2057:HMDB01035",
-        "Wikidata:Q412999"
+        "CompactIdentifier:hmdb:HMDB0001035"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1670,13 +1609,7 @@
         "SingleFreeNode",
         "Entrez Gene:3827",
         "GeneProduct",
-        "Ensembl:ENSG00000113889",
-        "P594:ENSG00000113889",
-        "P351:3827",
-        "HGNC:KNG1",
-        "KNG1",
-        "P353:KNG1",
-        "Wikidata:Q18028318"
+        "CompactIdentifier:ncbigene:3827"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1714,13 +1647,7 @@
         "SingleFreeNode",
         "Entrez Gene:1636",
         "GeneProduct",
-        "Ensembl:ENSG00000159640",
-        "P594:ENSG00000159640",
-        "P351:1636",
-        "HGNC:ACE",
-        "ACE",
-        "P353:ACE",
-        "Wikidata:Q14863991"
+        "CompactIdentifier:ncbigene:1636"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1850,14 +1777,7 @@
         "SingleFreeNode",
         "HMDB:HMDB0000464",
         "Metabolite",
-        "ChEBI:29108",
-        "ChEBI:CHEBI:29108",
-        "P683:29108",
-        "P683:CHEBI:29108",
-        "HMDB:HMDB00464",
-        "P2057:HMDB0000464",
-        "P2057:HMDB00464",
-        "Wikidata:Q23905776"
+        "CompactIdentifier:hmdb:HMDB0000464"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -2044,15 +1964,7 @@
         "SingleFreeNode",
         "PubChem-compound:3081372",
         "Metabolite",
-        "ChEBI:2718",
-        "ChEBI:CHEBI:2718",
-        "P683:2718",
-        "P683:CHEBI:2718",
-        "HMDB:HMDB61196",
-        "HMDB:HMDB0061196",
-        "P2057:HMDB61196",
-        "P2057:HMDB0061196",
-        "Wikidata:Q539799"
+        "CompactIdentifier:pubchem.compound:3081372"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -2082,7 +1994,7 @@
       "stroke": "#000000",
       "strokeWidth": 1,
       "textAlign": "center",
-      "textContent": "ACE",
+      "textContent": "NEW ACE!",
       "textDecoration": "none",
       "textOverflow": "clip",
       "type": [
@@ -2090,13 +2002,7 @@
         "SingleFreeNode",
         "Entrez Gene:1636",
         "GeneProduct",
-        "Ensembl:ENSG00000159640",
-        "P594:ENSG00000159640",
-        "P351:1636",
-        "HGNC:ACE",
-        "ACE",
-        "P353:ACE",
-        "Wikidata:Q14863991"
+        "CompactIdentifier:ncbigene:1636"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -2310,10 +2216,7 @@
         "SingleFreeNode",
         "ChEBI:CHEBI:35457",
         "Metabolite",
-        "ChEBI:35457",
-        "P683:35457",
-        "P683:CHEBI:35457",
-        "Wikidata:Q288280"
+        "CompactIdentifier:chebi:35457"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -2400,14 +2303,7 @@
         "SingleFreeNode",
         "HMDB:HMDB0000016",
         "Metabolite",
-        "ChEBI:16973",
-        "ChEBI:CHEBI:16973",
-        "P683:16973",
-        "P683:CHEBI:16973",
-        "HMDB:HMDB00016",
-        "P2057:HMDB0000016",
-        "P2057:HMDB00016",
-        "Wikidata:Q948846"
+        "CompactIdentifier:hmdb:HMDB0000016"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -2503,13 +2399,7 @@
         "SingleFreeNode",
         "Entrez Gene:1215",
         "GeneProduct",
-        "Ensembl:ENSG00000092009",
-        "P594:ENSG00000092009",
-        "P351:1215",
-        "HGNC:CMA1",
-        "CMA1",
-        "P353:CMA1",
-        "Wikidata:Q17907800"
+        "CompactIdentifier:ncbigene:1215"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -2571,11 +2461,7 @@
         "SingleFreeNode",
         "Chemspider:110354",
         "Metabolite",
-        "ChEBI:55438",
-        "ChEBI:CHEBI:55438",
-        "P683:55438",
-        "P683:CHEBI:55438",
-        "Wikidata:Q27074464"
+        "CompactIdentifier:chemspider:110354"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -2612,7 +2498,7 @@
         "SingleFreeNode",
         "PubChem-compound:114805",
         "Metabolite",
-        "Wikidata:Q26998032"
+        "CompactIdentifier:pubchem.compound:114805"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -2650,13 +2536,7 @@
         "SingleFreeNode",
         "Entrez Gene:59272",
         "GeneProduct",
-        "Ensembl:ENSG00000130234",
-        "P594:ENSG00000130234",
-        "P351:59272",
-        "HGNC:ACE2",
-        "ACE2",
-        "P353:ACE2",
-        "Wikidata:Q14875321"
+        "CompactIdentifier:ncbigene:59272"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -2694,13 +2574,7 @@
         "SingleFreeNode",
         "Entrez Gene:5972",
         "GeneProduct",
-        "Ensembl:ENSG00000143839",
-        "P594:ENSG00000143839",
-        "P351:5972",
-        "HGNC:REN",
-        "REN",
-        "P353:REN",
-        "Wikidata:Q14859578"
+        "CompactIdentifier:ncbigene:5972"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -2863,13 +2737,7 @@
         "SingleFreeNode",
         "Entrez Gene:1585",
         "GeneProduct",
-        "Ensembl:ENSG00000179142",
-        "P594:ENSG00000179142",
-        "P351:1585",
-        "HGNC:CYP11B2",
-        "CYP11B2",
-        "P353:CYP11B2",
-        "Wikidata:Q14904983"
+        "CompactIdentifier:ncbigene:1585"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -2999,13 +2867,7 @@
         "SingleFreeNode",
         "Entrez Gene:4142",
         "GeneProduct",
-        "Ensembl:ENSG00000130368",
-        "P594:ENSG00000130368",
-        "P351:4142",
-        "HGNC:MAS1",
-        "MAS1",
-        "P353:MAS1",
-        "Wikidata:Q15331314"
+        "CompactIdentifier:ncbigene:4142"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -3105,13 +2967,7 @@
         "SingleFreeNode",
         "Entrez Gene:59272",
         "GeneProduct",
-        "Ensembl:ENSG00000130234",
-        "P594:ENSG00000130234",
-        "P351:59272",
-        "HGNC:ACE2",
-        "ACE2",
-        "P353:ACE2",
-        "Wikidata:Q14875321"
+        "CompactIdentifier:ncbigene:59272"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -3149,13 +3005,7 @@
         "SingleFreeNode",
         "Entrez Gene:183",
         "GeneProduct",
-        "Ensembl:ENSG00000135744",
-        "P594:ENSG00000135744",
-        "P351:183",
-        "HGNC:AGT",
-        "AGT",
-        "P353:AGT",
-        "Wikidata:Q14859647"
+        "CompactIdentifier:ncbigene:183"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -3321,13 +3171,7 @@
         "SingleFreeNode",
         "Entrez Gene:4306",
         "GeneProduct",
-        "Ensembl:ENSG00000151623",
-        "P594:ENSG00000151623",
-        "P351:4306",
-        "HGNC:NR3C2",
-        "NR3C2",
-        "P353:NR3C2",
-        "Wikidata:Q14904506"
+        "CompactIdentifier:ncbigene:4306"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -3392,13 +3236,7 @@
         "SingleFreeNode",
         "Entrez Gene:10159",
         "GeneProduct",
-        "Ensembl:ENSG00000182220",
-        "P594:ENSG00000182220",
-        "P351:10159",
-        "HGNC:ATP6AP2",
-        "ATP6AP2",
-        "P353:ATP6AP2",
-        "Wikidata:Q18035081"
+        "CompactIdentifier:ncbigene:10159"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -3503,13 +3341,7 @@
         "SingleFreeNode",
         "Entrez Gene:1636",
         "GeneProduct",
-        "Ensembl:ENSG00000159640",
-        "P594:ENSG00000159640",
-        "P351:1636",
-        "HGNC:ACE",
-        "ACE",
-        "P353:ACE",
-        "Wikidata:Q14863991"
+        "CompactIdentifier:ncbigene:1636"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -3784,13 +3616,7 @@
         "SingleFreeNode",
         "Entrez Gene:624",
         "GeneProduct",
-        "Ensembl:ENSG00000168398",
-        "P594:ENSG00000168398",
-        "P351:624",
-        "HGNC:BDKRB2",
-        "BDKRB2",
-        "P353:BDKRB2",
-        "Wikidata:Q4955260"
+        "CompactIdentifier:ncbigene:624"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -4044,11 +3870,7 @@
         "SingleFreeNode",
         "KEGG Compound:C15851",
         "Metabolite",
-        "ChEBI:CHEBI:80128",
-        "ChEBI:80128",
-        "P683:CHEBI:80128",
-        "P683:80128",
-        "Wikidata:Q58310864"
+        "CompactIdentifier:kegg.compound:C15851"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -4377,7 +4199,7 @@
     "author": "[C.F.Thorn, MaintBot, Jinwook, Khanspers, AlexanderPico, Thomas, MartijnVanIersel, Egonw, Christine Chichester, Nuno, DeSl, Mkutmon, Eweitz]",
     "comments": [
       {
-        "content": "The core of this pathway was elucidated over a century ago and involves the conversion of angiotensinogen to angiotensin I (Ang I) by renin, its subsequent conversion to angiotensin II (Ang II) by angiotensin converting enzyme. Ang II activates the angiotensin II receptor type 1 to induce aldosterone synthesis, increasing water and salt resorption and potassium excretion in the kidney and increasing blood pressure.\r\n\r\nSource: PharmGKB (https://www.pharmgkb.org/pathway/PA2023)\r\n\r\nProteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP554 CPTAC Assay Portal]",
+        "content": "The core of this pathway was elucidated over a century ago and involves the conversion of angiotensinogen to angiotensin I (Ang I) by renin, its subsequent conversion to angiotensin II (Ang II) by angiotensin converting enzyme. Ang II activates the angiotensin II receptor type 1 to induce aldosterone synthesis, increasing water and salt resorption and potassium excretion in the kidney and increasing blood pressure.\r\n\r\nProteins on this pathway have targeted assays available via the",
         "source": "WikiPathways-description"
       }
     ],
