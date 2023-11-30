@@ -395,8 +395,18 @@ layout: default
   {% endfor %}
 </ol>
 
+<p id="watermark"></p>
+
 <!-- JAVASCRIPT -->
 <script> 
+var textWatermark = ' draft in review';
+var fullTextWatermark = '';
+var n = 1000;
+for (var i = 0; i < n; i++) {
+ fullTextWatermark+= '  ' + textWatermark;
+}
+document.getElementById('watermark').innerHTML = fullTextWatermark;
+
   var trs = $("#participants-table tr");
   const btnMore = $("#tableMore");
   const btnLess = $("#tableLess");
