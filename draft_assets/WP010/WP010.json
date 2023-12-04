@@ -26,7 +26,17 @@
         "SingleFreeNode",
         "Entrez Gene:5916",
         "Protein",
-        "CompactIdentifier:ncbigene:5916"
+        "CompactIdentifier:ncbigene:5916",
+        "RARg",
+        "Ensembl:ENSG00000172819",
+        "Entrez Gene:5916",
+        "HGNC:RARG",
+        "UniProt:P13631",
+        "UniProt:H3BMK1",
+        "UniProt:F1D8P1",
+        "UniProt:A8K3H3",
+        "UniProt:H3BMH6",
+        "UniProt:H3BMY6"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -68,7 +78,12 @@
         "SingleFreeNode",
         "PubChem-compound:638015",
         "Metabolite",
-        "CompactIdentifier:pubchem.compound:638015"
+        "CompactIdentifier:pubchem.compound:638015",
+        "ATRAL",
+        "Wikidata:Q28529715",
+        "ChEBI:17898",
+        "ChEBI:17898",
+        "InChI:NCYCYZXNIZJOKI-OVSJKPMPSA-N"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -106,7 +121,17 @@
         "SingleFreeNode",
         "Entrez Gene:5914",
         "Protein",
-        "CompactIdentifier:ncbigene:5914"
+        "CompactIdentifier:ncbigene:5914",
+        "RARa",
+        "Ensembl:ENSG00000131759",
+        "Entrez Gene:5914",
+        "HGNC:RARA",
+        "UniProt:J3QRM2",
+        "UniProt:A8MUP8",
+        "UniProt:F1D8N9",
+        "UniProt:J3KSJ4",
+        "UniProt:P10276",
+        "UniProt:Q6I9R7"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -457,7 +482,12 @@
         "SingleFreeNode",
         "Wikidata:Q306135",
         "Metabolite",
-        "CompactIdentifier:wikidata:Q306135"
+        "CompactIdentifier:wikidata:Q306135",
+        "ATBC",
+        "Wikidata:Q306135",
+        "ChEBI:17579",
+        "ChEBI:17579",
+        "InChI:OENHQHLEOONYIE-JLTXGRSLSA-N"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -676,7 +706,15 @@
         "SingleFreeNode",
         "Entrez Gene:6257",
         "Protein",
-        "CompactIdentifier:ncbigene:6257"
+        "CompactIdentifier:ncbigene:6257",
+        "RXRb",
+        "Ensembl:ENSG00000204231",
+        "Entrez Gene:6257",
+        "HGNC:RXRB",
+        "UniProt:Q5STP9",
+        "UniProt:P28702",
+        "UniProt:E9PK75",
+        "UniProt:A0A0S2Z570"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -713,7 +751,8 @@
         "SingleFreeNode",
         "Wikidata:Q120868409",
         "Metabolite",
-        "CompactIdentifier:wikidata:Q120868409"
+        "CompactIdentifier:wikidata:Q120868409",
+        "9CDHBC"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -921,7 +960,12 @@
         "SingleFreeNode",
         "PubChem-compound:444795",
         "Metabolite",
-        "CompactIdentifier:pubchem.compound:444795"
+        "CompactIdentifier:pubchem.compound:444795",
+        "ATRA",
+        "Wikidata:Q29417",
+        "ChEBI:15367",
+        "ChEBI:15367",
+        "InChI:SHGAZHPCJJPHSC-YCNIQYBTSA-N"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -958,7 +1002,8 @@
         "SingleFreeNode",
         "Wikidata:Q120868469",
         "Metabolite",
-        "CompactIdentifier:wikidata:Q120868469"
+        "CompactIdentifier:wikidata:Q120868469",
+        "9CDHROL"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1115,8 +1160,7 @@
         "DataNode",
         "SingleFreeNode",
         "WikiPathways:WP716",
-        "Pathway",
-        "CompactIdentifier:undefined"
+        "Pathway"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1154,7 +1198,15 @@
         "SingleFreeNode",
         "Entrez Gene:5915",
         "Protein",
-        "CompactIdentifier:ncbigene:5915"
+        "CompactIdentifier:ncbigene:5915",
+        "RARb",
+        "Ensembl:ENSG00000077092",
+        "Entrez Gene:5915",
+        "HGNC:RARB",
+        "UniProt:D6RBI3",
+        "UniProt:P10826",
+        "UniProt:F1D8S6",
+        "UniProt:Q5QHG3"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1202,7 +1254,8 @@
         "SingleFreeNode",
         "Wikidata:Q120868444",
         "Metabolite",
-        "CompactIdentifier:wikidata:Q120868444"
+        "CompactIdentifier:wikidata:Q120868444",
+        "9CDHRA"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1307,7 +1360,15 @@
         "SingleFreeNode",
         "Entrez Gene:6256",
         "Protein",
-        "CompactIdentifier:ncbigene:6256"
+        "CompactIdentifier:ncbigene:6256",
+        "RXRa",
+        "Ensembl:ENSG00000186350",
+        "Entrez Gene:6256",
+        "HGNC:RXRA",
+        "UniProt:A0A5F9ZHH6",
+        "UniProt:F1D8Q5",
+        "UniProt:P19793",
+        "UniProt:A0A3B3IS44"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1345,7 +1406,14 @@
         "SingleFreeNode",
         "Entrez Gene:6258",
         "Protein",
-        "CompactIdentifier:ncbigene:6258"
+        "CompactIdentifier:ncbigene:6258",
+        "RXRc",
+        "Ensembl:ENSG00000143171",
+        "Entrez Gene:6258",
+        "HGNC:RXRG",
+        "UniProt:P48443",
+        "UniProt:F1D8Q7",
+        "UniProt:A0A087WZ88"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1505,7 +1573,8 @@
         "SingleFreeNode",
         "Wikidata:Q120868227",
         "Metabolite",
-        "CompactIdentifier:wikidata:Q120868227"
+        "CompactIdentifier:wikidata:Q120868227",
+        "9CDHRA-ES"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1545,7 +1614,8 @@
         "SingleFreeNode",
         "Wikidata:Q120868159",
         "Metabolite",
-        "CompactIdentifier:wikidata:Q120868159"
+        "CompactIdentifier:wikidata:Q120868159",
+        "9CDHROL-ES"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1615,7 +1685,12 @@
         "SingleFreeNode",
         "Wikidata:Q27135678",
         "Metabolite",
-        "CompactIdentifier:wikidata:Q27135678"
+        "CompactIdentifier:wikidata:Q27135678",
+        "9CBC",
+        "Wikidata:Q27135678",
+        "ChEBI:67188",
+        "ChEBI:67188",
+        "InChI:OENHQHLEOONYIE-BVZAMQQESA-N"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1693,7 +1768,8 @@
         "SingleFreeNode",
         "Wikidata:Q120868257",
         "Metabolite",
-        "CompactIdentifier:wikidata:Q120868257"
+        "CompactIdentifier:wikidata:Q120868257",
+        "ATROL-ES"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1858,7 +1934,12 @@
         "SingleFreeNode",
         "PubChem-compound:445354",
         "Metabolite",
-        "CompactIdentifier:pubchem.compound:445354"
+        "CompactIdentifier:pubchem.compound:445354",
+        "ATROL",
+        "Wikidata:Q424976",
+        "ChEBI:17336",
+        "ChEBI:17336",
+        "InChI:FPIPGXGPPPQFEQ-OVSJKPMPSA-N"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
