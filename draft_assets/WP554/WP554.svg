@@ -721,37 +721,37 @@
         <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="a6f8b-path" d="M717,329L681.5,378" marker-end="url(#markerEndMimBinding)" class="EdgeBody"/>
       </g>
     </g>
-    <a id="e14ac" class="SingleFreeNode DataNode Entrez_Gene_1585 GeneProduct CompactIdentifier_ncbigene_1585" color="#000000" name="CYP11B2" transform="translate(460,469)" xlink:href="https://bioregistry.io/ncbigene:1585" target="_blank">
+    <a id="e14ac" class="SingleFreeNode DataNode Entrez_Gene_1585 GeneProduct CompactIdentifier_ncbigene_1585 CYP11B2 Ensembl_ENSG00000179142 HGNC_CYP11B2 UniProt_P19099" color="#000000" name="CYP11B2" transform="translate(460,469)" xlink:href="https://bioregistry.io/ncbigene:1585" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="e14ac-icon" width="62px" x="0" y="0" transform="matrix(0.9841269841269841, 0, 0, 0.9523809523809523, 0.49206349206349387, 0.4761904761904763)" class="Icon"/>
       <text id="e14ac-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(31,13)">
         <tspan x="0" y="0">CYP11B2</tspan>
       </text>
     </a>
-    <a id="e68e0" class="SingleFreeNode DataNode Entrez_Gene_59272 GeneProduct CompactIdentifier_ncbigene_59272" color="#000000" name="ACE2" transform="translate(252.5,158)" xlink:href="https://bioregistry.io/ncbigene:59272" target="_blank">
+    <a id="e68e0" class="SingleFreeNode DataNode Entrez_Gene_59272 GeneProduct CompactIdentifier_ncbigene_59272 ACE2 Ensembl_ENSG00000130234 HGNC_ACE2 UniProt_A0A7I2V3X6 UniProt_A0A7I2V5W5 UniProt_A0A7I2V2E9 UniProt_Q9BYF1 UniProt_A0A7I2V3N4 UniProt_A0A7I2V4H0" color="#000000" name="ACE2" transform="translate(252.5,158)" xlink:href="https://bioregistry.io/ncbigene:59272" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="e68e0-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
       <text id="e68e0-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
         <tspan x="0" y="0">ACE2</tspan>
       </text>
     </a>
-    <a id="becdd" class="SingleFreeNode DataNode Entrez_Gene_7040 GeneProduct CompactIdentifier_ncbigene_7040" color="#000000" name="TGFB1" transform="translate(163,471)" xlink:href="https://bioregistry.io/ncbigene:7040" target="_blank">
+    <a id="becdd" class="SingleFreeNode DataNode Entrez_Gene_7040 GeneProduct CompactIdentifier_ncbigene_7040 TGFB1 Ensembl_ENSG00000105329 HGNC_TGFB1 UniProt_A0A7I2V5Z9 UniProt_A0A499FJK2 UniProt_A0A7I2YQL8" color="#000000" name="TGFB1" transform="translate(163,471)" xlink:href="https://bioregistry.io/ncbigene:7040" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="becdd-icon" width="59px" x="0" y="0" transform="matrix(0.9833333333333333, 0, 0, 0.9523809523809523, 0.49166666666666714, 0.4761904761904763)" class="Icon"/>
       <text id="becdd-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(29.5,13)">
         <tspan x="0" y="0">TGFB1</tspan>
       </text>
     </a>
-    <a id="d6f1e" class="SingleFreeNode DataNode Entrez_Gene_1636 GeneProduct CompactIdentifier_ncbigene_1636" color="#000000" name="NEW ACE!" transform="translate(622.3333333333333,273.66666666666663)" xlink:href="https://bioregistry.io/ncbigene:1636" target="_blank">
+    <a id="d6f1e" class="SingleFreeNode DataNode Entrez_Gene_1636 GeneProduct CompactIdentifier_ncbigene_1636 NEW_ACE_ Ensembl_ENSG00000159640 HGNC_ACE UniProt_J3QSC7 UniProt_P12821 UniProt_J3KRH5 UniProt_J3KTH9 UniProt_J3QLR4 UniProt_J3KTB8 UniProt_J3KS28 UniProt_A0A0A0MSN4 UniProt_J3KSQ5" color="#000000" name="NEW ACE!" transform="translate(622.3333333333333,273.66666666666663)" xlink:href="https://bioregistry.io/ncbigene:1636" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="d6f1e-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
       <text id="d6f1e-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
         <tspan x="0" y="0">NEW ACE!</tspan>
       </text>
     </a>
-    <a id="ab119" class="SingleFreeNode DataNode Entrez_Gene_4846 GeneProduct CompactIdentifier_ncbigene_4846" color="#000000" name="NOS3" transform="translate(729,502.33333333333326)" xlink:href="https://bioregistry.io/ncbigene:4846" target="_blank">
+    <a id="ab119" class="SingleFreeNode DataNode Entrez_Gene_4846 GeneProduct CompactIdentifier_ncbigene_4846 NOS3 Ensembl_ENSG00000164867 HGNC_NOS3 UniProt_P29474 UniProt_H7C4V4 UniProt_E7ESA7" color="#000000" name="NOS3" transform="translate(729,502.33333333333326)" xlink:href="https://bioregistry.io/ncbigene:4846" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="ab119-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
       <text id="ab119-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
         <tspan x="0" y="0">NOS3</tspan>
       </text>
     </a>
-    <a id="b1122" class="SingleFreeNode DataNode Entrez_Gene_186 GeneProduct CompactIdentifier_ncbigene_186" color="#000000" name="AGTR2" transform="translate(321.3333333333333,380.3333333333333)" xlink:href="https://bioregistry.io/ncbigene:186" target="_blank">
+    <a id="b1122" class="SingleFreeNode DataNode Entrez_Gene_186 GeneProduct CompactIdentifier_ncbigene_186 AGTR2 Ensembl_ENSG00000180772 HGNC_AGTR2 UniProt_P50052" color="#000000" name="AGTR2" transform="translate(321.3333333333333,380.3333333333333)" xlink:href="https://bioregistry.io/ncbigene:186" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="b1122-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
       <text id="b1122-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
         <tspan x="0" y="0">AGTR2</tspan>
@@ -763,133 +763,133 @@
         <tspan x="0" y="0">TFs</tspan>
       </text>
     </g>
-    <a id="ec3b5" class="SingleFreeNode DataNode Entrez_Gene_4306 GeneProduct CompactIdentifier_ncbigene_4306" color="#000000" name="NR3C2" transform="translate(536,578)" xlink:href="https://bioregistry.io/ncbigene:4306" target="_blank">
+    <a id="ec3b5" class="SingleFreeNode DataNode Entrez_Gene_4306 GeneProduct CompactIdentifier_ncbigene_4306 NR3C2 Ensembl_ENSG00000151623 HGNC_NR3C2 UniProt_B0ZBF6 UniProt_B0ZBF8 UniProt_P08235" color="#000000" name="NR3C2" transform="translate(536,578)" xlink:href="https://bioregistry.io/ncbigene:4306" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="ec3b5-icon" width="55px" x="0" y="0" transform="matrix(0.9821428571428571, 0, 0, 0.9523809523809523, 0.4910714285714306, 0.4761904761904763)" class="Icon"/>
       <text id="ec3b5-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(27.5,13)">
         <tspan x="0" y="0">NR3C2</tspan>
       </text>
     </a>
-    <a id="cc0b4" class="SingleFreeNode DataNode Entrez_Gene_3827 GeneProduct CompactIdentifier_ncbigene_3827" color="#000000" name="KNG1" transform="translate(687.6666666666667,237.33333333333331)" xlink:href="https://bioregistry.io/ncbigene:3827" target="_blank">
+    <a id="cc0b4" class="SingleFreeNode DataNode Entrez_Gene_3827 GeneProduct CompactIdentifier_ncbigene_3827 KNG1 Ensembl_ENSG00000113889 HGNC_KNG1 UniProt_P01042" color="#000000" name="KNG1" transform="translate(687.6666666666667,237.33333333333331)" xlink:href="https://bioregistry.io/ncbigene:3827" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="cc0b4-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
       <text id="cc0b4-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
         <tspan x="0" y="0">KNG1</tspan>
       </text>
     </a>
-    <a id="c496e" class="SingleFreeNode DataNode HMDB_HMDB0004246 Metabolite CompactIdentifier_hmdb_HMDB0004246" color="#0000ff" name="Bradykinin" transform="translate(677,309)" xlink:href="https://bioregistry.io/hmdb:HMDB0004246" target="_blank">
+    <a id="c496e" class="SingleFreeNode DataNode HMDB_HMDB0004246 Metabolite CompactIdentifier_hmdb_HMDB0004246 Bradykinin ChEBI_3165 InChI_QXZGBUJJYSLZLT-FDISYFBBSA-N" color="#0000ff" name="Bradykinin" transform="translate(677,309)" xlink:href="https://bioregistry.io/hmdb:HMDB0004246" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="20px" id="c496e-icon" width="80px" x="0" y="0" transform="matrix(0.9876543209876543, 0, 0, 0.9523809523809523, 0.49382716049382935, 0.4761904761904763)" class="Icon"/>
       <text id="c496e-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(40,13)">
         <tspan x="0" y="0">Bradykinin</tspan>
       </text>
     </a>
-    <a id="e3012" class="SingleFreeNode DataNode Entrez_Gene_4142 GeneProduct CompactIdentifier_ncbigene_4142" color="#000000" name="MAS1" transform="translate(178,379)" xlink:href="https://bioregistry.io/ncbigene:4142" target="_blank">
+    <a id="e3012" class="SingleFreeNode DataNode Entrez_Gene_4142 GeneProduct CompactIdentifier_ncbigene_4142 MAS1 Ensembl_ENSG00000130368 HGNC_MAS1 UniProt_W8W3P4 UniProt_P04201" color="#000000" name="MAS1" transform="translate(178,379)" xlink:href="https://bioregistry.io/ncbigene:4142" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="e3012-icon" width="52px" x="0" y="0" transform="matrix(0.9811320754716981, 0, 0, 0.9523809523809523, 0.4905660377358494, 0.4761904761904763)" class="Icon"/>
       <text id="e3012-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(26,13)">
         <tspan x="0" y="0">MAS1</tspan>
       </text>
     </a>
-    <a id="e0a11" class="SingleFreeNode DataNode Entrez_Gene_5972 GeneProduct CompactIdentifier_ncbigene_5972" color="#000000" name="REN" transform="translate(296.74789915966375,108.94957983193277)" xlink:href="https://bioregistry.io/ncbigene:5972" target="_blank">
+    <a id="e0a11" class="SingleFreeNode DataNode Entrez_Gene_5972 GeneProduct CompactIdentifier_ncbigene_5972 REN Ensembl_ENSG00000143839 HGNC_REN UniProt_P00797 UniProt_A0A1B0GUZ2" color="#000000" name="REN" transform="translate(296.74789915966375,108.94957983193277)" xlink:href="https://bioregistry.io/ncbigene:5972" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="e0a11-icon" width="44.66666666666663px" x="0" y="0" transform="matrix(0.9781021897810219, 0, 0, 0.9523809523809523, 0.4890510948905096, 0.4761904761904763)" class="Icon"/>
       <text id="e0a11-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(22.333333333333314,13)">
         <tspan x="0" y="0">REN</tspan>
       </text>
     </a>
-    <a id="f54f5" class="SingleFreeNode DataNode Entrez_Gene_624 GeneProduct CompactIdentifier_ncbigene_624" color="#000000" name="BDKRB2" transform="translate(729.3333333333333,378)" xlink:href="https://bioregistry.io/ncbigene:624" target="_blank">
+    <a id="f54f5" class="SingleFreeNode DataNode Entrez_Gene_624 GeneProduct CompactIdentifier_ncbigene_624 BDKRB2 Ensembl_ENSG00000168398 HGNC_BDKRB2 UniProt_P30411" color="#000000" name="BDKRB2" transform="translate(729.3333333333333,378)" xlink:href="https://bioregistry.io/ncbigene:624" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="f54f5-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
       <text id="f54f5-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
         <tspan x="0" y="0">BDKRB2</tspan>
       </text>
     </a>
-    <a id="de1e4" class="SingleFreeNode DataNode Entrez_Gene_1215 GeneProduct CompactIdentifier_ncbigene_1215" color="#000000" name="CMA1" transform="translate(271,247)" xlink:href="https://bioregistry.io/ncbigene:1215" target="_blank">
+    <a id="de1e4" class="SingleFreeNode DataNode Entrez_Gene_1215 GeneProduct CompactIdentifier_ncbigene_1215 CMA1 Ensembl_ENSG00000092009 HGNC_CMA1 UniProt_P23946" color="#000000" name="CMA1" transform="translate(271,247)" xlink:href="https://bioregistry.io/ncbigene:1215" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="de1e4-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
       <text id="de1e4-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
         <tspan x="0" y="0">CMA1</tspan>
       </text>
     </a>
-    <a id="ef1f3" class="SingleFreeNode DataNode Entrez_Gene_1636 GeneProduct CompactIdentifier_ncbigene_1636" color="#000000" name="ACE" transform="translate(438,243.66666666666663)" xlink:href="https://bioregistry.io/ncbigene:1636" target="_blank">
+    <a id="ef1f3" class="SingleFreeNode DataNode Entrez_Gene_1636 GeneProduct CompactIdentifier_ncbigene_1636 ACE Ensembl_ENSG00000159640 HGNC_ACE UniProt_J3QSC7 UniProt_P12821 UniProt_J3KRH5 UniProt_J3KTH9 UniProt_J3QLR4 UniProt_J3KTB8 UniProt_J3KS28 UniProt_A0A0A0MSN4 UniProt_J3KSQ5" color="#000000" name="ACE" transform="translate(438,243.66666666666663)" xlink:href="https://bioregistry.io/ncbigene:1636" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="ef1f3-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
       <text id="ef1f3-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
         <tspan x="0" y="0">ACE</tspan>
       </text>
     </a>
-    <a id="c9ca8" class="SingleFreeNode DataNode Entrez_Gene_1511 GeneProduct CompactIdentifier_ncbigene_1511" color="#000000" name="CTSG" transform="translate(291.5,221)" xlink:href="https://bioregistry.io/ncbigene:1511" target="_blank">
+    <a id="c9ca8" class="SingleFreeNode DataNode Entrez_Gene_1511 GeneProduct CompactIdentifier_ncbigene_1511 CTSG Ensembl_ENSG00000100448 HGNC_CTSG UniProt_P08311" color="#000000" name="CTSG" transform="translate(291.5,221)" xlink:href="https://bioregistry.io/ncbigene:1511" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="c9ca8-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
       <text id="c9ca8-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
         <tspan x="0" y="0">CTSG</tspan>
       </text>
     </a>
-    <a id="b4349" class="SingleFreeNode DataNode Entrez_Gene_623 GeneProduct CompactIdentifier_ncbigene_623" color="#000000" name="BDKRB1" transform="translate(653,378)" xlink:href="https://bioregistry.io/ncbigene:623" target="_blank">
+    <a id="b4349" class="SingleFreeNode DataNode Entrez_Gene_623 GeneProduct CompactIdentifier_ncbigene_623 BDKRB1 Ensembl_ENSG00000100739 HGNC_BDKRB1 UniProt_G3V4Y2 UniProt_P46663" color="#000000" name="BDKRB1" transform="translate(653,378)" xlink:href="https://bioregistry.io/ncbigene:623" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="b4349-icon" width="57px" x="0" y="0" transform="matrix(0.9827586206896551, 0, 0, 0.9523809523809523, 0.4913793103448292, 0.4761904761904763)" class="Icon"/>
       <text id="b4349-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(28.5,13)">
         <tspan x="0" y="0">BDKRB1</tspan>
       </text>
     </a>
-    <a id="fbc8b" class="SingleFreeNode DataNode KEGG_Compound_C15851 Metabolite CompactIdentifier_kegg_compound_C15851" color="#0000ff" name="Ang 1-9" transform="translate(179,191)" xlink:href="https://bioregistry.io/kegg_compound:C15851" target="_blank">
+    <a id="fbc8b" class="SingleFreeNode DataNode KEGG_Compound_C15851 Metabolite CompactIdentifier_kegg_compound_C15851 Ang_1-9 Wikidata_Q58310864 ChEBI_80128 InChI_LJXGOQOPNPFXFT-JWRYNVNRSA-N" color="#0000ff" name="Ang 1-9" transform="translate(179,191)" xlink:href="https://bioregistry.io/kegg_compound:C15851" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="20px" id="fbc8b-icon" width="51px" x="0" y="0" transform="matrix(0.9807692307692307, 0, 0, 0.9523809523809523, 0.49038461538461675, 0.4761904761904763)" class="Icon"/>
       <text id="fbc8b-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(25.5,13)">
         <tspan x="0" y="0">Ang 1-9</tspan>
       </text>
     </a>
-    <a id="df262" class="SingleFreeNode DataNode Chemspider_110354 Metabolite CompactIdentifier_chemspider_110354" color="#0000ff" name="Ang 1-7" transform="translate(179,316)" xlink:href="https://bioregistry.io/chemspider:110354" target="_blank">
+    <a id="df262" class="SingleFreeNode DataNode Chemspider_110354 Metabolite CompactIdentifier_chemspider_110354 Ang_1-7 Wikidata_Q27074464 ChEBI_55438 InChI_PVHLMTREZMEJCG-GDTLVBQBSA-N" color="#0000ff" name="Ang 1-7" transform="translate(179,316)" xlink:href="https://bioregistry.io/chemspider:110354" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="20px" id="df262-icon" width="51px" x="0" y="0" transform="matrix(0.9807692307692307, 0, 0, 0.9523809523809523, 0.49038461538461675, 0.4761904761904763)" class="Icon"/>
       <text id="df262-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(25.5,13)">
         <tspan x="0" y="0">Ang 1-7</tspan>
       </text>
     </a>
-    <a id="ca3ad" class="SingleFreeNode DataNode HMDB_HMDB0001035 Metabolite CompactIdentifier_hmdb_HMDB0001035" color="#0000ff" name="Angiotensin II" transform="translate(343,316)" xlink:href="https://bioregistry.io/hmdb:HMDB0001035" target="_blank">
+    <a id="ca3ad" class="SingleFreeNode DataNode HMDB_HMDB0001035 Metabolite CompactIdentifier_hmdb_HMDB0001035 Angiotensin_II ChEBI_2719 InChI_CZGUSIXMZVURDU-JZXHSEFVSA-N" color="#0000ff" name="Angiotensin II" transform="translate(343,316)" xlink:href="https://bioregistry.io/hmdb:HMDB0001035" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="20px" id="ca3ad-icon" width="80px" x="0" y="0" transform="matrix(0.9876543209876543, 0, 0, 0.9523809523809523, 0.49382716049382935, 0.4761904761904763)" class="Icon"/>
       <text id="ca3ad-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(40,13)">
         <tspan x="0" y="0">Angiotensin II</tspan>
       </text>
     </a>
-    <a id="e89d5" class="SingleFreeNode DataNode Entrez_Gene_183 GeneProduct CompactIdentifier_ncbigene_183" color="#000000" name="AGT" transform="translate(352.66666666666663,78)" xlink:href="https://bioregistry.io/ncbigene:183" target="_blank">
+    <a id="e89d5" class="SingleFreeNode DataNode Entrez_Gene_183 GeneProduct CompactIdentifier_ncbigene_183 AGT Ensembl_ENSG00000135744 HGNC_AGT UniProt_A0A7P0TA52 UniProt_A0A7P0T9S6 UniProt_P01019 UniProt_A0A7P0TBH1 UniProt_A0A7P0T8D1 UniProt_A0A7P0TAP4 UniProt_A0A7P0Z441" color="#000000" name="AGT" transform="translate(352.66666666666663,78)" xlink:href="https://bioregistry.io/ncbigene:183" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="e89d5-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
       <text id="e89d5-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
         <tspan x="0" y="0">AGT</tspan>
       </text>
     </a>
-    <a id="d9620" class="SingleFreeNode DataNode ChEBI_CHEBI_35457 Metabolite CompactIdentifier_chebi_35457" color="#cc0000" name="ACE Inhibitor" transform="translate(422,30.666666666666657)" xlink:href="https://bioregistry.io/chebi:35457" target="_blank">
+    <a id="d9620" class="SingleFreeNode DataNode ChEBI_CHEBI_35457 Metabolite CompactIdentifier_chebi_35457 ACE_Inhibitor Wikidata_Q288280 ChEBI_35457" color="#cc0000" name="ACE Inhibitor" transform="translate(422,30.666666666666657)" xlink:href="https://bioregistry.io/chebi:35457" target="_blank">
       <rect fill="#ffffff" stroke="#cc0000" stroke-width="1" fill-opacity="1" height="20px" id="d9620-icon" width="91px" x="0" y="0" transform="matrix(0.9891304347826086, 0, 0, 0.9523809523809523, 0.49456521739130466, 0.4761904761904763)" class="Icon"/>
       <text id="d9620-text" class="Text" direction="ltr" fill="#cc0000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(45.5,13)">
         <tspan x="0" y="0">ACE Inhibitor</tspan>
       </text>
     </a>
-    <a id="da9ee" class="SingleFreeNode DataNode HMDB_HMDB0000016 Metabolite CompactIdentifier_hmdb_HMDB0000016" color="#0000ff" name="Deoxycorticosterone" transform="translate(351,519.75)" xlink:href="https://bioregistry.io/hmdb:HMDB0000016" target="_blank">
+    <a id="da9ee" class="SingleFreeNode DataNode HMDB_HMDB0000016 Metabolite CompactIdentifier_hmdb_HMDB0000016 Deoxycorticosterone ChEBI_16973 InChI_ZESRJSPZRDMNHY-YFWFAHHUSA-N" color="#0000ff" name="Deoxycorticosterone" transform="translate(351,519.75)" xlink:href="https://bioregistry.io/hmdb:HMDB0000016" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="20px" id="da9ee-icon" width="113.75px" x="0" y="0" transform="matrix(0.9912854030501089, 0, 0, 0.9523809523809523, 0.49564270152505685, 0.4761904761904763)" class="Icon"/>
       <text id="da9ee-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(56.875,13)">
         <tspan x="0" y="0">Deoxycorticosterone</tspan>
       </text>
     </a>
-    <a id="b75c3" class="SingleFreeNode DataNode HMDB_HMDB0000037 Metabolite CompactIdentifier_hmdb_HMDB0000037" color="#0000ff" name="Aldosterone" transform="translate(523,520)" xlink:href="https://bioregistry.io/hmdb:HMDB0000037" target="_blank">
+    <a id="b75c3" class="SingleFreeNode DataNode HMDB_HMDB0000037 Metabolite CompactIdentifier_hmdb_HMDB0000037 Aldosterone ChEBI_27584 InChI_PQSUYGKTWSAVDQ-ZVIOFETBSA-N" color="#0000ff" name="Aldosterone" transform="translate(523,520)" xlink:href="https://bioregistry.io/hmdb:HMDB0000037" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="20px" id="b75c3-icon" width="80px" x="0" y="0" transform="matrix(0.9876543209876543, 0, 0, 0.9523809523809523, 0.49382716049382935, 0.4761904761904763)" class="Icon"/>
       <text id="b75c3-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(40,13)">
         <tspan x="0" y="0">Aldosterone</tspan>
       </text>
     </a>
-    <a id="d6a08" class="SingleFreeNode DataNode PubChem-compound_3081372 Metabolite CompactIdentifier_pubchem_compound_3081372" color="#0000ff" name="Angiotensin I" transform="translate(342,191)" xlink:href="https://bioregistry.io/pubchem_compound:3081372" target="_blank">
+    <a id="d6a08" class="SingleFreeNode DataNode PubChem-compound_3081372 Metabolite CompactIdentifier_pubchem_compound_3081372 Angiotensin_I Wikidata_Q539799 ChEBI_2718 InChI_ORWYRWWVDCYOMK-HBZPZAIKSA-N" color="#0000ff" name="Angiotensin I" transform="translate(342,191)" xlink:href="https://bioregistry.io/pubchem_compound:3081372" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="20px" id="d6a08-icon" width="80px" x="0" y="0" transform="matrix(0.9876543209876543, 0, 0, 0.9523809523809523, 0.49382716049382935, 0.4761904761904763)" class="Icon"/>
       <text id="d6a08-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(40,13)">
         <tspan x="0" y="0">Angiotensin I</tspan>
       </text>
     </a>
-    <a id="b4811" class="SingleFreeNode DataNode Entrez_Gene_185 GeneProduct CompactIdentifier_ncbigene_185" color="#000000" name="AGTR1" transform="translate(398.3333333333333,380.3333333333333)" xlink:href="https://bioregistry.io/ncbigene:185" target="_blank">
+    <a id="b4811" class="SingleFreeNode DataNode Entrez_Gene_185 GeneProduct CompactIdentifier_ncbigene_185 AGTR1 Ensembl_ENSG00000144891 HGNC_AGTR1 UniProt_D3DNG8 UniProt_P30556 UniProt_A0A0A0MSE3 UniProt_Q53YY0" color="#000000" name="AGTR1" transform="translate(398.3333333333333,380.3333333333333)" xlink:href="https://bioregistry.io/ncbigene:185" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="b4811-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
       <text id="b4811-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
         <tspan x="0" y="0">AGTR1</tspan>
       </text>
     </a>
-    <a id="d519e" class="SingleFreeNode DataNode HMDB_HMDB0000464 Metabolite CompactIdentifier_hmdb_HMDB0000464" color="#0000ff" name="Ca++" transform="translate(355,415)" xlink:href="https://bioregistry.io/hmdb:HMDB0000464" target="_blank">
+    <a id="d519e" class="SingleFreeNode DataNode HMDB_HMDB0000464 Metabolite CompactIdentifier_hmdb_HMDB0000464 Ca__ ChEBI_29108 InChI_BHPQYMZQTOCNFJ-UHFFFAOYSA-N" color="#0000ff" name="Ca++" transform="translate(355,415)" xlink:href="https://bioregistry.io/hmdb:HMDB0000464" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="20px" id="d519e-icon" width="32px" x="0" y="0" transform="matrix(0.9696969696969697, 0, 0, 0.9523809523809523, 0.4848484848484844, 0.4761904761904763)" class="Icon"/>
       <text id="d519e-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(16,13)">
         <tspan x="0" y="0">Ca++</tspan>
       </text>
     </a>
-    <a id="e01c3" class="SingleFreeNode DataNode PubChem-compound_114805 Metabolite CompactIdentifier_pubchem_compound_114805" color="#0000ff" name="Prostacyclin" transform="translate(658,456)" xlink:href="https://bioregistry.io/pubchem_compound:114805" target="_blank">
+    <a id="e01c3" class="SingleFreeNode DataNode PubChem-compound_114805 Metabolite CompactIdentifier_pubchem_compound_114805 Prostacyclin Wikidata_Q26998032 InChI_KAQKFAOMNZTLHT-IJCBKZNRSA-N" color="#0000ff" name="Prostacyclin" transform="translate(658,456)" xlink:href="https://bioregistry.io/pubchem_compound:114805" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="20px" id="e01c3-icon" width="70px" x="0" y="0" transform="matrix(0.9859154929577465, 0, 0, 0.9523809523809523, 0.49295774647887214, 0.4761904761904763)" class="Icon"/>
       <text id="e01c3-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(35,13)">
         <tspan x="0" y="0">Prostacyclin</tspan>
       </text>
     </a>
-    <a id="ee619" class="SingleFreeNode DataNode Entrez_Gene_10159 GeneProduct CompactIdentifier_ncbigene_10159" color="#000000" name="ATP6AP2" transform="translate(46,379)" xlink:href="https://bioregistry.io/ncbigene:10159" target="_blank">
+    <a id="ee619" class="SingleFreeNode DataNode Entrez_Gene_10159 GeneProduct CompactIdentifier_ncbigene_10159 ATP6AP2 Ensembl_ENSG00000182220 HGNC_ATP6AP2 UniProt_A0A1B0GW13 UniProt_A0A1B0GUT7 UniProt_A0A1B0GV24 UniProt_A0A1B0GTU8 UniProt_B7Z413 UniProt_A0A1B0GU12 UniProt_A0A1B0GTB0 UniProt_O75787 UniProt_H7C240 UniProt_A0A1B0GVC7 UniProt_A0A1B0GWD6 UniProt_A0A1C7CYW4 UniProt_A0A1B0GTD6 UniProt_A0A1B0GVI9 UniProt_A0A1B0GWJ8 UniProt_A0A1B0GUV3 UniProt_B7Z1I9 UniProt_A0A1B0GV60 UniProt_A0A1B0GVW0 UniProt_H7C3E1 UniProt_A0A1B0GVB9 UniProt_A0A1B0GVZ1" color="#000000" name="ATP6AP2" transform="translate(46,379)" xlink:href="https://bioregistry.io/ncbigene:10159" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="ee619-icon" width="64px" x="0" y="0" transform="matrix(0.9846153846153847, 0, 0, 0.9523809523809523, 0.49230769230769056, 0.4761904761904763)" class="Icon"/>
       <text id="ee619-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(32,13)">
         <tspan x="0" y="0">ATP6AP2</tspan>
@@ -901,19 +901,19 @@
         <tspan x="0" y="0">TFs</tspan>
       </text>
     </g>
-    <a id="b298c" class="SingleFreeNode DataNode KEGG_Compound_C15852 Metabolite CompactIdentifier_kegg_compound_C15852" color="#0000ff" name="Ang 1-5" transform="translate(75,316)" xlink:href="https://bioregistry.io/kegg_compound:C15852" target="_blank">
+    <a id="b298c" class="SingleFreeNode DataNode KEGG_Compound_C15852 Metabolite CompactIdentifier_kegg_compound_C15852 Ang_1-5 Wikidata_Q58310855 ChEBI_80129 InChI_UVPBVMCAVNABKX-GXYVSGTKSA-N" color="#0000ff" name="Ang 1-5" transform="translate(75,316)" xlink:href="https://bioregistry.io/kegg_compound:C15852" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="20px" id="b298c-icon" width="54px" x="0" y="0" transform="matrix(0.9818181818181818, 0, 0, 0.9523809523809523, 0.49090909090909207, 0.4761904761904763)" class="Icon"/>
       <text id="b298c-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(27,13)">
         <tspan x="0" y="0">Ang 1-5</tspan>
       </text>
     </a>
-    <a id="d046f" class="SingleFreeNode DataNode Entrez_Gene_1636 GeneProduct CompactIdentifier_ncbigene_1636" color="#000000" name="ACE" transform="translate(125,276.66666666666663)" xlink:href="https://bioregistry.io/ncbigene:1636" target="_blank">
+    <a id="d046f" class="SingleFreeNode DataNode Entrez_Gene_1636 GeneProduct CompactIdentifier_ncbigene_1636 ACE Ensembl_ENSG00000159640 HGNC_ACE UniProt_J3QSC7 UniProt_P12821 UniProt_J3KRH5 UniProt_J3KTH9 UniProt_J3QLR4 UniProt_J3KTB8 UniProt_J3KS28 UniProt_A0A0A0MSN4 UniProt_J3KSQ5" color="#000000" name="ACE" transform="translate(125,276.66666666666663)" xlink:href="https://bioregistry.io/ncbigene:1636" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="d046f-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
       <text id="d046f-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
         <tspan x="0" y="0">ACE</tspan>
       </text>
     </a>
-    <a id="e08c8" class="SingleFreeNode DataNode Entrez_Gene_59272 GeneProduct CompactIdentifier_ncbigene_59272" color="#000000" name="ACE2" transform="translate(244,282.66666666666663)" xlink:href="https://bioregistry.io/ncbigene:59272" target="_blank">
+    <a id="e08c8" class="SingleFreeNode DataNode Entrez_Gene_59272 GeneProduct CompactIdentifier_ncbigene_59272 ACE2 Ensembl_ENSG00000130234 HGNC_ACE2 UniProt_A0A7I2V3X6 UniProt_A0A7I2V5W5 UniProt_A0A7I2V2E9 UniProt_Q9BYF1 UniProt_A0A7I2V3N4 UniProt_A0A7I2V4H0" color="#000000" name="ACE2" transform="translate(244,282.66666666666663)" xlink:href="https://bioregistry.io/ncbigene:59272" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="e08c8-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
       <text id="e08c8-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
         <tspan x="0" y="0">ACE2</tspan>
