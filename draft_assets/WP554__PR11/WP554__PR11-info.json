@@ -1,0 +1,30 @@
+{
+    "wpid": "WP554__PR11",
+    "organisms": ["Homo sapiens"],
+    "description": "The core of this pathway was elucidated over a century ago and involves the conversion of angiotensinogen to angiotensin I (Ang I) by renin, its subsequent conversion to angiotensin II (Ang II) by angiotensin converting enzyme. Ang II activates the angiotensin II receptor type 1 to induce aldosterone synthesis, increasing water and salt resorption and potassium excretion in the kidney and increasing blood pressure.  Proteins on this pathway have targeted assays available via the ",
+    "ontology-ids": [
+        "PW:0001228",
+        "CL:0000650",
+        "DOID:10763",
+        "PW:0000003",
+        "PW:0000245"
+    ],
+    "last-edited": "2024-01-30",
+    "title": "ACE inhibitor pathway",
+    "authors": [
+        "C.F.Thorn",
+        "MaintBot",
+        "Jinwook",
+        "Khanspers",
+        "AlexanderPico",
+        "Thomas",
+        "MartijnVanIersel",
+        "Egonw",
+        "Christine Chichester",
+        "Nuno",
+        "DeSl",
+        "Mkutmon",
+        "Eweitz"
+    ],
+    "revision": "r126205"
+}
