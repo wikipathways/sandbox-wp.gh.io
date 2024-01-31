@@ -5,11 +5,12 @@ layout: default
 <div class="alert alert-danger" role="alert">
   This is a draft view of a pathway edit currently <a href="https://github.com/wikipathways/sandbox-wp-db/pull/{{page.pr-number}}" class="alert-link" target="_blank">in review</a>. Do not share or cite this page.
 </div>
-{% assign existing_pathway = site.pathways | where: "wpid", page.wpid | first %}
+{% assign wpidSansPR = page.wpid | split: "__" | first %}
+{% assign existing_pathway = site.pathways | where: "wpid", wpidSansPR | first %}
 <!-- if existing_pathway is not null, then show bannner -->
 {% if existing_pathway %}
 <div class="alert alert-primary" role="alert">
-  This is an update to pathway <a href="/pathways/{{page.wpid}}" class="alert-link" target="_blank">{{page.wpid}}</a>.
+  This is an update to pathway <a href="/pathways/{{wpidSansPR}}" class="alert-link" target="_blank">{{wpidSansPR}}</a>.
 </div>
 {% else %}
 <div class="alert alert-primary" role="alert">
