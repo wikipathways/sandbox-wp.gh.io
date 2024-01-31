@@ -1,0 +1,2766 @@
+{
+  "entitiesById": {
+    "a2423": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "a2423",
+      "isPartOf": "fcb5c",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "RARg",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Entrez Gene:5916",
+        "Protein",
+        "CompactIdentifier:ncbigene:5916",
+        "RARg",
+        "Ensembl:ENSG00000172819",
+        "Entrez Gene:5916",
+        "HGNC:RARG",
+        "UniProt:P13631",
+        "UniProt:H3BMK1",
+        "UniProt:F1D8P1",
+        "UniProt:A8K3H3",
+        "UniProt:H3BMH6",
+        "UniProt:H3BMY6"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 56.49999999999977,
+      "wpType": "Protein",
+      "x": 120.99999999999955,
+      "xrefDataSource": "Entrez Gene",
+      "xrefIdentifier": "5916",
+      "y": 8,
+      "zIndex": 32802
+    },
+    "a58df": {
+      "comments": [
+        {
+          "content": "vitamin A1 aldehyde"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "a58df",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "ATRAL",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "PubChem-compound:638015",
+        "Metabolite",
+        "CompactIdentifier:pubchem.compound:638015",
+        "ATRAL",
+        "Wikidata:Q28529715",
+        "ChEBI:17898",
+        "ChEBI:17898",
+        "InChI:NCYCYZXNIZJOKI-OVSJKPMPSA-N"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 101,
+      "wpType": "Metabolite",
+      "x": 364.7619047619049,
+      "xrefDataSource": "PubChem-compound",
+      "xrefIdentifier": "638015",
+      "y": 311.0714285714282,
+      "zIndex": 32783
+    },
+    "a654a": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "a654a",
+      "isPartOf": "fcb5c",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "RARa",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Entrez Gene:5914",
+        "Protein",
+        "CompactIdentifier:ncbigene:5914",
+        "RARa",
+        "Ensembl:ENSG00000131759",
+        "Entrez Gene:5914",
+        "HGNC:RARA",
+        "UniProt:J3QRM2",
+        "UniProt:A8MUP8",
+        "UniProt:F1D8N9",
+        "UniProt:J3KSJ4",
+        "UniProt:P10276",
+        "UniProt:Q6I9R7"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 56.49999999999977,
+      "wpType": "Protein",
+      "x": 8,
+      "xrefDataSource": "Entrez Gene",
+      "xrefIdentifier": "5914",
+      "y": 8,
+      "zIndex": 32800
+    },
+    "ac208": {
+      "citations": [
+        "publicationXrefaab"
+      ],
+      "contains": [
+        "e7539",
+        "c6ed7",
+        "e77de"
+      ],
+      "drawAs": "none",
+      "fill": "transparent",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 41,
+      "id": "ac208",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupGroup"
+      ],
+      "verticalAlign": "middle",
+      "width": 185.49999999999932,
+      "x": 467,
+      "y": 417.0714285714282,
+      "zIndex": 32768
+    },
+    "b0874": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "Label",
+      "height": 25,
+      "id": "b0874",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Vitamin A5/Xs",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 90,
+      "x": 734.9999999999998,
+      "y": 141.07142857142836,
+      "zIndex": 28672
+    },
+    "b2886": {
+      "citations": [
+        "publicationXrefcc4"
+      ],
+      "comments": [
+        {
+          "content": "Multistep"
+        }
+      ],
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "b2886",
+      "isAttachedTo": [
+        "cc04a",
+        "e3cc0"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.75,
+              1
+            ]
+          },
+          "isAttachedTo": "cc04a",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 487.0952380952381,
+          "y": 246.0714285714283
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              0
+            ]
+          },
+          "isAttachedTo": "e3cc0",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 534.2499999999998,
+          "y": 311.0714285714282
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 32778
+    },
+    "b4483": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "b4483",
+      "isAttachedTo": [
+        "dbf2b",
+        "fcb5c"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimBinding",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              1
+            ]
+          },
+          "isAttachedTo": "dbf2b",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 290.2619047619048,
+          "y": 336.0714285714282
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "isAttachedTo": "fcb5c",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 290.74999999999966,
+          "y": 414.0714285714282
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 32784
+    },
+    "b50d8": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "b50d8",
+      "isAttachedTo": [
+        "b8ab7",
+        "dbf2b"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              1
+            ]
+          },
+          "isAttachedTo": "b8ab7",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 308.01190476190453,
+          "y": 246.07142857142833
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "isAttachedTo": "dbf2b",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 290.2619047619048,
+          "y": 311.0714285714282
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 32794
+    },
+    "b5f79": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "b5f79",
+      "isAttachedTo": [
+        "e3cc0",
+        "ebba6"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "markerStart": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              1,
+              0.5
+            ]
+          },
+          "isAttachedTo": "e3cc0",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 609.9999999999998,
+          "y": 323.5714285714282
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0,
+              0.5
+            ]
+          },
+          "isAttachedTo": "ebba6",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 666.9999999999998,
+          "y": 323.57142857142827
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 32774
+    },
+    "b8ab7": {
+      "comments": [
+        {
+          "content": "provitamin A1"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "b8ab7",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "ATBC",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Wikidata:Q306135",
+        "Metabolite",
+        "CompactIdentifier:wikidata:Q306135",
+        "ATBC",
+        "Wikidata:Q306135",
+        "ChEBI:17579",
+        "ChEBI:17579",
+        "InChI:OENHQHLEOONYIE-JLTXGRSLSA-N"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 68.04761904761925,
+      "wpType": "Metabolite",
+      "x": 290.9999999999997,
+      "xrefDataSource": "Wikidata",
+      "xrefIdentifier": "Q306135",
+      "y": 221.07142857142833,
+      "zIndex": 32768
+    },
+    "bfa62": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "bfa62",
+      "isAttachedTo": [
+        "ef2bd",
+        "ef07e"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              1
+            ]
+          },
+          "isAttachedTo": "ef2bd",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 449.7857142857142,
+          "y": 73.0714285714287
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.75,
+              0
+            ]
+          },
+          "isAttachedTo": "ef07e",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 237.4999999999999,
+          "y": 141.07142857142836
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 32790
+    },
+    "c23b7": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "c23b7",
+      "isAttachedTo": [
+        "ef2bd",
+        "ed5a6"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              1
+            ]
+          },
+          "isAttachedTo": "ef2bd",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 472.2857142857142,
+          "y": 73.0714285714287
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "isAttachedTo": "ed5a6",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 472.2857142857142,
+          "y": 141.07142857142836
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 32776
+    },
+    "c5bed": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "c5bed",
+      "isAttachedTo": [
+        "fcb5c",
+        "ebb1c"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              1
+            ]
+          },
+          "isAttachedTo": "fcb5c",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 290.74999999999966,
+          "y": 455.0714285714282
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "isAttachedTo": "ebb1c",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 290.2619047619049,
+          "y": 502.0714285714281
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 32781
+    },
+    "c6ed7": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "c6ed7",
+      "isPartOf": "ac208",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "RXRb",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Entrez Gene:6257",
+        "Protein",
+        "CompactIdentifier:ncbigene:6257",
+        "RXRb",
+        "Ensembl:ENSG00000204231",
+        "Entrez Gene:6257",
+        "HGNC:RXRB",
+        "UniProt:Q5STP9",
+        "UniProt:P28702",
+        "UniProt:E9PK75",
+        "UniProt:A0A0S2Z570"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 56.49999999999977,
+      "wpType": "Protein",
+      "x": 64.49999999999977,
+      "xrefDataSource": "Entrez Gene",
+      "xrefIdentifier": "6257",
+      "y": 8,
+      "zIndex": 32797
+    },
+    "cc04a": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "cc04a",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "9CDHBC",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Wikidata:Q120868409",
+        "Metabolite",
+        "CompactIdentifier:wikidata:Q120868409",
+        "9CDHBC"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 59.23809523809529,
+      "wpType": "Metabolite",
+      "x": 442.66666666666663,
+      "xrefDataSource": "Wikidata",
+      "xrefIdentifier": "Q120868409",
+      "y": 221.0714285714283,
+      "zIndex": 32771
+    },
+    "cec01": {
+      "comments": [
+        {
+          "content": "multistep"
+        }
+      ],
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "cec01",
+      "isAttachedTo": [
+        "f7eea",
+        "dbf2b"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              1
+            ]
+          },
+          "isAttachedTo": "f7eea",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 214.9999999999999,
+          "y": 246.07142857142827
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              0
+            ]
+          },
+          "isAttachedTo": "dbf2b",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 265.0119047619048,
+          "y": 311.0714285714282
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 32793
+    },
+    "d1ac3": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "d1ac3",
+      "isAttachedTo": [
+        "ed5a6"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              1
+            ]
+          },
+          "isAttachedTo": "ed5a6",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 447.0357142857142,
+          "y": 166.07142857142836
+        },
+        {
+          "x": 315.2380952380952,
+          "y": 309.5238095238092
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 32796
+    },
+    "da0d6": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "da0d6",
+      "isAttachedTo": [
+        "ef2bd",
+        "b8ab7"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              1
+            ]
+          },
+          "isAttachedTo": "ef2bd",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 449.7857142857142,
+          "y": 73.0714285714287
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "isAttachedTo": "b8ab7",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 325.02380952380935,
+          "y": 221.07142857142833
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 32792
+    },
+    "dbf2b": {
+      "comments": [
+        {
+          "content": "vitamin A1 acid"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "dbf2b",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "ATRA",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "PubChem-compound:444795",
+        "Metabolite",
+        "CompactIdentifier:pubchem.compound:444795",
+        "ATRA",
+        "Wikidata:Q29417",
+        "ChEBI:15367",
+        "ChEBI:15367",
+        "InChI:SHGAZHPCJJPHSC-YCNIQYBTSA-N"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 101,
+      "wpType": "Metabolite",
+      "x": 239.76190476190482,
+      "xrefDataSource": "PubChem-compound",
+      "xrefIdentifier": "444795",
+      "y": 311.0714285714282,
+      "zIndex": 32782
+    },
+    "dc2c8": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "dc2c8",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "9CDHROL",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Wikidata:Q120868469",
+        "Metabolite",
+        "CompactIdentifier:wikidata:Q120868469",
+        "9CDHROL"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 101,
+      "wpType": "Metabolite",
+      "x": 603.9999999999998,
+      "xrefDataSource": "Wikidata",
+      "xrefIdentifier": "Q120868469",
+      "y": 221.0714285714283,
+      "zIndex": 32769
+    },
+    "dc7af": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "dc7af",
+      "isAttachedTo": [
+        "ef07e",
+        "f7eea"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "markerStart": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              1
+            ]
+          },
+          "isAttachedTo": "ef07e",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 214.9999999999999,
+          "y": 166.07142857142836
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "isAttachedTo": "f7eea",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 214.9999999999999,
+          "y": 221.07142857142827
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 32788
+    },
+    "e1461": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "e1461",
+      "isAttachedTo": [
+        "ed5a6",
+        "a58df"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              1
+            ]
+          },
+          "isAttachedTo": "ed5a6",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 447.0357142857142,
+          "y": 166.07142857142836
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "isAttachedTo": "a58df",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 415.2619047619049,
+          "y": 311.0714285714282
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 32785
+    },
+    "e1706": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "DataNode",
+      "height": 37.26190476190472,
+      "id": "e1706",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "rx": 15,
+      "ry": 15,
+      "stroke": "#14961e",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "See also\nWP716",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "WikiPathways:WP716",
+        "Pathway"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 80.95238095238096,
+      "wpType": "Pathway",
+      "x": 677.1428571428576,
+      "xrefDataSource": "WikiPathways",
+      "xrefIdentifier": "WP716",
+      "y": 48.57142857142858,
+      "zIndex": 32768
+    },
+    "e3892": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "e3892",
+      "isPartOf": "fcb5c",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "RARb",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Entrez Gene:5915",
+        "Protein",
+        "CompactIdentifier:ncbigene:5915",
+        "RARb",
+        "Ensembl:ENSG00000077092",
+        "Entrez Gene:5915",
+        "HGNC:RARB",
+        "UniProt:D6RBI3",
+        "UniProt:P10826",
+        "UniProt:F1D8S6",
+        "UniProt:Q5QHG3"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 56.49999999999977,
+      "wpType": "Protein",
+      "x": 64.49999999999977,
+      "xrefDataSource": "Entrez Gene",
+      "xrefIdentifier": "5915",
+      "y": 8,
+      "zIndex": 32801
+    },
+    "e3cc0": {
+      "citations": [
+        "publicationXrefaab"
+      ],
+      "comments": [
+        {
+          "content": "vitamin A5/X acid"
+        },
+        {
+          "content": "Both R and S forms bind, but R better. The R stereoisomer is patented"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "e3cc0",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "9CDHRA",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Wikidata:Q120868444",
+        "Metabolite",
+        "CompactIdentifier:wikidata:Q120868444",
+        "9CDHRA"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 101,
+      "wpType": "Metabolite",
+      "x": 508.9999999999998,
+      "xrefDataSource": "Wikidata",
+      "xrefIdentifier": "Q120868444",
+      "y": 311.0714285714282,
+      "zIndex": 32772
+    },
+    "e692d": {
+      "citations": [
+        "publicationXrefcc4"
+      ],
+      "comments": [
+        {
+          "content": "Multistep"
+        }
+      ],
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "e692d",
+      "isAttachedTo": [
+        "cc04a",
+        "dc2c8"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              1,
+              0.5
+            ]
+          },
+          "isAttachedTo": "cc04a",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 501.9047619047619,
+          "y": 233.5714285714283
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0,
+              0.5
+            ]
+          },
+          "isAttachedTo": "dc2c8",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 603.9999999999998,
+          "y": 233.5714285714283
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 32775
+    },
+    "e7539": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "e7539",
+      "isPartOf": "ac208",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "RXRa",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Entrez Gene:6256",
+        "Protein",
+        "CompactIdentifier:ncbigene:6256",
+        "RXRa",
+        "Ensembl:ENSG00000186350",
+        "Entrez Gene:6256",
+        "HGNC:RXRA",
+        "UniProt:A0A5F9ZHH6",
+        "UniProt:F1D8Q5",
+        "UniProt:P19793",
+        "UniProt:A0A3B3IS44"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 56.49999999999977,
+      "wpType": "Protein",
+      "x": 8,
+      "xrefDataSource": "Entrez Gene",
+      "xrefIdentifier": "6256",
+      "y": 8,
+      "zIndex": 32768
+    },
+    "e77de": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "e77de",
+      "isPartOf": "ac208",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "RXRc",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Entrez Gene:6258",
+        "Protein",
+        "CompactIdentifier:ncbigene:6258",
+        "RXRc",
+        "Ensembl:ENSG00000143171",
+        "Entrez Gene:6258",
+        "HGNC:RXRG",
+        "UniProt:P48443",
+        "UniProt:F1D8Q7",
+        "UniProt:A0A087WZ88"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 56.49999999999977,
+      "wpType": "Protein",
+      "x": 120.99999999999955,
+      "xrefDataSource": "Entrez Gene",
+      "xrefIdentifier": "6258",
+      "y": 8,
+      "zIndex": 32798
+    },
+    "e9a5a": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "Label",
+      "height": 25,
+      "id": "e9a5a",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Vitamin A1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 90,
+      "x": 40.00000000000004,
+      "y": 149.07142857142836,
+      "zIndex": 32789
+    },
+    "eb613": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "eb613",
+      "isAttachedTo": [
+        "cc04a",
+        "dbf2b"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              1
+            ]
+          },
+          "isAttachedTo": "cc04a",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 457.4761904761905,
+          "y": 246.0714285714283
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.75,
+              0
+            ]
+          },
+          "isAttachedTo": "dbf2b",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 315.5119047619048,
+          "y": 311.0714285714282
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 32795
+    },
+    "ebb1c": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "ebb1c",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#14961e",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "vitamin A1-activity",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Pathway"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 137,
+      "wpType": "Pathway",
+      "x": 221.76190476190487,
+      "y": 502.0714285714281,
+      "zIndex": 32780
+    },
+    "ebba6": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "ebba6",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "9CDHRA-ES",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Wikidata:Q120868227",
+        "Metabolite",
+        "CompactIdentifier:wikidata:Q120868227",
+        "9CDHRA-ES"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 101,
+      "wpType": "Metabolite",
+      "x": 666.9999999999998,
+      "xrefDataSource": "Wikidata",
+      "xrefIdentifier": "Q120868227",
+      "y": 311.07142857142827,
+      "zIndex": 32773
+    },
+    "ebea8": {
+      "citations": [
+        "publicationXrefcc4"
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "ebea8",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "9CDHROL-ES",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Wikidata:Q120868159",
+        "Metabolite",
+        "CompactIdentifier:wikidata:Q120868159",
+        "9CDHROL-ES"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 101,
+      "wpType": "Metabolite",
+      "x": 603.9999999999998,
+      "xrefDataSource": "Wikidata",
+      "xrefIdentifier": "Q120868159",
+      "y": 141.07142857142836,
+      "zIndex": 32768
+    },
+    "ed43e": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "ed43e",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#14961e",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "vitamin A5/X-activity",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Pathway"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 137,
+      "wpType": "Pathway",
+      "x": 490.9999999999998,
+      "y": 507.0714285714281,
+      "zIndex": 32768
+    },
+    "ed5a6": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "ed5a6",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "9CBC",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Wikidata:Q27135678",
+        "Metabolite",
+        "CompactIdentifier:wikidata:Q27135678",
+        "9CBC",
+        "Wikidata:Q27135678",
+        "ChEBI:67188",
+        "ChEBI:67188",
+        "InChI:OENHQHLEOONYIE-BVZAMQQESA-N"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 101,
+      "wpType": "Metabolite",
+      "x": 421.7857142857143,
+      "xrefDataSource": "Wikidata",
+      "xrefIdentifier": "Q27135678",
+      "y": 141.07142857142836,
+      "zIndex": 32770
+    },
+    "edb82": {
+      "cellularComponent": "Nucleus",
+      "drawAs": "Ellipse",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "Shape",
+      "height": 135,
+      "id": "edb82",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "rotation": 0,
+      "stroke": "#c0c0c0",
+      "strokeStyle": "double",
+      "strokeWidth": 3,
+      "textAlign": "center",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Shape",
+        "SingleFreeNode",
+        "PhysicalEntity",
+        "CellularComponent",
+        "Nucleus"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 736,
+      "x": 61.499999999999886,
+      "y": 432.071428571428,
+      "zIndex": 16384
+    },
+    "ef07e": {
+      "comments": [
+        {
+          "content": "vitamin A1"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "ef07e",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "ATROL-ES",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Wikidata:Q120868257",
+        "Metabolite",
+        "CompactIdentifier:wikidata:Q120868257",
+        "ATROL-ES"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 90,
+      "wpType": "Metabolite",
+      "x": 169.99999999999991,
+      "xrefDataSource": "Wikidata",
+      "xrefIdentifier": "Q120868257",
+      "y": 141.07142857142836,
+      "zIndex": 32787
+    },
+    "ef2bd": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "ef2bd",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "diet",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Unknown"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 90,
+      "wpType": "Unknown",
+      "x": 427.2857142857142,
+      "y": 48.07142857142869,
+      "zIndex": 32768
+    },
+    "efa30": {
+      "drawAs": "rect",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "Shape",
+      "height": 130,
+      "id": "efa30",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "rotation": 0,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Shape",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 249.5,
+      "x": 23.499999999999915,
+      "y": 133.57142857142836,
+      "zIndex": 16384
+    },
+    "f7e8e": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "f7e8e",
+      "isAttachedTo": [
+        "ef2bd",
+        "f7eea"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              1
+            ]
+          },
+          "isAttachedTo": "ef2bd",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 449.7857142857142,
+          "y": 73.0714285714287
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.75,
+              0
+            ]
+          },
+          "isAttachedTo": "f7eea",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 237.4999999999999,
+          "y": 221.07142857142827
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 32791
+    },
+    "f7eea": {
+      "comments": [
+        {
+          "content": "vitamin A1"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 25,
+      "id": "f7eea",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "ATROL",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "PubChem-compound:445354",
+        "Metabolite",
+        "CompactIdentifier:pubchem.compound:445354",
+        "ATROL",
+        "Wikidata:Q424976",
+        "ChEBI:17336",
+        "ChEBI:17336",
+        "InChI:FPIPGXGPPPQFEQ-OVSJKPMPSA-N"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 90,
+      "wpType": "Metabolite",
+      "x": 169.99999999999991,
+      "xrefDataSource": "PubChem-compound",
+      "xrefIdentifier": "445354",
+      "y": 221.07142857142827,
+      "zIndex": 32786
+    },
+    "fa354": {
+      "citations": [
+        "publicationXrefcc4"
+      ],
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "fa354",
+      "isAttachedTo": [
+        "ed5a6",
+        "cc04a"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              1
+            ]
+          },
+          "isAttachedTo": "ed5a6",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 472.2857142857142,
+          "y": 166.07142857142836
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "isAttachedTo": "cc04a",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 472.2857142857143,
+          "y": 221.0714285714283
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 32777
+    },
+    "fcb5c": {
+      "contains": [
+        "a654a",
+        "e3892",
+        "a2423"
+      ],
+      "drawAs": "none",
+      "fill": "transparent",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 41,
+      "id": "fcb5c",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupGroup"
+      ],
+      "verticalAlign": "middle",
+      "width": 185.49999999999932,
+      "x": 198,
+      "y": 414.0714285714282,
+      "zIndex": 32800
+    },
+    "fdedb": {
+      "drawAs": "rect",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "Shape",
+      "height": 133.5,
+      "id": "fdedb",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "rotation": 0,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Shape",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 253.5,
+      "x": 587.4999999999998,
+      "y": 128.07142857142836,
+      "zIndex": 16384
+    },
+    "http://identifiers.org/pw/PW:0000135": {
+      "gpmlElementName": "openControlledVocabulary",
+      "id": "http://identifiers.org/pw/PW:0000135",
+      "ontology": "Pathway Ontology",
+      "term": "metabolic pathway of cofactors, vitamins, nutrients",
+      "type": [
+        "openControlledVocabulary"
+      ],
+      "xrefIdentifier": "PW:0000135"
+    },
+    "http://identifiers.org/pw/PW:0000141": {
+      "gpmlElementName": "openControlledVocabulary",
+      "id": "http://identifiers.org/pw/PW:0000141",
+      "ontology": "Pathway Ontology",
+      "term": "retinol metabolic pathway",
+      "type": [
+        "openControlledVocabulary"
+      ],
+      "xrefIdentifier": "PW:0000141"
+    },
+    "http://identifiers.org/pw/PW:0001116": {
+      "gpmlElementName": "openControlledVocabulary",
+      "id": "http://identifiers.org/pw/PW:0001116",
+      "ontology": "Pathway Ontology",
+      "term": "vitamin A and metabolites signaling pathway",
+      "type": [
+        "openControlledVocabulary"
+      ],
+      "xrefIdentifier": "PW:0001116"
+    },
+    "id1d9696ec": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "id1d9696ec",
+      "isAttachedTo": [
+        "ef2bd",
+        "ebea8"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.75,
+              1
+            ]
+          },
+          "isAttachedTo": "ef2bd",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 494.7857142857142,
+          "y": 73.0714285714287
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "isAttachedTo": "ebea8",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 654.4999999999998,
+          "y": 141.07142857142836
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 12288
+    },
+    "id329e7482": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "id329e7482",
+      "isAttachedTo": [
+        "b8ab7",
+        "a58df"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.75,
+              1
+            ]
+          },
+          "isAttachedTo": "b8ab7",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 342.03571428571416,
+          "y": 246.07142857142833
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              0
+            ]
+          },
+          "isAttachedTo": "a58df",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 390.0119047619049,
+          "y": 311.0714285714282
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 12288
+    },
+    "id3afca4c9": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "id3afca4c9",
+      "isAttachedTo": [
+        "ebea8",
+        "dc2c8"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "markerStart": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              1
+            ]
+          },
+          "isAttachedTo": "ebea8",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 654.4999999999998,
+          "y": 166.07142857142836
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "isAttachedTo": "dc2c8",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 654.4999999999998,
+          "y": 221.0714285714283
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 12288
+    },
+    "id3ed0300b": {
+      "citations": [
+        "publicationXrefcc4",
+        "publicationXrefaab",
+        "publicationXrefac9"
+      ],
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "id3ed0300b",
+      "isAttachedTo": [
+        "e3cc0",
+        "ac208"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimBinding",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              1
+            ]
+          },
+          "isAttachedTo": "e3cc0",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 559.4999999999998,
+          "y": 336.0714285714282
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "isAttachedTo": "ac208",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 559.7499999999997,
+          "y": 417.0714285714282
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 12288
+    },
+    "id41c6e796": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "id41c6e796",
+      "isAttachedTo": [
+        "cc04a",
+        "a58df"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              1
+            ]
+          },
+          "isAttachedTo": "cc04a",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 457.4761904761905,
+          "y": 246.0714285714283
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.75,
+              0
+            ]
+          },
+          "isAttachedTo": "a58df",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 440.5119047619049,
+          "y": 311.0714285714282
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 12288
+    },
+    "idc5bab319": {
+      "citations": [
+        "publicationXrefcc4"
+      ],
+      "comments": [
+        {
+          "content": "Multistep"
+        }
+      ],
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "idc5bab319",
+      "isAttachedTo": [
+        "dc2c8",
+        "e3cc0"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              1
+            ]
+          },
+          "isAttachedTo": "dc2c8",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 654.4999999999998,
+          "y": 246.0714285714283
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.75,
+              0
+            ]
+          },
+          "isAttachedTo": "e3cc0",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 584.7499999999998,
+          "y": 311.0714285714282
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 12288
+    },
+    "idf214fd5a": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "idf214fd5a",
+      "isAttachedTo": [
+        "ac208",
+        "ed43e"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              1
+            ]
+          },
+          "isAttachedTo": "ac208",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 559.7499999999997,
+          "y": 458.0714285714282
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "isAttachedTo": "ed43e",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 559.4999999999998,
+          "y": 507.0714285714281
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "idfc5e534c": {
+      "comments": [
+        {
+          "content": "multistep"
+        }
+      ],
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "idfc5e534c",
+      "isAttachedTo": [
+        "b8ab7",
+        "f7eea"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimConversion",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0,
+              0.5
+            ]
+          },
+          "isAttachedTo": "b8ab7",
+          "orientation": [
+            -1,
+            0
+          ],
+          "x": 290.9999999999997,
+          "y": 233.57142857142833
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              1,
+              0.5
+            ]
+          },
+          "isAttachedTo": "f7eea",
+          "orientation": [
+            -1,
+            0
+          ],
+          "x": 259.9999999999999,
+          "y": 233.57142857142827
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 12288
+    },
+    "publicationXrefaab": {
+      "authors": [
+        "Rühl R",
+        "Krzyżosiak A",
+        "Niewiadomska-Cimicka A",
+        "Rochel N",
+        "Szeles L",
+        "Vaz B",
+        "Wietrzych-Schindler M",
+        "Álvarez S",
+        "Szklenar M",
+        "Nagy L",
+        "de Lera AR",
+        "Krężel W"
+      ],
+      "gpmlElementName": "PublicationXref",
+      "id": "publicationXrefaab",
+      "source": "PLoS Genet",
+      "standardName": "9-cis-13,14-Dihydroretinoic Acid Is an Endogenous Retinoid Acting as RXR Ligand in Mice.",
+      "textContent": "1",
+      "type": [
+        "PublicationXref",
+        "PubMed:26030625"
+      ],
+      "xrefDataSource": "PubMed",
+      "xrefIdentifier": "26030625",
+      "year": 2015
+    },
+    "publicationXrefac9": {
+      "authors": [
+        "de Lera, A.R.",
+        "Krezel, W.",
+        "Ruehl, R."
+      ],
+      "gpmlElementName": "PublicationXref",
+      "id": "publicationXrefac9",
+      "source": "ChemMedChem",
+      "standardName": "An Endogenous Mammalian Retinoid X Receptor Ligand, At Last!",
+      "textContent": "2",
+      "type": [
+        "PublicationXref",
+        "DOI:10.1002/cmdc.201600105"
+      ],
+      "xrefDataSource": "DOI",
+      "xrefIdentifier": "10.1002/cmdc.201600105",
+      "year": 2016
+    },
+    "publicationXrefcc4": {
+      "authors": [
+        "Krężel W",
+        "Rivas A",
+        "Szklenar M",
+        "Ciancia M",
+        "Alvarez R",
+        "de Lera AR",
+        "Rühl R"
+      ],
+      "gpmlElementName": "PublicationXref",
+      "id": "publicationXrefcc4",
+      "source": "Nutrients",
+      "standardName": "Vitamin A5/X, a New Food to Lipid Hormone Concept for a Nutritional Ligand to Control RXR-Mediated Signaling.",
+      "textContent": "3",
+      "type": [
+        "PublicationXref",
+        "PubMed:33809241"
+      ],
+      "xrefDataSource": "PubMed",
+      "xrefIdentifier": "33809241",
+      "year": 2021
+    }
+  },
+  "pathway": {
+    "@context": [
+      "https://cdn.rawgit.com/wikipathways/WpVocabularies/7a46a05/contexts/pvjs.jsonld",
+      {
+        "@base": "WP0__PR10/"
+      }
+    ],
+    "author": "[Egonw, AlexanderPico]",
+    "comments": [
+      {
+        "content": "Vitamin A5/X pathway which shows how our food results in precursors from which Vitamin A5/X (9CBC, 9CDHBC, 9CDHROL-ES and 9CDKHROL) is metabolized which is converted into Vitamin A5/X acid (9CDHRA) which binds to RXR.",
+        "source": "WikiPathways-description"
+      }
+    ],
+    "contains": [
+      "id1d9696ec",
+      "id329e7482",
+      "id3afca4c9",
+      "id41c6e796",
+      "idc5bab319",
+      "idfc5e534c",
+      "id3ed0300b",
+      "idf214fd5a",
+      "edb82",
+      "efa30",
+      "fdedb",
+      "b0874",
+      "b8ab7",
+      "e1706",
+      "ebea8",
+      "ed43e",
+      "ef2bd",
+      "ac208",
+      "dc2c8",
+      "ed5a6",
+      "cc04a",
+      "e3cc0",
+      "ebba6",
+      "b5f79",
+      "e692d",
+      "c23b7",
+      "fa354",
+      "b2886",
+      "ebb1c",
+      "c5bed",
+      "dbf2b",
+      "a58df",
+      "b4483",
+      "e1461",
+      "f7eea",
+      "ef07e",
+      "dc7af",
+      "e9a5a",
+      "bfa62",
+      "f7e8e",
+      "da0d6",
+      "cec01",
+      "b50d8",
+      "eb613",
+      "d1ac3",
+      "fcb5c"
+    ],
+    "dataSourceVersion": "WP0001_20231104",
+    "displayName": "Vitamin A1 and A5/X pathways",
+    "drawAs": "rect",
+    "fill": "white",
+    "fontSize": 12,
+    "fontWeight": "bold",
+    "gpmlElementName": "Pathway",
+    "height": 595.571428571428,
+    "id": "WP0__PR10",
+    "kaavioType": "Group",
+    "name": "Vitamin A1 and A5/X pathways",
+    "organism": "Homo sapiens",
+    "padding": 5,
+    "pathwayVersion": "PR10",
+    "standardName": "Vitamin A1 and A5/X pathways",
+    "stroke": "black",
+    "strokeWidth": 0,
+    "textAlign": "left",
+    "textContent": "Name: Vitamin A1 and A5/X pathways\nOrganism: Homo sapiens",
+    "type": [
+      "Pathway",
+      "http://identifiers.org/pw/PW:0000135",
+      "http://identifiers.org/pw/PW:0000141",
+      "http://identifiers.org/pw/PW:0001116"
+    ],
+    "verticalAlign": "top",
+    "width": 870.9999999999998,
+    "x": 0,
+    "y": 0,
+    "zIndex": 0
+  }
+}
