@@ -752,7 +752,9 @@
         "Wikidata:Q120868409",
         "Metabolite",
         "CompactIdentifier:wikidata:Q120868409",
-        "9CDHBC"
+        "9CDHBC",
+        "Wikidata:Q120868409",
+        "InChI:KXTGHZBSBWQBOY-NQYFKFSYSA-N"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1003,7 +1005,9 @@
         "Wikidata:Q120868469",
         "Metabolite",
         "CompactIdentifier:wikidata:Q120868469",
-        "9CDHROL"
+        "9CDHROL",
+        "Wikidata:Q120868469",
+        "InChI:OVBOQVAIYMSUDT-JFECPSIXSA-N"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1204,9 +1208,19 @@
         "Entrez Gene:5915",
         "HGNC:RARB",
         "UniProt:D6RBI3",
+        "UniProt:A0A8I5KVP8",
+        "UniProt:A0A8I5KVN9",
         "UniProt:P10826",
+        "UniProt:A0A8I5KSR9",
+        "UniProt:A0A8I5KWP3",
+        "UniProt:A0A8I5KXT3",
+        "UniProt:A0A8I5KQX3",
         "UniProt:F1D8S6",
-        "UniProt:Q5QHG3"
+        "UniProt:Q5QHG3",
+        "UniProt:A0A8I5KNZ0",
+        "UniProt:A0A8I5KUH8",
+        "UniProt:A0A8I5KVJ9",
+        "UniProt:A0A8I5KXD0"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1255,7 +1269,9 @@
         "Wikidata:Q120868444",
         "Metabolite",
         "CompactIdentifier:wikidata:Q120868444",
-        "9CDHRA"
+        "9CDHRA",
+        "Wikidata:Q120868444",
+        "InChI:XTOYXKSKSDVOOD-XIAATETDSA-N"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1574,7 +1590,8 @@
         "Wikidata:Q120868227",
         "Metabolite",
         "CompactIdentifier:wikidata:Q120868227",
-        "9CDHRA-ES"
+        "9CDHRA-ES",
+        "Wikidata:Q120868227"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1615,7 +1632,8 @@
         "Wikidata:Q120868159",
         "Metabolite",
         "CompactIdentifier:wikidata:Q120868159",
-        "9CDHROL-ES"
+        "9CDHROL-ES",
+        "Wikidata:Q120868159"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",
@@ -1769,7 +1787,8 @@
         "Wikidata:Q120868257",
         "Metabolite",
         "CompactIdentifier:wikidata:Q120868257",
-        "ATROL-ES"
+        "ATROL-ES",
+        "Wikidata:Q120868257"
       ],
       "verticalAlign": "middle",
       "whiteSpace": "pre",

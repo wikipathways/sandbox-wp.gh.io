@@ -571,7 +571,7 @@
         </text>
       </a>
     </g>
-    <a id="dc2c8" class="SingleFreeNode DataNode Wikidata_Q120868469 Metabolite CompactIdentifier_wikidata_Q120868469 _CDHROL" color="#0000ff" name="9CDHROL" transform="translate(603.9999999999998,221.0714285714283)" xlink:href="https://bioregistry.io/wikidata:Q120868469" target="_blank">
+    <a id="dc2c8" class="SingleFreeNode DataNode Wikidata_Q120868469 Metabolite CompactIdentifier_wikidata_Q120868469 _CDHROL InChI_OVBOQVAIYMSUDT-JFECPSIXSA-N" color="#0000ff" name="9CDHROL" transform="translate(603.9999999999998,221.0714285714283)" xlink:href="https://bioregistry.io/wikidata:Q120868469" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="25px" id="dc2c8-icon" width="101px" x="0" y="0" transform="matrix(0.9901960784313726, 0, 0, 0.9615384615384616, 0.4950980392156836, 0.48076923076922995)" class="Icon"/>
       <text id="dc2c8-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(50.5,16.5)">
         <tspan x="0" y="0">9CDHROL</tspan>
@@ -583,13 +583,13 @@
         <tspan x="0" y="0">9CBC</tspan>
       </text>
     </a>
-    <a id="cc04a" class="SingleFreeNode DataNode Wikidata_Q120868409 Metabolite CompactIdentifier_wikidata_Q120868409 _CDHBC" color="#0000ff" name="9CDHBC" transform="translate(442.66666666666663,221.0714285714283)" xlink:href="https://bioregistry.io/wikidata:Q120868409" target="_blank">
+    <a id="cc04a" class="SingleFreeNode DataNode Wikidata_Q120868409 Metabolite CompactIdentifier_wikidata_Q120868409 _CDHBC InChI_KXTGHZBSBWQBOY-NQYFKFSYSA-N" color="#0000ff" name="9CDHBC" transform="translate(442.66666666666663,221.0714285714283)" xlink:href="https://bioregistry.io/wikidata:Q120868409" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="25px" id="cc04a-icon" width="59.23809523809529px" x="0" y="0" transform="matrix(0.983399209486166, 0, 0, 0.9615384615384616, 0.49169960474308283, 0.48076923076922995)" class="Icon"/>
       <text id="cc04a-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(29.619047619047645,16.5)">
         <tspan x="0" y="0">9CDHBC</tspan>
       </text>
     </a>
-    <a id="e3cc0" class="SingleFreeNode DataNode Wikidata_Q120868444 Metabolite CompactIdentifier_wikidata_Q120868444 _CDHRA" color="#0000ff" name="9CDHRA" transform="translate(508.9999999999998,311.0714285714282)" xlink:href="https://bioregistry.io/wikidata:Q120868444" target="_blank">
+    <a id="e3cc0" class="SingleFreeNode DataNode Wikidata_Q120868444 Metabolite CompactIdentifier_wikidata_Q120868444 _CDHRA InChI_XTOYXKSKSDVOOD-XIAATETDSA-N" color="#0000ff" name="9CDHRA" transform="translate(508.9999999999998,311.0714285714282)" xlink:href="https://bioregistry.io/wikidata:Q120868444" target="_blank">
       <rect fill="#ffffff" stroke="#0000ff" stroke-width="1" fill-opacity="1" height="25px" id="e3cc0-icon" width="101px" x="0" y="0" transform="matrix(0.9901960784313726, 0, 0, 0.9615384615384616, 0.4950980392156836, 0.48076923076922995)" class="Icon"/>
       <text id="e3cc0-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(50.5,16.5)">
         <tspan x="0" y="0">9CDHRA</tspan>
@@ -725,7 +725,7 @@
           <tspan x="0" y="0">RARa</tspan>
         </text>
       </a>
-      <a id="e3892" class="SingleFreeNode DataNode Entrez_Gene_5915 Protein CompactIdentifier_ncbigene_5915 RARb Ensembl_ENSG00000077092 HGNC_RARB UniProt_D6RBI3 UniProt_P10826 UniProt_F1D8S6 UniProt_Q5QHG3" color="#000000" name="RARb" transform="translate(64.49999999999977,8)" xlink:href="https://bioregistry.io/ncbigene:5915" target="_blank">
+      <a id="e3892" class="SingleFreeNode DataNode Entrez_Gene_5915 Protein CompactIdentifier_ncbigene_5915 RARb Ensembl_ENSG00000077092 HGNC_RARB UniProt_D6RBI3 UniProt_A0A8I5KVP8 UniProt_A0A8I5KVN9 UniProt_P10826 UniProt_A0A8I5KSR9 UniProt_A0A8I5KWP3 UniProt_A0A8I5KXT3 UniProt_A0A8I5KQX3 UniProt_F1D8S6 UniProt_Q5QHG3 UniProt_A0A8I5KNZ0 UniProt_A0A8I5KUH8 UniProt_A0A8I5KVJ9 UniProt_A0A8I5KXD0" color="#000000" name="RARb" transform="translate(64.49999999999977,8)" xlink:href="https://bioregistry.io/ncbigene:5915" target="_blank">
         <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="25px" id="e3892-icon" width="56.49999999999977px" x="0" y="0" transform="matrix(0.9826086956521738, 0, 0, 0.9615384615384616, 0.49130434782608745, 0.48076923076922995)" class="Icon"/>
         <text id="e3892-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(28.249999999999886,16.5)">
           <tspan x="0" y="0">RARb</tspan>
