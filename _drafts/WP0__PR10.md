@@ -20,7 +20,7 @@ communities: []
 description: Vitamin A5/X pathway which shows how our food results in precursors from
   which Vitamin A5/X (9CBC, 9CDHBC, 9CDHROL-ES and 9CDKHROL) is metabolized which
   is converted into Vitamin A5/X acid (9CDHRA) which binds to RXR.
-last-edited: 2025-04-16
+last-edited: 2025-08-11
 ndex: null
 organisms:
 - Homo sapiens
