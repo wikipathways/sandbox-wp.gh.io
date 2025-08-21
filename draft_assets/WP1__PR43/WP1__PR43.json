@@ -1,6 +1,6 @@
 {
   "entitiesById": {
-    "986468": {
+    "109157": {
       "__HighlandStream__": true,
       "_can_drain": false,
       "_consume_waiting_for_next": false,
@@ -17,7 +17,7 @@
       "_outgoing": [],
       "_repeat_resume": false,
       "_send_events": false,
-      "id": "986468",
+      "id": "109157",
       "paused": true,
       "source": null,
       "writable": true
@@ -1777,7 +1777,7 @@
       "whiteSpace": "pre",
       "width": 60,
       "wpType": "GeneProduct",
-      "x": 678.0566893424045,
+      "x": 692.0566893424045,
       "xrefDataSource": "Entrez Gene",
       "xrefIdentifier": "17777",
       "y": 254.8820861677999,
@@ -3782,7 +3782,7 @@
             0,
             1
           ],
-          "x": 693.0566893424045,
+          "x": 707.0566893424045,
           "y": 274.8820861677999
         },
         {

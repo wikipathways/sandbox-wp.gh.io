@@ -676,8 +676,8 @@
       </g>
     </g>
     <g id="ide734686c" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
-      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="45.5796387305679, 5.8" stroke-width="1">
-        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="ide734686c-path" d="M693.0566893424045,274.8820861677999L646.3999999999995,296.3999999999999" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="58.5603494216044, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="ide734686c-path" d="M707.0566893424045,274.8820861677999L646.3999999999995,296.3999999999999" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
       </g>
     </g>
     <a id="c66" class="SingleFreeNode DataNode ChEBI_CHEBI_17855 Metabolite CompactIdentifier_chebi_17855 Triglycerides Wikidata_Q186319 ChEBI_17855" color="#000000" name="Triglycerides" transform="translate(704.5,202.83333333333334)" xlink:href="https://bioregistry.io/chebi:17855" target="_blank">
@@ -872,7 +872,7 @@
         <tspan x="0" y="0">Lcat</tspan>
       </text>
     </a>
-    <a id="f8e" class="SingleFreeNode DataNode Entrez_Gene_17777 GeneProduct CompactIdentifier_ncbigene_17777 Mttp Ensembl_ENSMUSG00000028158 UniProt_O08601" color="#000000" name="Mttp" transform="translate(678.0566893424045,254.8820861677999)" xlink:href="https://bioregistry.io/ncbigene:17777" target="_blank">
+    <a id="f8e" class="SingleFreeNode DataNode Entrez_Gene_17777 GeneProduct CompactIdentifier_ncbigene_17777 Mttp Ensembl_ENSMUSG00000028158 UniProt_O08601" color="#000000" name="Mttp" transform="translate(692.0566893424045,254.8820861677999)" xlink:href="https://bioregistry.io/ncbigene:17777" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="f8e-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
       <text id="f8e-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,14)">
         <tspan x="0" y="0">Mttp</tspan>
