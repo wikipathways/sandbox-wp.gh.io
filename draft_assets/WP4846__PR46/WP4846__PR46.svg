@@ -472,7 +472,7 @@
       </symbol>
     </g>
   </defs>
-  <g id="WP4846__PR46" class="Viewport" color="black" name="Name: SARS-CoV-2 and COVID-19 pathway Last Modified: 20250822101107 Organism: Homo sapiens">
+  <g id="WP4846__PR46" class="Viewport" color="black" name="Name: SARS-CoV-2 and COVID-19 pathway Last Modified: 20250822102002 Organism: Homo sapiens">
     <rect fill="white" stroke="black" stroke-width="0" fill-opacity="1" height="1871.5841584158418px" id="WP4846__PR46-icon" width="2513.018867924528px" x="0" y="0" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
     <g id="a7548" class="SingleFreeNode Shape PhysicalEntity CellularComponent Cell" color="#c0c0c0" transform="translate(481.5068127172882,594.1198949093707)">
       <g filter="url(#kaaviodoublefalse3filter)" fill="transparent" fill-opacity="0" stroke="#c0c0c0" stroke-width="3">
@@ -484,8 +484,8 @@
         <rect style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" height="262.4769893656033px" id="bc245-icon" rx="15" ry="15" width="472.3069306930694px" x="0" y="0" transform="matrix(0.9752223244403557, 0, 0, 0.9562804881103676, 5.851333946642143, 5.73768292866221)" class="Icon"/>
       </g>
     </g>
-    <g id="c8480" class="Group Complex GroupComplex" color="#808080" transform="translate(435.553087211449,135.7577924459111)">
-      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="150.0134795271427px" id="c8480-icon" width="152.08386958149947px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9934676331168412, 0, 0, 0.9933780745723413, 0.4967338165584181, 0.4966890372861741)" class="Icon"/>
+    <g id="a7d85" class="Group Complex GroupComplex" color="#808080" transform="translate(435.553087211449,135.7577924459111)">
+      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="150.0134795271427px" id="a7d85-icon" width="152.08386958149947px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9934676331168412, 0, 0, 0.9933780745723413, 0.4967338165584181, 0.4966890372861741)" class="Icon"/>
       <a id="c8192" class="SingleFreeNode DataNode Uniprot-TrEMBL_P0DTC2 Protein CompactIdentifier_uniprot_P0DTC2 S" color="#000000" name="S" transform="translate(12,37)" xlink:href="https://bioregistry.io/uniprot:P0DTC2" target="_blank">
         <rect fill="#ffcccc" stroke="#000000" stroke-width="1" fill-opacity="1" height="33.67115984238089px" id="c8192-icon" rx="15" ry="15" width="128.08386958149944px" x="0" y="0" transform="matrix(0.9922530986773012, 0, 0, 0.9711575844434938, 0.49612654933865485, 0.48557879222174805)" class="Icon"/>
         <text id="c8192-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="20px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(64.04193479074972,22.835579921190444)">
@@ -962,8 +962,8 @@
         <tspan x="0" y="0">sphingosine</tspan>
       </text>
     </a>
-    <g id="dca52" class="Group Complex GroupComplex" color="#808080" transform="translate(635.5247524752476,883.049504950497)">
-      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="253.55833641357583px" id="dca52-icon" width="324.37962345457345px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9969266667980529, 0, 0, 0.9960716273759138, 0.49846333339903026, 0.498035813687963)" class="Icon"/>
+    <g id="ea960" class="Group Complex GroupComplex" color="#808080" transform="translate(635.5247524752476,883.049504950497)">
+      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="253.55833641357583px" id="ea960-icon" width="324.37962345457345px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9969266667980529, 0, 0, 0.9960716273759138, 0.49846333339903026, 0.498035813687963)" class="Icon"/>
       <a id="b57e7" class="SingleFreeNode DataNode Ensembl_ENSG00000174358 GeneProduct CompactIdentifier_ensembl_ENSG00000174358 SLC6A19 Entrez_Gene_340024 HGNC_SLC6A19 UniProt_E9PD72 UniProt_Q695T7" color="#000000" name="SLC6A19" transform="translate(192.6506180292232,78.04478369556921)" xlink:href="https://bioregistry.io/ensembl:ENSG00000174358" target="_blank">
         <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="40.88590937373732px" id="b57e7-icon" width="119.72900542535018px" x="0" y="0" transform="matrix(0.9917169863490815, 0, 0, 0.9761256227941179, 0.4958584931745378, 0.4880628113970573)" class="Icon"/>
         <text id="b57e7-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="20px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(59.86450271267509,26.44295468686866)">
@@ -1001,8 +1001,8 @@
         </text>
       </g>
     </g>
-    <g id="ff4a1" class="Group Complex GroupComplex" color="#808080" transform="translate(2282.3396226415093,520.2487219835765)">
-      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="176.65693839378196px" id="ff4a1-icon" width="167.24001220656737px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9940561107498483, 0, 0, 0.9943711739657278, 0.4970280553749262, 0.49718558698286586)" class="Icon"/>
+    <g id="faf54" class="Group Complex GroupComplex" color="#808080" transform="translate(2282.3396226415093,520.2487219835765)">
+      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="176.65693839378196px" id="faf54-icon" width="167.24001220656737px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9940561107498483, 0, 0, 0.9943711739657278, 0.4970280553749262, 0.49718558698286586)" class="Icon"/>
       <g id="f73a9" class="SingleFreeNode DataNode Complex_Portal_CPX-5742 Complex" color="#000000" name="polymerase complex" transform="translate(12,112.00000000000023)">
         <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="52.65693839378174px" id="f73a9-icon" rx="15" ry="15" width="143.24001220656726px" x="0" y="0" transform="matrix(0.993067110958311, 0, 0, 0.9813630812727122, 0.49653355547914657, 0.4906815406363556)" class="Icon"/>
         <text id="f73a9-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="20px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(71.62000610328363,32.32846919689087)">
@@ -1035,8 +1035,8 @@
         </text>
       </a>
     </g>
-    <g id="a8aa5" class="Group Complex GroupComplex" color="#808080" transform="translate(1665.8651991189686,214.41509433962284)">
-      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="112.955919438776px" id="a8aa5-icon" width="138.58763106970855px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.992836041472037, 0, 0, 0.9912246770073471, 0.4964180207360158, 0.49561233850366904)" class="Icon"/>
+    <g id="ab414" class="Group Complex GroupComplex" color="#808080" transform="translate(1665.8651991189686,214.41509433962284)">
+      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="112.955919438776px" id="ab414-icon" width="138.58763106970855px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.992836041472037, 0, 0, 0.9912246770073471, 0.4964180207360158, 0.49561233850366904)" class="Icon"/>
       <g id="ecac0" class="SingleFreeNode DataNode Complex_Portal_CPX-5688 Complex" color="#000000" name="complex" transform="translate(12,12)">
         <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="38.95591943877662px" id="ecac0-icon" rx="15" ry="15" width="114.58763106970855px" x="0" y="0" transform="matrix(0.9913485552844584, 0, 0, 0.9749724192548673, 0.49567427764223027, 0.48748620962743416)" class="Icon"/>
         <text id="ecac0-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="20px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(57.293815534854275,25.47795971938831)">
@@ -1056,8 +1056,8 @@
         </text>
       </a>
     </g>
-    <g id="ae547" class="Group Complex GroupComplex" color="#808080" transform="translate(1455.9245283018868,715.3037619377254)">
-      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="119.33774749623672px" id="ae547-icon" width="165.50943396226398px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9939943342776204, 0, 0, 0.9916900555245038, 0.49699716713881514, 0.49584502776225037)" class="Icon"/>
+    <g id="bda6a" class="Group Complex GroupComplex" color="#808080" transform="translate(1455.9245283018868,715.3037619377254)">
+      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="119.33774749623672px" id="bda6a-icon" width="165.50943396226398px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9939943342776204, 0, 0, 0.9916900555245038, 0.49699716713881514, 0.49584502776225037)" class="Icon"/>
       <g id="b0893" class="SingleFreeNode DataNode Complex_Portal_CPX-5223 Complex" color="#000000" name="40S" transform="translate(12,12)">
         <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="25px" id="b0893-icon" width="64.84600747380827px" x="0" y="0" transform="matrix(0.9848130503524033, 0, 0, 0.9615384615384616, 0.49240652517620376, 0.48076923076922995)" class="Icon"/>
         <text id="b0893-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="20px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(32.423003736904136,18.5)">
@@ -1078,8 +1078,8 @@
         </text>
       </a>
     </g>
-    <g id="cd68c" class="Group Complex GroupComplex" color="#808080" transform="translate(1891.7735849056603,771.7457711538951)">
-      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="123.27309677063306px" id="cd68c-icon" width="313.9337444691582px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9968247289547026, 0, 0, 0.9919532060760853, 0.49841236447736037, 0.4959766030380379)" class="Icon"/>
+    <g id="c9b0f" class="Group Complex GroupComplex" color="#808080" transform="translate(1891.7735849056603,771.7457711538951)">
+      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="123.27309677063306px" id="c9b0f-icon" width="313.9337444691582px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9968247289547026, 0, 0, 0.9919532060760853, 0.49841236447736037, 0.4959766030380379)" class="Icon"/>
       <g id="dff81" class="SingleFreeNode DataNode Complex_Portal_CPX-5691 Complex" color="#000000" name="NSP3-NSP4-NSP6 complex" transform="translate(64.96778926614502,34.83273821129126)">
         <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="76.4403585593418px" id="dff81-icon" rx="15" ry="15" width="196.08881450744093px" x="0" y="0" transform="matrix(0.9949261453396065, 0, 0, 0.987086836649475, 0.4974630726698024, 0.4935434183247409)" class="Icon"/>
         <text id="dff81-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="20px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(98.04440725372046,44.2201792796709)">
@@ -1143,8 +1143,8 @@
         <tspan x="0" y="0">ACE2</tspan>
       </text>
     </a>
-    <g id="c3698" class="Group Complex GroupComplex" color="#808080" transform="translate(1212.5000502370526,227.45567886332935)">
-      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="98.99999999999983px" id="c3698-icon" width="114.59428938558858px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9913490536140216, 0, 0, 0.99, 0.49567452680700796, 0.49499999999999744)" class="Icon"/>
+    <g id="a784f" class="Group Complex GroupComplex" color="#808080" transform="translate(1212.5000502370526,227.45567886332935)">
+      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="98.99999999999983px" id="a784f-icon" width="114.59428938558858px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9913490536140216, 0, 0, 0.99, 0.49567452680700796, 0.49499999999999744)" class="Icon"/>
       <g id="af8ff" class="SingleFreeNode DataNode Complex_Portal_CPX-5687 Complex" color="#000000" name="dimer" transform="translate(12,12)">
         <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="25px" id="af8ff-icon" rx="15" ry="15" width="88.70749693275853px" x="0" y="0" transform="matrix(0.9888526596528542, 0, 0, 0.9615384615384616, 0.49442632982642465, 0.48076923076922995)" class="Icon"/>
         <text id="af8ff-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="20px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(44.353748466379265,18.5)">
@@ -1443,8 +1443,8 @@
         <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="f81a2-path" d="M1770.5806185377899,529.5884075746808L2086.345035246959,618.3981637406083" marker-end="url(#markerEndMimConversion)" class="EdgeBody"/>
       </g>
     </g>
-    <g id="cf207" class="Group Complex GroupComplex" color="#808080" transform="translate(156.01748305851726,235.35833959763323)">
-      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="107.56651589369625px" id="cf207-icon" width="200.96222955628957px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9950485791219625, 0, 0, 0.9907890569042562, 0.49752428956098527, 0.49539452845212395)" class="Icon"/>
+    <g id="a6cf9" class="Group Complex GroupComplex" color="#808080" transform="translate(156.01748305851726,235.35833959763323)">
+      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="107.56651589369625px" id="a6cf9-icon" width="200.96222955628957px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9950485791219625, 0, 0, 0.9907890569042562, 0.49752428956098527, 0.49539452845212395)" class="Icon"/>
       <g id="f4452" class="SingleFreeNode DataNode Wikidata_Q82069695 RNA" color="#000000" name="SARS-CoV-2 RNA" transform="translate(12,39.1891840307477)">
         <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="56.37733186294853px" id="f4452-icon" width="176.96222955628957px" x="0" y="0" transform="matrix(0.9943808301205639, 0, 0, 0.9825715144372938, 0.49719041506027395, 0.49128575721864465)" class="Icon"/>
         <text id="f4452-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="20px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(88.48111477814479,34.188665931474265)">
@@ -1499,8 +1499,8 @@
         <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="f9791-path" d="M193.18491015768225,812.2080124679126L245.45384121745496,812.2080124679126" marker-end="url(#markerEndMimTranscriptionTranslation)" class="EdgeBody"/>
       </g>
     </g>
-    <g id="e745a" class="Group Complex GroupComplex" color="#808080" transform="translate(629.5841584158416,595.1704623891292)">
-      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="245.61803256657765px" id="e745a-icon" width="290.9684803732109px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9965749727548613, 0, 0, 0.9959451464696523, 0.4982874863774214, 0.4979725732348328)" class="Icon"/>
+    <g id="c83ea" class="Group Complex GroupComplex" color="#808080" transform="translate(629.5841584158416,595.1704623891292)">
+      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="245.61803256657765px" id="c83ea-icon" width="290.9684803732109px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9965749727548613, 0, 0, 0.9959451464696523, 0.4982874863774214, 0.4979725732348328)" class="Icon"/>
       <a id="ed1da" class="SingleFreeNode DataNode Uniprot-TrEMBL_P0DTC2 Protein CompactIdentifier_uniprot_P0DTC2 S" color="#000000" name="S" transform="translate(39.722772277227705,49.38289739374329)" xlink:href="https://bioregistry.io/uniprot:P0DTC2" target="_blank">
         <rect fill="#ffcccc" stroke="#000000" stroke-width="1" fill-opacity="1" height="61.41171172427815px" id="ed1da-icon" rx="15" ry="15" width="146.8775705115523px" x="0" y="0" transform="matrix(0.9932376492490328, 0, 0, 0.9839773662286689, 0.49661882462451956, 0.4919886831143323)" class="Icon"/>
         <text id="ed1da-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="20px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(73.43878525577615,36.705855862139074)">
@@ -1555,8 +1555,8 @@
         <tspan x="0" y="0">orf3a</tspan>
       </text>
     </a>
-    <g id="efffa" class="Group Complex GroupComplex" color="#808080" transform="translate(1393.660377358489,148.37735849056617)">
-      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="61.359003388391216px" id="efffa-icon" width="161.7358490566039px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9938550724637681, 0, 0, 0.9839638232546519, 0.4969275362318797, 0.4919819116273274)" class="Icon"/>
+    <g id="e5458" class="Group Complex GroupComplex" color="#808080" transform="translate(1393.660377358489,148.37735849056617)">
+      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="61.359003388391216px" id="e5458-icon" width="161.7358490566039px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9938550724637681, 0, 0, 0.9839638232546519, 0.4969275362318797, 0.4919819116273274)" class="Icon"/>
       <a id="cf2d5" class="SingleFreeNode DataNode Wikidata_Q89686805 Protein CompactIdentifier_wikidata_Q89686805 nsp9" color="#000000" name="nsp9" transform="translate(12,12)" xlink:href="https://bioregistry.io/wikidata:Q89686805" target="_blank">
         <rect fill="#ffcccc" stroke="#000000" stroke-width="1" fill-opacity="1" height="37.359003388391216px" id="cf2d5-icon" rx="15" ry="15" width="64.12522930528687px" x="0" y="0" transform="matrix(0.9846449676927461, 0, 0, 0.9739305010123742, 0.49232248384637245, 0.4869652505061879)" class="Icon"/>
         <text id="cf2d5-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="20px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(32.06261465264343,24.679501694195608)">
@@ -1624,8 +1624,8 @@
         <tspan x="0" y="0">nsp12</tspan>
       </text>
     </a>
-    <g id="bc035" class="Group Complex GroupComplex" color="#808080" transform="translate(2094.5428826887423,315.1634666085881)">
-      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="99px" id="bc035-icon" width="114px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.991304347826087, 0, 0, 0.99, 0.4956521739130437, 0.49499999999999744)" class="Icon"/>
+    <g id="c6793" class="Group Complex GroupComplex" color="#808080" transform="translate(2094.5428826887423,315.1634666085881)">
+      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="99px" id="c6793-icon" width="114px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.991304347826087, 0, 0, 0.99, 0.4956521739130437, 0.49499999999999744)" class="Icon"/>
       <a id="b6977" class="SingleFreeNode DataNode Uniprot-TrEMBL_P0DTD1 Protein CompactIdentifier_uniprot_P0DTD1 orf1ab" color="#000000" name="orf1ab" transform="translate(12,37)" xlink:href="https://bioregistry.io/uniprot:P0DTD1" target="_blank">
         <rect fill="#ffcccc" stroke="#000000" stroke-width="1" fill-opacity="1" height="25px" id="b6977-icon" rx="15" ry="15" width="90px" x="0" y="0" transform="matrix(0.989010989010989, 0, 0, 0.9615384615384616, 0.4945054945054892, 0.48076923076922995)" class="Icon"/>
         <text id="b6977-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="20px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(45,18.5)">
@@ -1674,8 +1674,8 @@
         <rect style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" height="300.02970297029714px" id="b1ac4-icon" rx="15" ry="15" width="290.89581971403px" x="0" y="0" transform="matrix(0.9603824179173901, 0, 0, 0.9615421227986674, 5.76229450750435, 5.769252736791998)" class="Icon"/>
       </g>
     </g>
-    <g id="c5cb5" class="Group Complex GroupComplex" color="#808080" transform="translate(549.6968839741113,1196.8010393851594)">
-      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="242.11703528544012px" id="c5cb5-icon" width="169.6002743131461px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9941383447123628, 0, 0, 0.9958867547112611, 0.4970691723561771, 0.4979433773556394)" class="Icon"/>
+    <g id="fed75" class="Group Complex GroupComplex" color="#808080" transform="translate(549.6968839741113,1196.8010393851594)">
+      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="242.11703528544012px" id="fed75-icon" width="169.6002743131461px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9941383447123628, 0, 0, 0.9958867547112611, 0.4970691723561771, 0.4979433773556394)" class="Icon"/>
       <a id="b6f82" class="SingleFreeNode DataNode Uniprot-TrEMBL_P0DTC2 Protein CompactIdentifier_uniprot_P0DTC2 S" color="#000000" name="S" transform="translate(12.000000000000114,142.5066992593272)" xlink:href="https://bioregistry.io/uniprot:P0DTC2" target="_blank">
         <rect fill="#ffcccc" stroke="#000000" stroke-width="1" fill-opacity="1" height="65.25334962966372px" id="b6f82-icon" rx="15" ry="15" width="145.60027431314597px" x="0" y="0" transform="matrix(0.9931787303626463, 0, 0, 0.9849064235153437, 0.4965893651813218, 0.4924532117576703)" class="Icon"/>
         <text id="b6f82-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="20px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(72.80013715657299,38.62667481483186)">
@@ -1712,8 +1712,8 @@
         <rect style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" height="290.3376862238629px" id="e7aaf-icon" rx="15" ry="15" width="225.7642719211387px" x="0" y="0" transform="matrix(0.949529843558749, 0, 0, 0.9603092814862825, 5.6971790613525, 5.761855688917706)" class="Icon"/>
       </g>
     </g>
-    <g id="b2dc4" class="Group Complex GroupComplex" color="#808080" transform="translate(155.38984181665114,1316.990656889644)">
-      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="164.1692290613953px" id="b2dc4-icon" width="156.80136277225893px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9936629191127886, 0, 0, 0.9939456035141492, 0.49683145955638963, 0.4969728017570816)" class="Icon"/>
+    <g id="e655b" class="Group Complex GroupComplex" color="#808080" transform="translate(155.38984181665114,1316.990656889644)">
+      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="164.1692290613953px" id="e655b-icon" width="156.80136277225893px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9936629191127886, 0, 0, 0.9939456035141492, 0.49683145955638963, 0.4969728017570816)" class="Icon"/>
       <a id="a6335" class="SingleFreeNode DataNode Uniprot-TrEMBL_P0DTC2 Protein CompactIdentifier_uniprot_P0DTC2 S" color="#000000" name="S" transform="translate(12,105.44615270759687)" xlink:href="https://bioregistry.io/uniprot:P0DTC2" target="_blank">
         <rect fill="#ffcccc" stroke="#000000" stroke-width="1" fill-opacity="1" height="46.723076353798355px" id="a6335-icon" rx="15" ry="15" width="132.80136277225893px" x="0" y="0" transform="matrix(0.9925262345668177, 0, 0, 0.9790457766681588, 0.4962631172834051, 0.4895228883340792)" class="Icon"/>
         <text id="a6335-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="20px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(66.40068138612946,29.361538176899177)">
@@ -1739,8 +1739,8 @@
         <tspan x="0" y="0">Virion</tspan>
       </text>
     </g>
-    <g id="e36b7" class="Group Complex GroupComplex" color="#808080" transform="translate(639.4851485148513,1518.6930693069316)">
-      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="313.4133180129011px" id="e36b7-icon" width="293.45612385260745px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9966039082939889, 0, 0, 0.9968194731498016, 0.49830195414699574, 0.4984097365748994)" class="Icon"/>
+    <g id="e52b6" class="Group Complex GroupComplex" color="#808080" transform="translate(639.4851485148513,1518.6930693069316)">
+      <use fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-width="1" height="313.4133180129011px" id="e52b6-icon" width="293.45612385260745px" x="0" y="0" xlink:href="#Octagon" transform="matrix(0.9966039082939889, 0, 0, 0.9968194731498016, 0.49830195414699574, 0.4984097365748994)" class="Icon"/>
       <a id="d2d8a" class="SingleFreeNode DataNode Uniprot-TrEMBL_Q9BYF1 Protein CompactIdentifier_uniprot_Q9BYF1 ACE2 Ensembl_ENSG00000130234 Entrez_Gene_59272 HGNC_ACE2 UniProt_A0A7I2V3X6 UniProt_A0A7I2V5W5 UniProt_A0A7I2V2E9 UniProt_Q9BYF1 UniProt_A0A7I2V3N4 UniProt_A0A7I2V4H0" color="#000000" name="ACE2" transform="translate(191.45612385260745,119.44318147798367)" xlink:href="https://bioregistry.io/uniprot:Q9BYF1" target="_blank">
         <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="25px" id="d2d8a-icon" width="90px" x="0" y="0" transform="matrix(0.989010989010989, 0, 0, 0.9615384615384616, 0.4945054945054892, 0.48076923076922995)" class="Icon"/>
         <text id="d2d8a-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="20px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(45,18.5)">
@@ -1816,7 +1816,7 @@
     </a>
     <text id="WP4846__PR46-text" class="Text" direction="ltr" dominant-baseline="central" fill="black" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="bold" overflow="visible" stroke="white" stroke-width="0px" text-anchor="start" transform="translate(5,36)">
       <tspan x="0" y="-18">Name: SARS-CoV-2 and COVID-19 pathway</tspan>
-      <tspan x="0" y="0">Last Modified: 20250822101107</tspan>
+      <tspan x="0" y="0">Last Modified: 20250822102002</tspan>
       <tspan x="0" y="18">Organism: Homo sapiens</tspan>
     </text>
   </g>
