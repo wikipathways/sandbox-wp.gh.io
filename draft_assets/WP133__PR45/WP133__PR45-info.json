@@ -1,0 +1,22 @@
+{
+    "wpid": "WP133__PR45",
+    "organisms": ["Rattus norvegicus"],
+    "description": "",
+    "ontology-ids": [
+        "PW:0001253",
+        "PW:0000642"
+    ],
+    "last-edited": "2025-08-22",
+    "title": "Fatty acid omega-oxidation",
+    "authors": [
+        "Evelo",
+        "MaintBot",
+        "Thomas",
+        "Cizar",
+        "Christine Chichester",
+        "Youssefwalid",
+        "Eweitz",
+        "Mkutmon"
+    ],
+    "revision": "r20250822094859"
+}
