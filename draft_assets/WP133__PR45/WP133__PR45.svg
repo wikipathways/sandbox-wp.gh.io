@@ -436,143 +436,143 @@
       </symbol>
     </g>
   </defs>
-  <g id="WP133__PR45" class="Viewport" color="black" name="Name: Fatty acid omega-oxidation Last Modified: 20250822094859 Organism: Rattus norvegicus">
+  <g id="WP133__PR45" class="Viewport" color="black" name="Name: Fatty acid omega-oxidation Last Modified: 20250822095945 Organism: Rattus norvegicus">
     <rect fill="white" stroke="black" stroke-width="0" fill-opacity="1" height="869.5px" id="WP133__PR45-icon" width="630px" x="0" y="0" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
     <g id="c922c" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
-      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="178.5333333333333, 5.8" stroke-width="1">
-        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="c922c-path" d="M316.6666666666667,422.8333333333333L316.6666666666667,607.1666666666666" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="178.53333333333416, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="c922c-path" d="M269.3333333333321,309.49999999999966L269.3333333333321,493.8333333333338" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
       </g>
     </g>
     <g id="cba5d" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
-      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="228.5333333333333, 5.8" stroke-width="1">
-        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="cba5d-path" d="M316.6666666666667,169.5L316.6666666666667,403.8333333333333" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="228.53333333333293, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="cba5d-path" d="M269.3333333333321,56.16666666666672L269.3333333333321,290.49999999999966" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
       </g>
     </g>
     <g id="e0735" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
-      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="105.2, 5.8" stroke-width="1">
-        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="e0735-path" d="M316.6666666666667,626.1666666666666L316.6666666666667,737.1666666666666" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="105.20000000000012, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="e0735-path" d="M269.3333333333321,512.8333333333338L269.3333333333321,623.8333333333339" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
       </g>
     </g>
     <g id="f6476" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
       <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="5.52, 3.31, 5.52, 3.31, 5.52, 3.31, 5.52, 3.31, 5.52, 3.31, 5.52, 3.31, 5.52, 3.31, 0, 5.8" stroke-width="1">
-        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="f6476-path" d="M316.6666666666667,756.1666666666666L316.66666666666663,820.5" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="f6476-path" d="M269.3333333333321,642.8333333333339L269.33333333333485,707.1666666666673" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
       </g>
     </g>
-    <g id="bc9" class="SingleFreeNode Label" color="#000000" name="HO-CH-(CH2)10-COO-" transform="translate(231.5,403.8333333333333)">
+    <g id="bc9" class="SingleFreeNode Label" color="#000000" name="HO-CH-(CH2)10-COO-" transform="translate(184.16666666666544,290.49999999999966)">
       <use fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="0" height="19px" id="bc9-icon" width="170.33333333333334px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
       <text id="bc9-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="bold" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(85.16666666666667,13.5)">
         <tspan x="0" y="0">HO-CH-(CH2)10-COO-</tspan>
       </text>
     </g>
-    <g id="ccd" class="SingleFreeNode Label" color="#000000" name="HOC-(CH2)10-COO-" transform="translate(240,607.1666666666666)">
+    <g id="ccd" class="SingleFreeNode Label" color="#000000" name="HOC-(CH2)10-COO-" transform="translate(192.66666666666544,493.8333333333338)">
       <use fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="0" height="19px" id="ccd-icon" width="153.33333333333334px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
       <text id="ccd-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="bold" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(76.66666666666667,13.5)">
         <tspan x="0" y="0">HOC-(CH2)10-COO-</tspan>
       </text>
     </g>
-    <g id="dfb" class="SingleFreeNode Label" color="#000000" name="CH3-(CH2)10-COO-" transform="translate(241.5,150.5)">
+    <g id="dfb" class="SingleFreeNode Label" color="#000000" name="CH3-(CH2)10-COO-" transform="translate(194.16666666666544,37.16666666666672)">
       <use fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="0" height="19px" id="dfb-icon" width="150.33333333333334px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
       <text id="dfb-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="bold" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(75.16666666666667,13.5)">
         <tspan x="0" y="0">CH3-(CH2)10-COO-</tspan>
       </text>
     </g>
-    <g id="f28" class="SingleFreeNode Label" color="#0000ff" name="Beta Oxidation" transform="translate(258,820.5)">
+    <g id="f28" class="SingleFreeNode Label" color="#0000ff" name="Beta Oxidation" transform="translate(210.6666666666682,707.1666666666673)">
       <use fill="transparent" fill-opacity="0" stroke="#0000ff" stroke-width="0" height="19px" id="f28-icon" width="117.33333333333333px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
       <text id="f28-text" class="Text" direction="ltr" fill="#0000ff" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="bold" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(58.666666666666664,13.5)">
         <tspan x="0" y="0">Beta Oxidation</tspan>
       </text>
     </g>
-    <g id="f53" class="SingleFreeNode Label" color="#000000" name="-OOC-(CH2)10-COO-" transform="translate(237.5,737.1666666666666)">
+    <g id="f53" class="SingleFreeNode Label" color="#000000" name="-OOC-(CH2)10-COO-" transform="translate(190.16666666666544,623.8333333333339)">
       <use fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="0" height="19px" id="f53-icon" width="158.33333333333334px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
       <text id="f53-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="bold" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(79.16666666666667,13.5)">
         <tspan x="0" y="0">-OOC-(CH2)10-COO-</tspan>
       </text>
     </g>
-    <a id="ad6" class="SingleFreeNode DataNode Entrez_Gene_25086 GeneProduct CompactIdentifier_ncbigene_25086 Cyp2e1 Ensembl_ENSRNOG00000012458 UniProt_A0A8I5ZS79 UniProt_A0A8I5ZXI6 UniProt_A0A8L2Q8J4 UniProt_A0A0G2K5X9" color="#000000" name="Cyp2e1" transform="translate(283.33333333333337,340)" xlink:href="https://bioregistry.io/ncbigene:25086" target="_blank">
+    <a id="ad6" class="SingleFreeNode DataNode Entrez_Gene_25086 GeneProduct CompactIdentifier_ncbigene_25086 Cyp2e1 Ensembl_ENSRNOG00000012458 UniProt_A0A8I5ZS79 UniProt_A0A8I5ZXI6 UniProt_A0A8L2Q8J4 UniProt_A0A0G2K5X9" color="#000000" name="Cyp2e1" transform="translate(235.9999999999993,226.66666666666654)" xlink:href="https://bioregistry.io/ncbigene:25086" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="ad6-icon" width="66.66666666666667px" x="0" y="0" transform="matrix(0.9852216748768473, 0, 0, 0.9523809523809523, 0.49261083743841994, 0.4761904761904763)" class="Icon"/>
       <text id="ad6-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(33.333333333333336,13)">
         <tspan x="0" y="0">Cyp2e1</tspan>
       </text>
     </a>
-    <a id="b16" class="SingleFreeNode DataNode Entrez_Gene_24297 GeneProduct CompactIdentifier_ncbigene_24297 Cyp1a2" color="#000000" name="Cyp1a2" transform="translate(283.33333333333337,240)" xlink:href="https://bioregistry.io/ncbigene:24297" target="_blank">
+    <a id="b16" class="SingleFreeNode DataNode Entrez_Gene_24297 GeneProduct CompactIdentifier_ncbigene_24297 Cyp1a2" color="#000000" name="Cyp1a2" transform="translate(235.9999999999993,126.6666666666668)" xlink:href="https://bioregistry.io/ncbigene:24297" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="b16-icon" width="66.66666666666667px" x="0" y="0" transform="matrix(0.9852216748768473, 0, 0, 0.9523809523809523, 0.49261083743841994, 0.4761904761904763)" class="Icon"/>
       <text id="b16-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(33.333333333333336,13)">
         <tspan x="0" y="0">Cyp1a2</tspan>
       </text>
     </a>
-    <a id="bb0" class="SingleFreeNode DataNode Entrez_Gene_266682 GeneProduct CompactIdentifier_ncbigene_266682 Cyp3a2 Ensembl_ENSRNOG00000032560 UniProt_A0A8I6AL74 UniProt_A0A8I5ZZ45 UniProt_A0A0G2JT98" color="#000000" name="Cyp3a2" transform="translate(283.33333333333337,260)" xlink:href="https://bioregistry.io/ncbigene:266682" target="_blank">
+    <a id="bb0" class="SingleFreeNode DataNode Entrez_Gene_266682 GeneProduct CompactIdentifier_ncbigene_266682 Cyp3a2 Ensembl_ENSRNOG00000032560 UniProt_A0A8I6AL74 UniProt_A0A8I5ZZ45 UniProt_A0A0G2JT98" color="#000000" name="Cyp3a2" transform="translate(235.9999999999993,146.66666666666683)" xlink:href="https://bioregistry.io/ncbigene:266682" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="bb0-icon" width="66.66666666666667px" x="0" y="0" transform="matrix(0.9852216748768473, 0, 0, 0.9523809523809523, 0.49261083743841994, 0.4761904761904763)" class="Icon"/>
       <text id="bb0-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(33.333333333333336,13)">
         <tspan x="0" y="0">Cyp3a2</tspan>
       </text>
     </a>
-    <a id="c42" class="SingleFreeNode DataNode Entrez_Gene_170518 GeneProduct CompactIdentifier_ncbigene_170518 Cyp2d6" color="#000000" name="Cyp2d6" transform="translate(283.33333333333337,320)" xlink:href="https://bioregistry.io/ncbigene:170518" target="_blank">
+    <a id="c42" class="SingleFreeNode DataNode Entrez_Gene_170518 GeneProduct CompactIdentifier_ncbigene_170518 Cyp2d6" color="#000000" name="Cyp2d6" transform="translate(235.9999999999993,206.6666666666665)" xlink:href="https://bioregistry.io/ncbigene:170518" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="c42-icon" width="66.66666666666667px" x="0" y="0" transform="matrix(0.9852216748768473, 0, 0, 0.9523809523809523, 0.49261083743841994, 0.4761904761904763)" class="Icon"/>
       <text id="c42-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(33.333333333333336,13)">
         <tspan x="0" y="0">Cyp2d6</tspan>
       </text>
     </a>
-    <a id="cdc" class="SingleFreeNode DataNode Entrez_Gene_310903 GeneProduct CompactIdentifier_ncbigene_310903 Adh6 Ensembl_ENSRNOG00000069176 UniProt_A0A8L2QGL3 UniProt_A0A8I6A108 UniProt_A0A8I5ZLG2 UniProt_A0A8I6ATS6" color="#000000" name="Adh6" transform="translate(290,526.6666666666666)" xlink:href="https://bioregistry.io/ncbigene:310903" target="_blank">
+    <a id="cdc" class="SingleFreeNode DataNode Entrez_Gene_310903 GeneProduct CompactIdentifier_ncbigene_310903 Adh6 Ensembl_ENSRNOG00000069176 UniProt_A0A8L2QGL3 UniProt_A0A8I6A108 UniProt_A0A8I5ZLG2 UniProt_A0A8I6ATS6" color="#000000" name="Adh6" transform="translate(242.66666666666683,413.33333333333337)" xlink:href="https://bioregistry.io/ncbigene:310903" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="cdc-icon" width="53.333333333333336px" x="0" y="0" transform="matrix(0.9815950920245399, 0, 0, 0.9523809523809523, 0.49079754601227066, 0.4761904761904763)" class="Icon"/>
       <text id="cdc-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(26.666666666666668,13)">
         <tspan x="0" y="0">Adh6</tspan>
       </text>
     </a>
-    <a id="ced" class="SingleFreeNode DataNode Entrez_Gene_24172 GeneProduct CompactIdentifier_ncbigene_24172 Adh1c Ensembl_ENSRNOG00000012436 UniProt_P06757 UniProt_A0A8L2R817" color="#000000" name="Adh1c" transform="translate(290,486.6666666666667)" xlink:href="https://bioregistry.io/ncbigene:24172" target="_blank">
+    <a id="ced" class="SingleFreeNode DataNode Entrez_Gene_24172 GeneProduct CompactIdentifier_ncbigene_24172 Adh1c Ensembl_ENSRNOG00000012436 UniProt_P06757 UniProt_A0A8L2R817" color="#000000" name="Adh1c" transform="translate(242.66666666666683,373.33333333333303)" xlink:href="https://bioregistry.io/ncbigene:24172" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="ced-icon" width="53.333333333333336px" x="0" y="0" transform="matrix(0.9815950920245399, 0, 0, 0.9523809523809523, 0.49079754601227066, 0.4761904761904763)" class="Icon"/>
       <text id="ced-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(26.666666666666668,13)">
         <tspan x="0" y="0">Adh1c</tspan>
       </text>
     </a>
-    <a id="dbd" class="SingleFreeNode DataNode Entrez_Gene_24172 GeneProduct CompactIdentifier_ncbigene_24172 Adh1 Ensembl_ENSRNOG00000012436 UniProt_P06757 UniProt_A0A8L2R817" color="#000000" name="Adh1" transform="translate(290,446.6666666666667)" xlink:href="https://bioregistry.io/ncbigene:24172" target="_blank">
+    <a id="dbd" class="SingleFreeNode DataNode Entrez_Gene_24172 GeneProduct CompactIdentifier_ncbigene_24172 Adh1 Ensembl_ENSRNOG00000012436 UniProt_P06757 UniProt_A0A8L2R817" color="#000000" name="Adh1" transform="translate(242.66666666666683,333.33333333333303)" xlink:href="https://bioregistry.io/ncbigene:24172" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="dbd-icon" width="53.333333333333336px" x="0" y="0" transform="matrix(0.9815950920245399, 0, 0, 0.9523809523809523, 0.49079754601227066, 0.4761904761904763)" class="Icon"/>
       <text id="dbd-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(26.666666666666668,13)">
         <tspan x="0" y="0">Adh1</tspan>
       </text>
     </a>
-    <a id="dc8" class="SingleFreeNode DataNode Entrez_Gene_24306 GeneProduct CompactIdentifier_ncbigene_24306 Cyp4a11 Ensembl_ENSRNOG00000066487 UniProt_F1M7X1 UniProt_P20816" color="#000000" name="Cyp4a11" transform="translate(283.33333333333337,280)" xlink:href="https://bioregistry.io/ncbigene:24306" target="_blank">
+    <a id="dc8" class="SingleFreeNode DataNode Entrez_Gene_24306 GeneProduct CompactIdentifier_ncbigene_24306 Cyp4a11 Ensembl_ENSRNOG00000066487 UniProt_F1M7X1 UniProt_P20816" color="#000000" name="Cyp4a11" transform="translate(235.9999999999993,166.6666666666667)" xlink:href="https://bioregistry.io/ncbigene:24306" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="dc8-icon" width="66.66666666666667px" x="0" y="0" transform="matrix(0.9852216748768473, 0, 0, 0.9523809523809523, 0.49261083743841994, 0.4761904761904763)" class="Icon"/>
       <text id="dc8-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(33.333333333333336,13)">
         <tspan x="0" y="0">Cyp4a11</tspan>
       </text>
     </a>
-    <g id="dce" class="SingleFreeNode DataNode GeneProduct" color="#000000" name="ADH1B" transform="translate(290,466.6666666666667)">
+    <g id="dce" class="SingleFreeNode DataNode GeneProduct" color="#000000" name="ADH1B" transform="translate(242.66666666666683,353.33333333333303)">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="dce-icon" width="53.333333333333336px" x="0" y="0" transform="matrix(0.9815950920245399, 0, 0, 0.9523809523809523, 0.49079754601227066, 0.4761904761904763)" class="Icon"/>
       <text id="dce-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(26.666666666666668,13)">
         <tspan x="0" y="0">ADH1B</tspan>
       </text>
     </g>
-    <a id="e5b" class="SingleFreeNode DataNode Entrez_Gene_29646 GeneProduct CompactIdentifier_ncbigene_29646 Adh4 Ensembl_ENSRNOG00000046357 Entrez_Gene_100145871 UniProt_Q7TQ90 UniProt_F7F9U1 UniProt_P12711 UniProt_A1L128" color="#000000" name="Adh4" transform="translate(290,506.66666666666663)" xlink:href="https://bioregistry.io/ncbigene:29646" target="_blank">
+    <a id="e5b" class="SingleFreeNode DataNode Entrez_Gene_29646 GeneProduct CompactIdentifier_ncbigene_29646 Adh4 Ensembl_ENSRNOG00000046357 Entrez_Gene_100145871 UniProt_Q7TQ90 UniProt_F7F9U1 UniProt_P12711 UniProt_A1L128" color="#000000" name="Adh4" transform="translate(242.66666666666683,393.33333333333303)" xlink:href="https://bioregistry.io/ncbigene:29646" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="e5b-icon" width="53.333333333333336px" x="0" y="0" transform="matrix(0.9815950920245399, 0, 0, 0.9523809523809523, 0.49079754601227066, 0.4761904761904763)" class="Icon"/>
       <text id="e5b-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(26.666666666666668,13)">
         <tspan x="0" y="0">Adh4</tspan>
       </text>
     </a>
-    <a id="e8a" class="SingleFreeNode DataNode Entrez_Gene_24188 GeneProduct CompactIdentifier_ncbigene_24188 Aldh1a1 Ensembl_ENSRNOG00000017619 UniProt_A0A0H2UHP1 UniProt_A0A8I6AP49" color="#000000" name="Aldh1a1" transform="translate(283.33333333333337,653.3333333333334)" xlink:href="https://bioregistry.io/ncbigene:24188" target="_blank">
+    <a id="e8a" class="SingleFreeNode DataNode Entrez_Gene_24188 GeneProduct CompactIdentifier_ncbigene_24188 Aldh1a1 Ensembl_ENSRNOG00000017619 UniProt_A0A0H2UHP1 UniProt_A0A8I6AP49" color="#000000" name="Aldh1a1" transform="translate(235.9999999999993,540.0000000000007)" xlink:href="https://bioregistry.io/ncbigene:24188" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="e8a-icon" width="66.66666666666667px" x="0" y="0" transform="matrix(0.9852216748768473, 0, 0, 0.9523809523809523, 0.49261083743841994, 0.4761904761904763)" class="Icon"/>
       <text id="e8a-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(33.333333333333336,13)">
         <tspan x="0" y="0">Aldh1a1</tspan>
       </text>
     </a>
-    <a id="ebc" class="SingleFreeNode DataNode Entrez_Gene_171178 GeneProduct CompactIdentifier_ncbigene_171178 Adh7 Ensembl_ENSRNOG00000032959 UniProt_G3V7J9 UniProt_A0A8I5ZKA5" color="#000000" name="Adh7" transform="translate(290,546.6666666666666)" xlink:href="https://bioregistry.io/ncbigene:171178" target="_blank">
+    <a id="ebc" class="SingleFreeNode DataNode Entrez_Gene_171178 GeneProduct CompactIdentifier_ncbigene_171178 Adh7 Ensembl_ENSRNOG00000032959 UniProt_G3V7J9 UniProt_A0A8I5ZKA5" color="#000000" name="Adh7" transform="translate(242.66666666666683,433.3333333333331)" xlink:href="https://bioregistry.io/ncbigene:171178" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="ebc-icon" width="53.333333333333336px" x="0" y="0" transform="matrix(0.9815950920245399, 0, 0, 0.9523809523809523, 0.49079754601227066, 0.4761904761904763)" class="Icon"/>
       <text id="ebc-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(26.666666666666668,13)">
         <tspan x="0" y="0">Adh7</tspan>
       </text>
     </a>
-    <g id="f0c" class="SingleFreeNode DataNode GeneProduct" color="#000000" name="Cyp2a6" transform="translate(283.33333333333337,300)">
+    <g id="f0c" class="SingleFreeNode DataNode GeneProduct" color="#000000" name="Cyp2a6" transform="translate(235.9999999999993,186.66666666666677)">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="f0c-icon" width="66.66666666666667px" x="0" y="0" transform="matrix(0.9852216748768473, 0, 0, 0.9523809523809523, 0.49261083743841994, 0.4761904761904763)" class="Icon"/>
       <text id="f0c-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(33.333333333333336,13)">
         <tspan x="0" y="0">Cyp2a6</tspan>
       </text>
     </g>
-    <a id="f73" class="SingleFreeNode DataNode Entrez_Gene_29539 GeneProduct CompactIdentifier_ncbigene_29539 Aldh2 Ensembl_ENSRNOG00000037815 Entrez_Gene_304500 UniProt_F1LN88 UniProt_M0R6F2 UniProt_A0A8I6AVL2 UniProt_A0A8I6AGW1 UniProt_A0A8I6AV92 UniProt_B5DEF6 UniProt_A0A8I6A4Z6" color="#000000" name="Aldh2" transform="translate(283.33333333333337,673.3333333333334)" xlink:href="https://bioregistry.io/ncbigene:29539" target="_blank">
+    <a id="f73" class="SingleFreeNode DataNode Entrez_Gene_29539 GeneProduct CompactIdentifier_ncbigene_29539 Aldh2 Ensembl_ENSRNOG00000037815 Entrez_Gene_304500 UniProt_F1LN88 UniProt_M0R6F2 UniProt_A0A8I6AVL2 UniProt_A0A8I6AGW1 UniProt_A0A8I6AV92 UniProt_B5DEF6 UniProt_A0A8I6A4Z6" color="#000000" name="Aldh2" transform="translate(235.9999999999993,560.0000000000007)" xlink:href="https://bioregistry.io/ncbigene:29539" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="f73-icon" width="66.66666666666667px" x="0" y="0" transform="matrix(0.9852216748768473, 0, 0, 0.9523809523809523, 0.49261083743841994, 0.4761904761904763)" class="Icon"/>
       <text id="f73-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(33.333333333333336,13)">
         <tspan x="0" y="0">Aldh2</tspan>
       </text>
     </a>
-    <a id="fdb" class="SingleFreeNode DataNode Entrez_Gene_24296 GeneProduct CompactIdentifier_ncbigene_24296 Cyp1a1 Ensembl_ENSRNOG00000019500 UniProt_P00185" color="#000000" name="Cyp1a1" transform="translate(283.33333333333337,220)" xlink:href="https://bioregistry.io/ncbigene:24296" target="_blank">
+    <a id="fdb" class="SingleFreeNode DataNode Entrez_Gene_24296 GeneProduct CompactIdentifier_ncbigene_24296 Cyp1a1 Ensembl_ENSRNOG00000019500 UniProt_P00185" color="#000000" name="Cyp1a1" transform="translate(235.9999999999993,106.66666666666681)" xlink:href="https://bioregistry.io/ncbigene:24296" target="_blank">
       <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="fdb-icon" width="66.66666666666667px" x="0" y="0" transform="matrix(0.9852216748768473, 0, 0, 0.9523809523809523, 0.49261083743841994, 0.4761904761904763)" class="Icon"/>
       <text id="fdb-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(33.333333333333336,13)">
         <tspan x="0" y="0">Cyp1a1</tspan>
@@ -580,7 +580,7 @@
     </a>
     <text id="WP133__PR45-text" class="Text" direction="ltr" dominant-baseline="central" fill="black" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="bold" overflow="visible" stroke="white" stroke-width="0px" text-anchor="start" transform="translate(5,36)">
       <tspan x="0" y="-18">Name: Fatty acid omega-oxidation</tspan>
-      <tspan x="0" y="0">Last Modified: 20250822094859</tspan>
+      <tspan x="0" y="0">Last Modified: 20250822095945</tspan>
       <tspan x="0" y="18">Organism: Rattus norvegicus</tspan>
     </text>
   </g>

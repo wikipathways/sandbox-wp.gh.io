@@ -39,10 +39,10 @@
       "whiteSpace": "pre",
       "width": 66.66666666666667,
       "wpType": "GeneProduct",
-      "x": 283.33333333333337,
+      "x": 235.9999999999993,
       "xrefDataSource": "Entrez Gene",
       "xrefIdentifier": "25086",
-      "y": 340,
+      "y": 226.66666666666654,
       "zIndex": 32768
     },
     "b16": {
@@ -78,10 +78,10 @@
       "whiteSpace": "pre",
       "width": 66.66666666666667,
       "wpType": "GeneProduct",
-      "x": 283.33333333333337,
+      "x": 235.9999999999993,
       "xrefDataSource": "Entrez Gene",
       "xrefIdentifier": "24297",
-      "y": 240,
+      "y": 126.6666666666668,
       "zIndex": 32768
     },
     "bb0": {
@@ -122,10 +122,10 @@
       "whiteSpace": "pre",
       "width": 66.66666666666667,
       "wpType": "GeneProduct",
-      "x": 283.33333333333337,
+      "x": 235.9999999999993,
       "xrefDataSource": "Entrez Gene",
       "xrefIdentifier": "266682",
-      "y": 260,
+      "y": 146.66666666666683,
       "zIndex": 32768
     },
     "bc9": {
@@ -155,8 +155,8 @@
       "verticalAlign": "middle",
       "whiteSpace": "pre",
       "width": 170.33333333333334,
-      "x": 231.5,
-      "y": 403.8333333333333,
+      "x": 184.16666666666544,
+      "y": 290.49999999999966,
       "zIndex": 28672
     },
     "c42": {
@@ -192,10 +192,10 @@
       "whiteSpace": "pre",
       "width": 66.66666666666667,
       "wpType": "GeneProduct",
-      "x": 283.33333333333337,
+      "x": 235.9999999999993,
       "xrefDataSource": "Entrez Gene",
       "xrefIdentifier": "170518",
-      "y": 320,
+      "y": 206.6666666666665,
       "zIndex": 32768
     },
     "c922c": {
@@ -221,14 +221,14 @@
               1
             ]
           },
-          "id": "a8366",
+          "id": "c03e0",
           "isAttachedTo": "bc9",
           "orientation": [
             0,
             1
           ],
-          "x": 316.6666666666667,
-          "y": 422.8333333333333
+          "x": 269.3333333333321,
+          "y": 309.49999999999966
         },
         {
           "attachmentDisplay": {
@@ -241,14 +241,14 @@
               0
             ]
           },
-          "id": "eec37",
+          "id": "b209c",
           "isAttachedTo": "ccd",
           "orientation": [
             0,
             1
           ],
-          "x": 316.6666666666667,
-          "y": 607.1666666666666
+          "x": 269.3333333333321,
+          "y": 493.8333333333338
         }
       ],
       "stroke": "#000000",
@@ -286,14 +286,14 @@
               1
             ]
           },
-          "id": "b8e3e",
+          "id": "b0924",
           "isAttachedTo": "dfb",
           "orientation": [
             0,
             1
           ],
-          "x": 316.6666666666667,
-          "y": 169.5
+          "x": 269.3333333333321,
+          "y": 56.16666666666672
         },
         {
           "attachmentDisplay": {
@@ -306,14 +306,14 @@
               0
             ]
           },
-          "id": "bc74f",
+          "id": "e715a",
           "isAttachedTo": "bc9",
           "orientation": [
             0,
             1
           ],
-          "x": 316.6666666666667,
-          "y": 403.8333333333333
+          "x": 269.3333333333321,
+          "y": 290.49999999999966
         }
       ],
       "stroke": "#000000",
@@ -355,8 +355,8 @@
       "verticalAlign": "middle",
       "whiteSpace": "pre",
       "width": 153.33333333333334,
-      "x": 240,
-      "y": 607.1666666666666,
+      "x": 192.66666666666544,
+      "y": 493.8333333333338,
       "zIndex": 28672
     },
     "cdc": {
@@ -398,10 +398,10 @@
       "whiteSpace": "pre",
       "width": 53.333333333333336,
       "wpType": "GeneProduct",
-      "x": 290,
+      "x": 242.66666666666683,
       "xrefDataSource": "Entrez Gene",
       "xrefIdentifier": "310903",
-      "y": 526.6666666666666,
+      "y": 413.33333333333337,
       "zIndex": 32768
     },
     "ced": {
@@ -441,10 +441,10 @@
       "whiteSpace": "pre",
       "width": 53.333333333333336,
       "wpType": "GeneProduct",
-      "x": 290,
+      "x": 242.66666666666683,
       "xrefDataSource": "Entrez Gene",
       "xrefIdentifier": "24172",
-      "y": 486.6666666666667,
+      "y": 373.33333333333303,
       "zIndex": 32768
     },
     "dbd": {
@@ -484,10 +484,10 @@
       "whiteSpace": "pre",
       "width": 53.333333333333336,
       "wpType": "GeneProduct",
-      "x": 290,
+      "x": 242.66666666666683,
       "xrefDataSource": "Entrez Gene",
       "xrefIdentifier": "24172",
-      "y": 446.6666666666667,
+      "y": 333.33333333333303,
       "zIndex": 32768
     },
     "dc8": {
@@ -527,10 +527,10 @@
       "whiteSpace": "pre",
       "width": 66.66666666666667,
       "wpType": "GeneProduct",
-      "x": 283.33333333333337,
+      "x": 235.9999999999993,
       "xrefDataSource": "Entrez Gene",
       "xrefIdentifier": "24306",
-      "y": 280,
+      "y": 166.6666666666667,
       "zIndex": 32768
     },
     "dce": {
@@ -563,8 +563,8 @@
       "whiteSpace": "pre",
       "width": 53.333333333333336,
       "wpType": "GeneProduct",
-      "x": 290,
-      "y": 466.6666666666667,
+      "x": 242.66666666666683,
+      "y": 353.33333333333303,
       "zIndex": 32768
     },
     "dfb": {
@@ -594,8 +594,8 @@
       "verticalAlign": "middle",
       "whiteSpace": "pre",
       "width": 150.33333333333334,
-      "x": 241.5,
-      "y": 150.5,
+      "x": 194.16666666666544,
+      "y": 37.16666666666672,
       "zIndex": 28672
     },
     "e0735": {
@@ -621,14 +621,14 @@
               1
             ]
           },
-          "id": "d889d",
+          "id": "e9345",
           "isAttachedTo": "ccd",
           "orientation": [
             0,
             1
           ],
-          "x": 316.6666666666667,
-          "y": 626.1666666666666
+          "x": 269.3333333333321,
+          "y": 512.8333333333338
         },
         {
           "attachmentDisplay": {
@@ -641,14 +641,14 @@
               0
             ]
           },
-          "id": "fda5a",
+          "id": "b58fb",
           "isAttachedTo": "f53",
           "orientation": [
             0,
             1
           ],
-          "x": 316.6666666666667,
-          "y": 737.1666666666666
+          "x": 269.3333333333321,
+          "y": 623.8333333333339
         }
       ],
       "stroke": "#000000",
@@ -703,10 +703,10 @@
       "whiteSpace": "pre",
       "width": 53.333333333333336,
       "wpType": "GeneProduct",
-      "x": 290,
+      "x": 242.66666666666683,
       "xrefDataSource": "Entrez Gene",
       "xrefIdentifier": "29646",
-      "y": 506.66666666666663,
+      "y": 393.33333333333303,
       "zIndex": 32768
     },
     "e8a": {
@@ -746,10 +746,10 @@
       "whiteSpace": "pre",
       "width": 66.66666666666667,
       "wpType": "GeneProduct",
-      "x": 283.33333333333337,
+      "x": 235.9999999999993,
       "xrefDataSource": "Entrez Gene",
       "xrefIdentifier": "24188",
-      "y": 653.3333333333334,
+      "y": 540.0000000000007,
       "zIndex": 32768
     },
     "ebc": {
@@ -789,10 +789,10 @@
       "whiteSpace": "pre",
       "width": 53.333333333333336,
       "wpType": "GeneProduct",
-      "x": 290,
+      "x": 242.66666666666683,
       "xrefDataSource": "Entrez Gene",
       "xrefIdentifier": "171178",
-      "y": 546.6666666666666,
+      "y": 433.3333333333331,
       "zIndex": 32768
     },
     "f0c": {
@@ -825,8 +825,8 @@
       "whiteSpace": "pre",
       "width": 66.66666666666667,
       "wpType": "GeneProduct",
-      "x": 283.33333333333337,
-      "y": 300,
+      "x": 235.9999999999993,
+      "y": 186.66666666666677,
       "zIndex": 32768
     },
     "f28": {
@@ -856,8 +856,8 @@
       "verticalAlign": "middle",
       "whiteSpace": "pre",
       "width": 117.33333333333333,
-      "x": 258,
-      "y": 820.5,
+      "x": 210.6666666666682,
+      "y": 707.1666666666673,
       "zIndex": 28672
     },
     "f53": {
@@ -887,8 +887,8 @@
       "verticalAlign": "middle",
       "whiteSpace": "pre",
       "width": 158.33333333333334,
-      "x": 237.5,
-      "y": 737.1666666666666,
+      "x": 190.16666666666544,
+      "y": 623.8333333333339,
       "zIndex": 28672
     },
     "f6476": {
@@ -914,14 +914,14 @@
               1
             ]
           },
-          "id": "e1521",
+          "id": "a9c21",
           "isAttachedTo": "f53",
           "orientation": [
             0,
             1
           ],
-          "x": 316.6666666666667,
-          "y": 756.1666666666666
+          "x": 269.3333333333321,
+          "y": 642.8333333333339
         },
         {
           "attachmentDisplay": {
@@ -934,14 +934,14 @@
               0
             ]
           },
-          "id": "b478a",
+          "id": "e7053",
           "isAttachedTo": "f28",
           "orientation": [
             0,
             1
           ],
-          "x": 316.66666666666663,
-          "y": 820.5
+          "x": 269.33333333333485,
+          "y": 707.1666666666673
         }
       ],
       "stroke": "#000000",
@@ -1000,10 +1000,10 @@
       "whiteSpace": "pre",
       "width": 66.66666666666667,
       "wpType": "GeneProduct",
-      "x": 283.33333333333337,
+      "x": 235.9999999999993,
       "xrefDataSource": "Entrez Gene",
       "xrefIdentifier": "29539",
-      "y": 673.3333333333334,
+      "y": 560.0000000000007,
       "zIndex": 32768
     },
     "fdb": {
@@ -1042,10 +1042,10 @@
       "whiteSpace": "pre",
       "width": 66.66666666666667,
       "wpType": "GeneProduct",
-      "x": 283.33333333333337,
+      "x": 235.9999999999993,
       "xrefDataSource": "Entrez Gene",
       "xrefIdentifier": "24296",
-      "y": 220,
+      "y": 106.66666666666681,
       "zIndex": 32768
     },
     "http://identifiers.org/pw/PW:0000642": {
@@ -1108,7 +1108,7 @@
       "f73",
       "fdb"
     ],
-    "dataSourceVersion": "WP133_r20250822094859",
+    "dataSourceVersion": "WP133_r20250822095945",
     "displayName": "Fatty acid omega-oxidation",
     "drawAs": "rect",
     "fill": "white",
@@ -1118,7 +1118,7 @@
     "height": 869.5,
     "id": "WP133__PR45",
     "kaavioType": "Group",
-    "lastModified": "20250822094859",
+    "lastModified": "20250822095945",
     "name": "Fatty acid omega-oxidation",
     "organism": "Rattus norvegicus",
     "padding": 5,
@@ -1127,7 +1127,7 @@
     "stroke": "black",
     "strokeWidth": 0,
     "textAlign": "left",
-    "textContent": "Name: Fatty acid omega-oxidation\nLast Modified: 20250822094859\nOrganism: Rattus norvegicus",
+    "textContent": "Name: Fatty acid omega-oxidation\nLast Modified: 20250822095945\nOrganism: Rattus norvegicus",
     "type": [
       "Pathway",
       "http://identifiers.org/pw/PW:0001253",
