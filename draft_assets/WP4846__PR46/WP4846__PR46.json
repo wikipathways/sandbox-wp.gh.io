@@ -1,6 +1,6 @@
 {
   "entitiesById": {
-    "294489": {
+    "080593": {
       "__HighlandStream__": true,
       "_can_drain": false,
       "_consume_waiting_for_next": false,
@@ -17,12 +17,12 @@
       "_outgoing": [],
       "_repeat_resume": false,
       "_send_events": false,
-      "id": "294489",
+      "id": "080593",
       "paused": true,
       "source": null,
       "writable": true
     },
-    "937967": {
+    "641452": {
       "__HighlandStream__": true,
       "_can_drain": false,
       "_consume_waiting_for_next": false,
@@ -39,7 +39,7 @@
       "_outgoing": [],
       "_repeat_resume": false,
       "_send_events": false,
-      "id": "937967",
+      "id": "641452",
       "paused": true,
       "source": null,
       "writable": true
