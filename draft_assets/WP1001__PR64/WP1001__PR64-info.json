@@ -1,0 +1,15 @@
+{
+    "wpid": "WP1001__PR64",
+    "organisms": ["Bos taurus"],
+    "description": "",
+    "ontology-ids": ["PW:0000125"],
+    "last-edited": "2026-07-15",
+    "title": "Changing file name to test changes",
+    "authors": [
+        "MaintBot",
+        "Andra",
+        "Egonw",
+        "Mkutmon"
+    ],
+    "revision": "r115319"
+}

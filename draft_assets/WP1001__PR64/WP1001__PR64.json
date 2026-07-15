@@ -1,0 +1,6784 @@
+{
+  "entitiesById": {
+    "a071b": {
+      "contains": [
+        "a14",
+        "a71",
+        "bac",
+        "bb5",
+        "f35",
+        "f65",
+        "faa"
+      ],
+      "drawAs": "rect",
+      "fill": "#b4b464",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 98,
+      "id": "a071b",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupNone"
+      ],
+      "verticalAlign": "middle",
+      "width": 138,
+      "x": 649,
+      "y": 289.6666666666667,
+      "zIndex": 32768
+    },
+    "a0c4f": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "a0c4f",
+      "isAttachedTo": [
+        "ebaa0",
+        "dd9"
+      ],
+      "kaavioType": "Edge",
+      "markerStart": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "id": "c9973",
+          "isAttachedTo": "ebaa0",
+          "orientation": [
+            0,
+            -1
+          ],
+          "x": 369.5,
+          "y": 581
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0,
+              0.5
+            ]
+          },
+          "id": "d4aac",
+          "isAttachedTo": "dd9",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 424.3333333333333,
+          "y": 225
+        }
+      ],
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "a0e": {
+      "backpageHead": "SSTR2 | somatostatin receptor 2",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:6752",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "a0e",
+      "isPartOf": "e4c24",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "SSTR2",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000017136",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000017136",
+        "SSTR2",
+        "Ensembl:ENSBTAG00000017136",
+        "Entrez Gene:282083",
+        "UniProt:F1MEN6"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000017136",
+      "y": 29,
+      "zIndex": 32768
+    },
+    "a14": {
+      "backpageHead": "IL8RA | interleukin 8 receptor alpha",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:3577",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "a14",
+      "isPartOf": "a071b",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CXCR2",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000026753",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000026753",
+        "CXCR2",
+        "Ensembl:ENSBTAG00000026753",
+        "Entrez Gene:281863",
+        "UniProt:J3QY08",
+        "UniProt:G5E6Q0"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000026753",
+      "y": 49,
+      "zIndex": 32768
+    },
+    "a33": {
+      "backpageHead": "NPY2R | neuropeptide Y receptor Y2",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:4887",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "a33",
+      "isPartOf": "bacb1",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "NPY2R",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000016633",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000016633",
+        "NPY2R",
+        "Ensembl:ENSBTAG00000016633",
+        "Entrez Gene:281943",
+        "UniProt:B1H0W3"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000016633",
+      "y": 29,
+      "zIndex": 32768
+    },
+    "a37": {
+      "backpageHead": "CXCR3 | chemokine (C-X-C motif) receptor 3",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:2833",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "a37",
+      "isPartOf": "a6912",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CXCR3",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000014798",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000014798",
+        "CXCR3",
+        "Ensembl:ENSBTAG00000014798",
+        "Entrez Gene:497018",
+        "UniProt:Q5MD61"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 129,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000014798",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "a3cc9": {
+      "contains": [
+        "be4",
+        "e82",
+        "f42",
+        "f47"
+      ],
+      "drawAs": "rect",
+      "fill": "#b4b464",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 97.99999999999994,
+      "id": "a3cc9",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupNone"
+      ],
+      "verticalAlign": "middle",
+      "width": 78,
+      "x": 414.3333333333333,
+      "y": 445.6666666666667,
+      "zIndex": 32768
+    },
+    "a4e": {
+      "backpageHead": "CCR5 | chemokine (C-C motif) receptor 5",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:1234",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "a4e",
+      "isPartOf": "a6912",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CCR5",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000008099",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000008099",
+        "CCR5"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000008099",
+      "y": 88.99999999999999,
+      "zIndex": 32768
+    },
+    "a55": {
+      "backpageHead": "GALR3 | galanin receptor 3",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:8484",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "a55",
+      "isPartOf": "aea5f",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "GALR3",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000008857",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000008857",
+        "GALR3",
+        "Ensembl:ENSBTAG00000008857",
+        "Entrez Gene:788463",
+        "UniProt:E1BKZ6"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000008857",
+      "y": 49,
+      "zIndex": 32768
+    },
+    "a5d9d": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "a5d9d",
+      "isAttachedTo": [
+        "c48",
+        "da478"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              1,
+              0.5
+            ]
+          },
+          "id": "edca3",
+          "isAttachedTo": "c48",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 144.66666666666669,
+          "y": 412
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              0
+            ]
+          },
+          "id": "a211d",
+          "isAttachedTo": "da478",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 172.75,
+          "y": 579
+        }
+      ],
+      "stroke": "#00ff00",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "a622d": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "a622d",
+      "isAttachedTo": [
+        "ebaa0",
+        "d20"
+      ],
+      "kaavioType": "Edge",
+      "markerStart": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "id": "db09a",
+          "isAttachedTo": "ebaa0",
+          "orientation": [
+            0,
+            -1
+          ],
+          "x": 369.5,
+          "y": 581
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0,
+              0.5
+            ]
+          },
+          "id": "a6913",
+          "isAttachedTo": "d20",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 424.3333333333333,
+          "y": 116.33333333333333
+        }
+      ],
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "a6912": {
+      "contains": [
+        "a37",
+        "a4e",
+        "aec",
+        "b54",
+        "ba1",
+        "c67",
+        "c6e",
+        "ca8",
+        "db8",
+        "e58",
+        "e92",
+        "f49",
+        "fb2",
+        "fbd",
+        "ff5",
+        "ffe",
+        "fff"
+      ],
+      "drawAs": "rect",
+      "fill": "#b4b464",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 138,
+      "id": "a6912",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupNone"
+      ],
+      "verticalAlign": "middle",
+      "width": 198,
+      "x": 557,
+      "y": 101.66666666666667,
+      "zIndex": 32768
+    },
+    "a6973": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "a6973",
+      "isAttachedTo": [
+        "c1a",
+        "a8d32"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              1,
+              0.5
+            ]
+          },
+          "id": "a4df1",
+          "isAttachedTo": "c1a",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 483.3333333333333,
+          "y": 362.3333333333333
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              0
+            ]
+          },
+          "id": "df8fe",
+          "isAttachedTo": "a8d32",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 505.75,
+          "y": 582
+        }
+      ],
+      "stroke": "#ff8000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "a6e": {
+      "backpageHead": "TACR1 | tachykinin receptor 1",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:6869",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "a6e",
+      "isPartOf": "bb353",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "NK1R",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000015575",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000015575",
+        "NK1R",
+        "Ensembl:ENSBTAG00000015575",
+        "Entrez Gene:407133",
+        "UniProt:F1MIX5"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000015575",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "a6f": {
+      "backpageHead": "BDKRB2 | bradykinin receptor B2",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:624",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "a6f",
+      "isPartOf": "c1942",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "BDKRB2",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000021717",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000021717",
+        "BDKRB2",
+        "Ensembl:ENSBTAG00000021717",
+        "Entrez Gene:538896",
+        "UniProt:A0A3Q1MXN7",
+        "UniProt:F1MWK0"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000021717",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "a71": {
+      "backpageHead": "FPR1 | formyl peptide receptor 1",
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "a71",
+      "isPartOf": "a071b",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "FPR1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "GeneProduct"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 69,
+      "y": 9,
+      "zIndex": 32768
+    },
+    "a87": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "Label",
+      "height": 19,
+      "id": "a87",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Angiotensin Receptors",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 180.33333333333334,
+      "x": 22.5,
+      "y": 111.5,
+      "zIndex": 28672
+    },
+    "a8d32": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "a8d32",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "rx": 15,
+      "ry": 15,
+      "stroke": "#14961e",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "Gi/Go Pathway",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "WikiPathways:WP35",
+        "Pathway"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 119,
+      "wpType": "Pathway",
+      "x": 476,
+      "xrefDataSource": "WikiPathways",
+      "xrefIdentifier": "WP35",
+      "y": 582,
+      "zIndex": 32768
+    },
+    "a927d": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "a927d",
+      "isAttachedTo": [
+        "da478",
+        "eb0"
+      ],
+      "kaavioType": "Edge",
+      "markerStart": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "id": "ed3c5",
+          "isAttachedTo": "da478",
+          "orientation": [
+            0,
+            -1
+          ],
+          "x": 202.5,
+          "y": 579
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0,
+              0.5
+            ]
+          },
+          "id": "b86da",
+          "isAttachedTo": "eb0",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 258.6666666666667,
+          "y": 514.6666666666666
+        }
+      ],
+      "stroke": "#00ff00",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "a93": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "Label",
+      "height": 19,
+      "id": "a93",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Endothelin Receptors",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 131,
+      "x": 224,
+      "y": 290.1666666666667,
+      "zIndex": 28672
+    },
+    "acd": {
+      "backpageHead": "AGTR2 | angiotensin II receptor type 2",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:186",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "acd",
+      "isPartOf": "b9847",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "AT2",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000040386",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000040386",
+        "AT2",
+        "Ensembl:ENSBTAG00000040386",
+        "Entrez Gene:407157",
+        "UniProt:G5E6F7"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000040386",
+      "y": 69,
+      "zIndex": 32768
+    },
+    "ad2": {
+      "backpageHead": "NMBR | neuromedin B receptor",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:4829",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "ad2",
+      "isPartOf": "e8207",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "NMBR",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000043954",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000043954",
+        "NMBR",
+        "Ensembl:ENSBTAG00000043954",
+        "Entrez Gene:539776",
+        "UniProt:E1BMN4"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000043954",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "ad5": {
+      "backpageHead": "AVPR2 | arginine vasopressin receptor 2 (nephro...",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:554",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "ad5",
+      "isPartOf": "d10ac",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "AVPR2",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000047138",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000047138",
+        "AVPR2",
+        "Ensembl:ENSBTAG00000047138",
+        "Entrez Gene:281642",
+        "UniProt:P48044"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000047138",
+      "y": 49,
+      "zIndex": 32768
+    },
+    "ad8": {
+      "backpageHead": "TAC4 | tachykinin 4 (hemokinin)",
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "ad8",
+      "isPartOf": "bb353",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "TAC4",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "GeneProduct"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "y": 68.99999999999994,
+      "zIndex": 32768
+    },
+    "adcc4": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "adcc4",
+      "isAttachedTo": [
+        "da478",
+        "a6f"
+      ],
+      "kaavioType": "Edge",
+      "markerStart": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "id": "e77a7",
+          "isAttachedTo": "da478",
+          "orientation": [
+            0,
+            -1
+          ],
+          "x": 202.5,
+          "y": 579
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0,
+              0.5
+            ]
+          },
+          "id": "f3170",
+          "isAttachedTo": "a6f",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 258.6666666666667,
+          "y": 438.6666666666667
+        }
+      ],
+      "stroke": "#00ff00",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "ae7de": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "ae7de",
+      "isAttachedTo": [
+        "da478",
+        "bf1"
+      ],
+      "kaavioType": "Edge",
+      "markerStart": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "id": "a6b7b",
+          "isAttachedTo": "da478",
+          "orientation": [
+            0,
+            -1
+          ],
+          "x": 202.5,
+          "y": 579
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0,
+              0.5
+            ]
+          },
+          "id": "eefed",
+          "isAttachedTo": "bf1",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 259.6666666666667,
+          "y": 126
+        }
+      ],
+      "stroke": "#00ff00",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "aea5f": {
+      "contains": [
+        "a55",
+        "c1a",
+        "ec1"
+      ],
+      "drawAs": "rect",
+      "fill": "#b4b464",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 78,
+      "id": "aea5f",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupNone"
+      ],
+      "verticalAlign": "middle",
+      "width": 78,
+      "x": 414.3333333333333,
+      "y": 343.3333333333333,
+      "zIndex": 32768
+    },
+    "aec": {
+      "backpageHead": "BLR1 | Burkitt lymphoma receptor 1 GTP binding...",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:643",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "aec",
+      "isPartOf": "a6912",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "BLR1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000046320",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000046320",
+        "BLR1",
+        "Ensembl:ENSBTAG00000046320",
+        "UniProt:G3N3U0"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 129,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000046320",
+      "y": 48.999999999999986,
+      "zIndex": 32768
+    },
+    "af1": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "Label",
+      "height": 32.833333333333336,
+      "id": "af1",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Neuropeptide Y \nReceptors",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 101.83333333333333,
+      "x": 547.1666666666667,
+      "y": 395.5,
+      "zIndex": 28672
+    },
+    "b0b53": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "b0b53",
+      "isAttachedTo": [
+        "e29",
+        "da478"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              1,
+              0.5
+            ]
+          },
+          "id": "b1ed8",
+          "isAttachedTo": "e29",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 144.66666666666669,
+          "y": 487.6666666666667
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              0
+            ]
+          },
+          "id": "c95bc",
+          "isAttachedTo": "da478",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 172.75,
+          "y": 579
+        }
+      ],
+      "stroke": "#00ff00",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "b10": {
+      "backpageHead": "AGTR1 | angiotensin II receptor type 1",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:185",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "b10",
+      "isPartOf": "b9847",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "AGTR1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000045633",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000045633",
+        "AGTR1",
+        "Ensembl:ENSBTAG00000045633",
+        "Entrez Gene:281607",
+        "UniProt:P25104"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000045633",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "b12": {
+      "backpageHead": "SSTR4 | somatostatin receptor 4",
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "b12",
+      "isPartOf": "e4c24",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "SSTR4",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "GeneProduct"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "y": 69,
+      "zIndex": 32768
+    },
+    "b2a": {
+      "backpageHead": "BDKRB1 | bradykinin receptor B1",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:623",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "b2a",
+      "isPartOf": "c1942",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "BDKRB1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000007052",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000007052",
+        "BDKRB1",
+        "Ensembl:ENSBTAG00000007052",
+        "UniProt:F1N0Q8"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000007052",
+      "y": 29,
+      "zIndex": 32768
+    },
+    "b2d": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "Label",
+      "height": 19,
+      "id": "b2d",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Bombesin Receptors",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 129.5,
+      "x": 221.5,
+      "y": 199.83333333333334,
+      "zIndex": 28672
+    },
+    "b37": {
+      "backpageHead": "NTSR2 | neurotensin receptor 2",
+      "comments": [
+        {
+          "content": "CAA71233 - human AA#",
+          "source": "GenMAPP remarks"
+        },
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:23620",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "b37",
+      "isPartOf": "e6eed",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "NTSR2",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000003691",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000003691",
+        "NTSR2",
+        "Ensembl:ENSBTAG00000003691",
+        "Entrez Gene:539336",
+        "UniProt:E1BCZ7"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000003691",
+      "y": 29,
+      "zIndex": 32768
+    },
+    "b54": {
+      "backpageHead": "CXCR4 | chemokine (C-X-C motif) receptor 4",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:7852",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "b54",
+      "isPartOf": "a6912",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CXCR4",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000001060",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000001060",
+        "CXCR4",
+        "Ensembl:ENSBTAG00000001060",
+        "Entrez Gene:281736",
+        "UniProt:P25930"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 129,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000001060",
+      "y": 28.999999999999986,
+      "zIndex": 32768
+    },
+    "b61": {
+      "backpageHead": "NPY5R | neuropeptide Y receptor Y5",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:4889",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "b61",
+      "isPartOf": "bacb1",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "NPY5R",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000038421",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000038421",
+        "NPY5R",
+        "Ensembl:ENSBTAG00000038421",
+        "Entrez Gene:781872",
+        "UniProt:A6QQX6"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000038421",
+      "y": 69,
+      "zIndex": 32768
+    },
+    "b9847": {
+      "contains": [
+        "acd",
+        "b10",
+        "bb0",
+        "f70"
+      ],
+      "drawAs": "rect",
+      "fill": "#b4b464",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 98,
+      "id": "b9847",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupNone"
+      ],
+      "verticalAlign": "middle",
+      "width": 78.00000000000001,
+      "x": 75.66666666666667,
+      "y": 136.33333333333334,
+      "zIndex": 32768
+    },
+    "b9d0a": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "b9d0a",
+      "isAttachedTo": [
+        "e82",
+        "a8d32"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              1,
+              0.5
+            ]
+          },
+          "id": "b219c",
+          "isAttachedTo": "e82",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 483.3333333333333,
+          "y": 484.6666666666667
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              0
+            ]
+          },
+          "id": "dbdf2",
+          "isAttachedTo": "a8d32",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 505.75,
+          "y": 582
+        }
+      ],
+      "stroke": "#ff8000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "ba1": {
+      "backpageHead": "CCR7 | chemokine (C-C motif) receptor 7",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:1236",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "ba1",
+      "isPartOf": "a6912",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CCR7",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000015133",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000015133",
+        "CCR7",
+        "Ensembl:ENSBTAG00000015133",
+        "Entrez Gene:510668",
+        "UniProt:A0JNA6"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 69,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000015133",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "bac": {
+      "backpageHead": "FPRL1 | formyl peptide receptor-like 1",
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "bac",
+      "isPartOf": "a071b",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "FPRL1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "GeneProduct"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 69,
+      "y": 29,
+      "zIndex": 32768
+    },
+    "bacb1": {
+      "contains": [
+        "a33",
+        "b61",
+        "ddc",
+        "e4c",
+        "f57"
+      ],
+      "drawAs": "rect",
+      "fill": "#b4b464",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 117.99999999999994,
+      "id": "bacb1",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupNone"
+      ],
+      "verticalAlign": "middle",
+      "width": 78,
+      "x": 558,
+      "y": 431.6666666666667,
+      "zIndex": 32768
+    },
+    "bb0": {
+      "backpageHead": "ATP8A1 | ATPase aminophospholipid transporter ...",
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "bb0",
+      "isPartOf": "b9847",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "ATP8A1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "GeneProduct"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "y": 29,
+      "zIndex": 32768
+    },
+    "bb353": {
+      "contains": [
+        "a6e",
+        "ad8",
+        "d51",
+        "e29"
+      ],
+      "drawAs": "rect",
+      "fill": "#b4b464",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 97.99999999999994,
+      "id": "bb353",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupNone"
+      ],
+      "verticalAlign": "middle",
+      "width": 78.00000000000001,
+      "x": 75.66666666666667,
+      "y": 448.6666666666667,
+      "zIndex": 32768
+    },
+    "bb5": {
+      "backpageHead": "FPRL2 | formyl peptide receptor-like 2",
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "bb5",
+      "isPartOf": "a071b",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "FPRL2",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "GeneProduct"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 69,
+      "y": 49,
+      "zIndex": 32768
+    },
+    "be3e9": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "be3e9",
+      "isAttachedTo": [
+        "ad5",
+        "ebaa0"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              1,
+              0.5
+            ]
+          },
+          "id": "e5a20",
+          "isAttachedTo": "ad5",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 319.6666666666667,
+          "y": 166
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              0
+            ]
+          },
+          "id": "e0d92",
+          "isAttachedTo": "ebaa0",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 339.75,
+          "y": 581
+        }
+      ],
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "be4": {
+      "backpageHead": "OPRM1 | opioid receptor mu 1",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:4988",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "be4",
+      "isPartOf": "a3cc9",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "OPRM1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000019719",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000019719",
+        "OPRM1",
+        "Ensembl:ENSBTAG00000019719",
+        "Entrez Gene:281958",
+        "UniProt:F1N5B6"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000019719",
+      "y": 49,
+      "zIndex": 32768
+    },
+    "bf1": {
+      "backpageHead": "AVPR1A | arginine vasopressin receptor 1A",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:552",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "bf1",
+      "isPartOf": "d10ac",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "AVPR1A",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000007175",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000007175",
+        "AVPR1A",
+        "Ensembl:ENSBTAG00000007175",
+        "Entrez Gene:538439",
+        "UniProt:F6PV87"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000007175",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "bfacc": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "bfacc",
+      "isAttachedTo": [
+        "d51",
+        "da478"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              1,
+              0.5
+            ]
+          },
+          "id": "c2a5f",
+          "isAttachedTo": "d51",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 144.66666666666669,
+          "y": 507.66666666666674
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              0
+            ]
+          },
+          "id": "b2d53",
+          "isAttachedTo": "da478",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 172.75,
+          "y": 579
+        }
+      ],
+      "stroke": "#00ff00",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "c0906": {
+      "contains": [
+        "c36",
+        "d06",
+        "dd9",
+        "e39",
+        "e42"
+      ],
+      "drawAs": "rect",
+      "fill": "#b4b464",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 118,
+      "id": "c0906",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupNone"
+      ],
+      "verticalAlign": "middle",
+      "width": 78,
+      "x": 415.3333333333333,
+      "y": 206,
+      "zIndex": 32768
+    },
+    "c1942": {
+      "contains": [
+        "a6f",
+        "b2a"
+      ],
+      "drawAs": "rect",
+      "fill": "#b4b464",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 58,
+      "id": "c1942",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupNone"
+      ],
+      "verticalAlign": "middle",
+      "width": 78,
+      "x": 249.66666666666669,
+      "y": 419.6666666666667,
+      "zIndex": 32768
+    },
+    "c1a": {
+      "backpageHead": "GALR1 | galanin receptor 1",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:2587",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "c1a",
+      "isPartOf": "aea5f",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "GALR1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000021003",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000021003",
+        "GALR1",
+        "Ensembl:ENSBTAG00000021003",
+        "Entrez Gene:539429",
+        "UniProt:E1BCM7"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000021003",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "c1c": {
+      "backpageHead": "CCKAR | cholecystokinin A receptor",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:886",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "c1c",
+      "isPartOf": "ed0d5",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CCKAR",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000004988",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000004988",
+        "CCKAR",
+        "Ensembl:ENSBTAG00000004988",
+        "Entrez Gene:506207",
+        "UniProt:A6QLH2",
+        "UniProt:A0A3Q1MXL3"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000004988",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "c20": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "Label",
+      "height": 19,
+      "id": "c20",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Opioid Receptors",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 107.83333333333333,
+      "x": 397.16666666666663,
+      "y": 423.1666666666667,
+      "zIndex": 28672
+    },
+    "c22": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "Label",
+      "height": 28.833333333333332,
+      "id": "c22",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Somatostatin \nReceptors",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 91.33333333333333,
+      "x": 550.6666666666667,
+      "y": 242.83333333333334,
+      "zIndex": 28672
+    },
+    "c36": {
+      "backpageHead": "MC3R | melanocortin 3 receptor",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:4159",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "c36",
+      "isPartOf": "c0906",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "MC3R",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000004712",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000004712",
+        "MC3R",
+        "Ensembl:ENSBTAG00000004712",
+        "Entrez Gene:505405",
+        "UniProt:E1B8V8"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000004712",
+      "y": 49,
+      "zIndex": 32768
+    },
+    "c43": {
+      "backpageHead": "LHCGR | luteinizing hormone/choriogonadotropin ...",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:3973",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "c43",
+      "isPartOf": "d2cf1",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "LHCGR",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000016573",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000016573",
+        "LHCGR",
+        "Ensembl:ENSBTAG00000016573",
+        "Entrez Gene:281900",
+        "UniProt:A0A3Q1MIY0",
+        "UniProt:A0A140T893",
+        "UniProt:A0A3Q1MTR7"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000016573",
+      "y": 29.000000000000014,
+      "zIndex": 32768
+    },
+    "c48": {
+      "backpageHead": "CCKBR | cholecystokinin B receptor",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:887",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "c48",
+      "isPartOf": "ed0d5",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CCKBR",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000005236",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000005236",
+        "CCKBR",
+        "Ensembl:ENSBTAG00000005236",
+        "Entrez Gene:281665",
+        "UniProt:A0A140T858"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000005236",
+      "y": 29,
+      "zIndex": 32768
+    },
+    "c53": {
+      "backpageHead": "EDNRA | endothelin receptor type A",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:1909",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "c53",
+      "isPartOf": "eec27",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "EDNRA",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000013674",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000013674",
+        "EDNRA",
+        "Ensembl:ENSBTAG00000013674",
+        "Entrez Gene:281749",
+        "UniProt:P21450",
+        "UniProt:Q1JPH4"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000013674",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "c67": {
+      "backpageHead": "CX3CR1 | chemokine (C-X3-C motif) receptor 1",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:1524",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "c67",
+      "isPartOf": "a6912",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CX3CR1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000002923",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000002923",
+        "CX3CR1",
+        "Ensembl:ENSBTAG00000002923",
+        "Entrez Gene:100124525",
+        "UniProt:A6QNL7",
+        "UniProt:A0A3Q1LIB2"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 129,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000002923",
+      "y": 88.99999999999999,
+      "zIndex": 32768
+    },
+    "c69": {
+      "backpageHead": "GHSR | growth hormone secretagogue receptor",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:2693",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "c69",
+      "isPartOf": "f96f1",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "GHSR",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000010874",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000010874",
+        "GHSR",
+        "Ensembl:ENSBTAG00000010874",
+        "Entrez Gene:514203",
+        "UniProt:B5U8Y5"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000010874",
+      "y": 49,
+      "zIndex": 32768
+    },
+    "c6e": {
+      "backpageHead": "CCR8 | chemokine (C-C motif) receptor 8",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:1237",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "c6e",
+      "isPartOf": "a6912",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CCR8",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000015483",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000015483",
+        "CCR8",
+        "Ensembl:ENSBTAG00000015483",
+        "Entrez Gene:407772",
+        "UniProt:F6RDR3"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 69,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000015483",
+      "y": 28.999999999999986,
+      "zIndex": 32768
+    },
+    "c8c": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "Label",
+      "height": 19,
+      "id": "c8c",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Neurotensin Receptors",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 137.83333333333334,
+      "x": 218,
+      "y": 474.5,
+      "zIndex": 28672
+    },
+    "ca53f": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "ca53f",
+      "isAttachedTo": [
+        "b10",
+        "da478"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              1,
+              0.5
+            ]
+          },
+          "id": "d0c6f",
+          "isAttachedTo": "b10",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 144.66666666666669,
+          "y": 155.33333333333334
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              0
+            ]
+          },
+          "id": "e2832",
+          "isAttachedTo": "da478",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 172.75,
+          "y": 579
+        }
+      ],
+      "stroke": "#00ff00",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "ca8": {
+      "backpageHead": "CCR9 | chemokine (C-C motif) receptor 9",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:10803",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "ca8",
+      "isPartOf": "a6912",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CCR9",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000031348",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000031348",
+        "CCR9",
+        "Ensembl:ENSBTAG00000031348",
+        "Entrez Gene:530951",
+        "UniProt:A4IF92"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 69,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000031348",
+      "y": 48.999999999999986,
+      "zIndex": 32768
+    },
+    "ca8b2": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "ca8b2",
+      "isAttachedTo": [
+        "ebaa0",
+        "e42"
+      ],
+      "kaavioType": "Edge",
+      "markerStart": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "id": "aabb1",
+          "isAttachedTo": "ebaa0",
+          "orientation": [
+            0,
+            -1
+          ],
+          "x": 369.5,
+          "y": 581
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0,
+              0.5
+            ]
+          },
+          "id": "d694a",
+          "isAttachedTo": "e42",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 424.3333333333333,
+          "y": 245
+        }
+      ],
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "cb1": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "Label",
+      "height": 26.833333333333332,
+      "id": "cb1",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Melanocortin\nReceptors",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 94.16666666666667,
+      "x": 408.83333333333337,
+      "y": 173.16666666666669,
+      "zIndex": 28672
+    },
+    "cca": {
+      "backpageHead": "SSTR3 | somatostatin receptor 3",
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "cca",
+      "isPartOf": "e4c24",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "SSTR3",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "GeneProduct"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "y": 49,
+      "zIndex": 32768
+    },
+    "cd6": {
+      "backpageHead": "GRPR | gastrin-releasing peptide receptor",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:2925",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "cd6",
+      "isPartOf": "e8207",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "GRPR",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000007092",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000007092",
+        "GRPR",
+        "Ensembl:ENSBTAG00000007092",
+        "Entrez Gene:532784",
+        "UniProt:E1BL07"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000007092",
+      "y": 28.99999999999997,
+      "zIndex": 32768
+    },
+    "cdb": {
+      "backpageHead": "EDNRB | endothelin receptor type B",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:1910",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "cdb",
+      "isPartOf": "eec27",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "EDNRB",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000005299",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000005299",
+        "EDNRB",
+        "Ensembl:ENSBTAG00000005299",
+        "Entrez Gene:281750",
+        "UniProt:P28088"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000005299",
+      "y": 29,
+      "zIndex": 32768
+    },
+    "cdc": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "Label",
+      "height": 27.5,
+      "id": "cdc",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Glycoprotein Hormone\nReceptors",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 127.83333333333333,
+      "x": 389,
+      "y": 64.16666666666667,
+      "zIndex": 28672
+    },
+    "d06": {
+      "backpageHead": "MC4R | melanocortin 4 receptor",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:4160",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "d06",
+      "isPartOf": "c0906",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "MC4R",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000019676",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000019676",
+        "MC4R",
+        "Ensembl:ENSBTAG00000019676",
+        "Entrez Gene:281300",
+        "UniProt:Q9GLJ8",
+        "UniProt:D2CNF1"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000019676",
+      "y": 69,
+      "zIndex": 32768
+    },
+    "d10ac": {
+      "contains": [
+        "ad5",
+        "bf1",
+        "db2",
+        "e64"
+      ],
+      "drawAs": "rect",
+      "fill": "#b4b464",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 98,
+      "id": "d10ac",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupNone"
+      ],
+      "verticalAlign": "middle",
+      "width": 78,
+      "x": 250.66666666666669,
+      "y": 107,
+      "zIndex": 32768
+    },
+    "d20": {
+      "backpageHead": "FSHR | follicle stimulating hormone receptor",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:2492",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "d20",
+      "isPartOf": "d2cf1",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "FSHR",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000032424",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000032424",
+        "FSHR",
+        "Ensembl:ENSBTAG00000032424",
+        "Entrez Gene:281172",
+        "UniProt:F1MD31",
+        "UniProt:F1MT42",
+        "UniProt:A0A3Q1MS83"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000032424",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "d2cf1": {
+      "contains": [
+        "c43",
+        "d20",
+        "d32"
+      ],
+      "drawAs": "rect",
+      "fill": "#b4b464",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 78.00000000000001,
+      "id": "d2cf1",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupNone"
+      ],
+      "verticalAlign": "middle",
+      "width": 78,
+      "x": 415.3333333333333,
+      "y": 97.33333333333333,
+      "zIndex": 32768
+    },
+    "d32": {
+      "backpageHead": "TSHR | thyroid stimulating hormone receptor",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:7253",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "d32",
+      "isPartOf": "d2cf1",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "TSHR",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000017489",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000017489",
+        "TSHR",
+        "Ensembl:ENSBTAG00000017489",
+        "Entrez Gene:281553",
+        "UniProt:F1N4F6"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000017489",
+      "y": 49.000000000000014,
+      "zIndex": 32768
+    },
+    "d3cc2": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "d3cc2",
+      "isAttachedTo": [
+        "d93",
+        "da478"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              1,
+              0.5
+            ]
+          },
+          "id": "c1988",
+          "isAttachedTo": "d93",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 144.66666666666669,
+          "y": 284.6666666666667
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              0
+            ]
+          },
+          "id": "fa56a",
+          "isAttachedTo": "da478",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 172.75,
+          "y": 579
+        }
+      ],
+      "stroke": "#00ff00",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "d3dfc": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "d3dfc",
+      "isAttachedTo": [
+        "f42",
+        "a8d32"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              1,
+              0.5
+            ]
+          },
+          "id": "b371e",
+          "isAttachedTo": "f42",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 483.3333333333333,
+          "y": 464.6666666666667
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              0
+            ]
+          },
+          "id": "c70f2",
+          "isAttachedTo": "a8d32",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 505.75,
+          "y": 582
+        }
+      ],
+      "stroke": "#ff8000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "d4c": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "Label",
+      "height": 19,
+      "id": "d4c",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Tachykinin Receptors",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 129.5,
+      "x": 50.5,
+      "y": 428.8333333333333,
+      "zIndex": 28672
+    },
+    "d51": {
+      "backpageHead": "TACR3 | tachykinin receptor 3",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:6870",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "d51",
+      "isPartOf": "bb353",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "TACR3",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000016247",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000016247",
+        "TACR3",
+        "Ensembl:ENSBTAG00000016247",
+        "Entrez Gene:404136",
+        "UniProt:F1N2X0"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000016247",
+      "y": 49,
+      "zIndex": 32768
+    },
+    "d5402": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "d5402",
+      "isAttachedTo": [
+        "da478",
+        "ad2"
+      ],
+      "kaavioType": "Edge",
+      "markerStart": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "id": "a6e9f",
+          "isAttachedTo": "da478",
+          "orientation": [
+            0,
+            -1
+          ],
+          "x": 202.5,
+          "y": 579
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0,
+              0.5
+            ]
+          },
+          "id": "c8f19",
+          "isAttachedTo": "ad2",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 259.6666666666667,
+          "y": 236.33333333333334
+        }
+      ],
+      "stroke": "#00ff00",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "d57": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "Label",
+      "height": 32.833333333333336,
+      "id": "d57",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Vasopressin and\nOxytocin Receptors",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 134.33333333333334,
+      "x": 220.5,
+      "y": 48.5,
+      "zIndex": 28672
+    },
+    "d610c": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "d610c",
+      "isAttachedTo": [
+        "da478",
+        "db2"
+      ],
+      "kaavioType": "Edge",
+      "markerStart": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "id": "d2d89",
+          "isAttachedTo": "da478",
+          "orientation": [
+            0,
+            -1
+          ],
+          "x": 202.5,
+          "y": 579
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0,
+              0.5
+            ]
+          },
+          "id": "d3db4",
+          "isAttachedTo": "db2",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 259.6666666666667,
+          "y": 146
+        }
+      ],
+      "stroke": "#00ff00",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "d79b8": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "d79b8",
+      "isAttachedTo": [
+        "f79e5",
+        "c1942"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimBinding",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              1
+            ]
+          },
+          "id": "dc3c6",
+          "isAttachedTo": "f79e5",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 288.5,
+          "y": 403
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "id": "ea197",
+          "isAttachedTo": "c1942",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 288.6666666666667,
+          "y": 420.6666666666667
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 12288
+    },
+    "d7dbf": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "d7dbf",
+      "isAttachedTo": [
+        "a6e",
+        "da478"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              1,
+              0.5
+            ]
+          },
+          "id": "e8b94",
+          "isAttachedTo": "a6e",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 144.66666666666669,
+          "y": 467.6666666666667
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              0
+            ]
+          },
+          "id": "b0872",
+          "isAttachedTo": "da478",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 172.75,
+          "y": 579
+        }
+      ],
+      "stroke": "#00ff00",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "d7fcb": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "d7fcb",
+      "isAttachedTo": [
+        "c1c",
+        "da478"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              1,
+              0.5
+            ]
+          },
+          "id": "c6f02",
+          "isAttachedTo": "c1c",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 144.66666666666669,
+          "y": 392
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              0
+            ]
+          },
+          "id": "d5f78",
+          "isAttachedTo": "da478",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 172.75,
+          "y": 579
+        }
+      ],
+      "stroke": "#00ff00",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "d816b": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "d816b",
+      "isAttachedTo": [
+        "ebaa0",
+        "d32"
+      ],
+      "kaavioType": "Edge",
+      "markerStart": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "id": "c6e21",
+          "isAttachedTo": "ebaa0",
+          "orientation": [
+            0,
+            -1
+          ],
+          "x": 369.5,
+          "y": 581
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0,
+              0.5
+            ]
+          },
+          "id": "f7b4f",
+          "isAttachedTo": "d32",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 424.3333333333333,
+          "y": 156.33333333333334
+        }
+      ],
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "d93": {
+      "backpageHead": "GNRHR | gonadotropin-releasing hormone receptor...",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:2798",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "d93",
+      "isPartOf": "f96f1",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "GNRHR",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000000438",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000000438",
+        "GNRHR",
+        "Ensembl:ENSBTAG00000000438",
+        "Entrez Gene:281798",
+        "UniProt:P32236"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000000438",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "d9b": {
+      "backpageHead": "BRS3 | bombesin-like receptor 3",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:680",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "d9b",
+      "isPartOf": "e8207",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "BRS3",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000005616",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000005616",
+        "BRS3",
+        "Ensembl:ENSBTAG00000005616",
+        "Entrez Gene:112445811",
+        "Entrez Gene:539011",
+        "UniProt:E1BMI3"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000005616",
+      "y": 48.99999999999997,
+      "zIndex": 32768
+    },
+    "d9d": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 14.166666666666666,
+      "id": "d9d",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "Oxytocin",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "CAS:50-56-6",
+        "Metabolite",
+        "CompactIdentifier:cas:50-56-6",
+        "Oxytocin",
+        "Wikidata:Q169960",
+        "ChEBI:7872",
+        "InChI:XNOPRXBHLZRZKH-MQYCRUOZSA-N",
+        "InChI:XNOPRXBHLZRZKH-DSZYJQQASA-N",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 56.666666666666664,
+      "wpType": "Metabolite",
+      "x": 261,
+      "xrefDataSource": "CAS",
+      "xrefIdentifier": "50-56-6",
+      "y": 78.66666666666667,
+      "zIndex": 32768
+    },
+    "da478": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "da478",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "rx": 15,
+      "ry": 15,
+      "stroke": "#14961e",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "Gq/G11 Pathway",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "WikiPathways:WP35",
+        "Pathway"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 119,
+      "wpType": "Pathway",
+      "x": 143,
+      "xrefDataSource": "WikiPathways",
+      "xrefIdentifier": "WP35",
+      "y": 579,
+      "zIndex": 32768
+    },
+    "daf": {
+      "backpageHead": "TRHR | thyrotropin-releasing hormone receptor",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:7201",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "daf",
+      "isPartOf": "f96f1",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "TRHR",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000019997",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000019997",
+        "TRHR",
+        "Ensembl:ENSBTAG00000019997",
+        "Entrez Gene:281549",
+        "UniProt:O46639"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000019997",
+      "y": 29,
+      "zIndex": 32768
+    },
+    "db2": {
+      "backpageHead": "AVPR1B | arginine vasopressin receptor 1B",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:553",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "db2",
+      "isPartOf": "d10ac",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "AVPR1B",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000017301",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000017301",
+        "AVPR1B",
+        "Ensembl:ENSBTAG00000017301",
+        "Entrez Gene:282861",
+        "UniProt:F1ME85"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000017301",
+      "y": 29,
+      "zIndex": 32768
+    },
+    "db8": {
+      "backpageHead": "CXCR6 | chemokine (C-X-C motif) receptor 6",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:10663",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "db8",
+      "isPartOf": "a6912",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CXCR6",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000015708",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000015708",
+        "CXCR6",
+        "Ensembl:ENSBTAG00000015708",
+        "Entrez Gene:506807",
+        "UniProt:Q5EA94"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 69,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000015708",
+      "y": 108.99999999999999,
+      "zIndex": 32768
+    },
+    "dd9": {
+      "backpageHead": "MC2R | melanocortin 2 receptor (adrenocorticotr...",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:4158",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "dd9",
+      "isPartOf": "c0906",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "MC2R",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000011038",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000011038",
+        "MC2R",
+        "Ensembl:ENSBTAG00000011038",
+        "Entrez Gene:281299",
+        "UniProt:P34974"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000011038",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "ddc": {
+      "backpageHead": "NPY1R | neuropeptide Y receptor Y1",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:4886",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "ddc",
+      "isPartOf": "bacb1",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "NPY1R",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000047586",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000047586",
+        "NPY1R",
+        "Ensembl:ENSBTAG00000047586",
+        "Entrez Gene:504813",
+        "UniProt:Q1RMU8"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000047586",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "df7": {
+      "backpageHead": "SSTR5 | somatostatin receptor 5",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:6755",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "df7",
+      "isPartOf": "e4c24",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "SSTR5",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000039974",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000039974",
+        "SSTR5",
+        "Ensembl:ENSBTAG00000039974",
+        "Entrez Gene:510344",
+        "UniProt:M5FK46",
+        "UniProt:F1MV99"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000039974",
+      "y": 89,
+      "zIndex": 32768
+    },
+    "e29": {
+      "backpageHead": "TACR2 | tachykinin receptor 2",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:6865",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "e29",
+      "isPartOf": "bb353",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "TACR2",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000021664",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000021664",
+        "TACR2",
+        "Ensembl:ENSBTAG00000021664",
+        "Entrez Gene:282088",
+        "UniProt:Q1LZC7",
+        "UniProt:P05363"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000021664",
+      "y": 29,
+      "zIndex": 32768
+    },
+    "e39": {
+      "backpageHead": "MC5R | melanocortin 5 receptor",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:4161",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "e39",
+      "isPartOf": "c0906",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "MC5R",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000009143",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000009143",
+        "MC5R",
+        "Ensembl:ENSBTAG00000009143",
+        "Entrez Gene:507987",
+        "UniProt:P56451"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000009143",
+      "y": 89,
+      "zIndex": 32768
+    },
+    "e42": {
+      "backpageHead": "MC1R | melanocortin 1 receptor (alpha melanocyt...",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:4157",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "e42",
+      "isPartOf": "c0906",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "MC1R",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000023731",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000023731",
+        "MC1R",
+        "Ensembl:ENSBTAG00000023731",
+        "Entrez Gene:281298",
+        "UniProt:A0A059VCY3",
+        "UniProt:P47798"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000023731",
+      "y": 29,
+      "zIndex": 32768
+    },
+    "e4264": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "e4264",
+      "isAttachedTo": [
+        "d9d",
+        "d10ac"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "MimBinding",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              1
+            ]
+          },
+          "id": "dfd94",
+          "isAttachedTo": "d9d",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 289.33333333333337,
+          "y": 92.83333333333334
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "id": "c7a2f",
+          "isAttachedTo": "d10ac",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 289.6666666666667,
+          "y": 108
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge"
+      ],
+      "zIndex": 12288
+    },
+    "e4c": {
+      "backpageHead": "PPYR1 | pancreatic polypeptide receptor 1",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:5540",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "e4c",
+      "isPartOf": "bacb1",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "PPYR1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000004760",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000004760",
+        "PPYR1",
+        "Ensembl:ENSBTAG00000004760",
+        "Entrez Gene:505889",
+        "UniProt:F1MKB6"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000004760",
+      "y": 49,
+      "zIndex": 32768
+    },
+    "e4c24": {
+      "contains": [
+        "a0e",
+        "b12",
+        "cca",
+        "df7",
+        "ea3"
+      ],
+      "drawAs": "rect",
+      "fill": "#b4b464",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 118,
+      "id": "e4c24",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupNone"
+      ],
+      "verticalAlign": "middle",
+      "width": 78,
+      "x": 558.3333333333334,
+      "y": 273.3333333333333,
+      "zIndex": 32768
+    },
+    "e55e5": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "e55e5",
+      "isAttachedTo": [
+        "da478",
+        "cdb"
+      ],
+      "kaavioType": "Edge",
+      "markerStart": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "id": "c3bfe",
+          "isAttachedTo": "da478",
+          "orientation": [
+            0,
+            -1
+          ],
+          "x": 202.5,
+          "y": 579
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0,
+              0.5
+            ]
+          },
+          "id": "b97bb",
+          "isAttachedTo": "cdb",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 258.6666666666667,
+          "y": 351.6666666666667
+        }
+      ],
+      "stroke": "#00ff00",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "e58": {
+      "backpageHead": "CCR2 | chemokine (C-C motif) receptor 2",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:729230",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "e58",
+      "isPartOf": "a6912",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CCR2",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000013586",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000013586",
+        "CCR2"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000013586",
+      "y": 28.999999999999986,
+      "zIndex": 32768
+    },
+    "e64": {
+      "backpageHead": "OXTR | oxytocin receptor",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:5021",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "e64",
+      "isPartOf": "d10ac",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "OXTR",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000019772",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000019772",
+        "OXTR",
+        "Ensembl:ENSBTAG00000019772",
+        "Entrez Gene:281371",
+        "UniProt:P56449"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000019772",
+      "y": 69,
+      "zIndex": 32768
+    },
+    "e6eed": {
+      "contains": [
+        "b37",
+        "eb0"
+      ],
+      "drawAs": "rect",
+      "fill": "#b4b464",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 58,
+      "id": "e6eed",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupNone"
+      ],
+      "verticalAlign": "middle",
+      "width": 78,
+      "x": 249.66666666666669,
+      "y": 495.66666666666663,
+      "zIndex": 32768
+    },
+    "e82": {
+      "backpageHead": "OPRK1 | opioid receptor kappa 1",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:4986",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "e82",
+      "isPartOf": "a3cc9",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "OPRK1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000000914",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000000914",
+        "OPRK1",
+        "Ensembl:ENSBTAG00000000914",
+        "Entrez Gene:540519",
+        "UniProt:Q2KIP6"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000000914",
+      "y": 29,
+      "zIndex": 32768
+    },
+    "e8207": {
+      "contains": [
+        "ad2",
+        "cd6",
+        "d9b"
+      ],
+      "drawAs": "rect",
+      "fill": "#b4b464",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 77.99999999999997,
+      "id": "e8207",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupNone"
+      ],
+      "verticalAlign": "middle",
+      "width": 78,
+      "x": 250.66666666666669,
+      "y": 217.33333333333334,
+      "zIndex": 32768
+    },
+    "e92": {
+      "backpageHead": "CCR1 | chemokine (C-C motif) receptor 1",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:1230",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "e92",
+      "isPartOf": "a6912",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CCR1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000019428",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000019428",
+        "CCR1",
+        "Ensembl:ENSBTAG00000019428",
+        "Entrez Gene:407771",
+        "UniProt:A0JN72"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000019428",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "ea3": {
+      "backpageHead": "SSTR1 | somatostatin receptor 1",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:6751",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "ea3",
+      "isPartOf": "e4c24",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "SSTR1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000006582",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000006582",
+        "SSTR1",
+        "Ensembl:ENSBTAG00000006582",
+        "UniProt:E1BFV6"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000006582",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "eb0": {
+      "backpageHead": "NTSR1 | neurotensin receptor 1 (high affinity)",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:4923",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "eb0",
+      "isPartOf": "e6eed",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "NTSR1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000021727",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000021727",
+        "NTSR1",
+        "Ensembl:ENSBTAG00000021727",
+        "Entrez Gene:528416",
+        "UniProt:F1MWG2"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000021727",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "ebaa0": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "ebaa0",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "rx": 15,
+      "ry": 15,
+      "stroke": "#14961e",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "Gs Pathway",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "WikiPathways:WP35",
+        "Pathway"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 119,
+      "wpType": "Pathway",
+      "x": 310,
+      "xrefDataSource": "WikiPathways",
+      "xrefIdentifier": "WP35",
+      "y": 581,
+      "zIndex": 32768
+    },
+    "ec1": {
+      "backpageHead": "GALR2 | galanin receptor 2",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:8811",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "ec1",
+      "isPartOf": "aea5f",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "GALR2",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000024910",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000024910",
+        "GALR2",
+        "Ensembl:ENSBTAG00000024910",
+        "Entrez Gene:618629",
+        "UniProt:A6QLK3"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000024910",
+      "y": 29,
+      "zIndex": 32768
+    },
+    "ec29f": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "ec29f",
+      "isAttachedTo": [
+        "be4",
+        "a8d32"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              1,
+              0.5
+            ]
+          },
+          "id": "b5f45",
+          "isAttachedTo": "be4",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 483.3333333333333,
+          "y": 504.66666666666674
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              0
+            ]
+          },
+          "id": "d6d6d",
+          "isAttachedTo": "a8d32",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 505.75,
+          "y": 582
+        }
+      ],
+      "stroke": "#ff8000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "ed0d5": {
+      "contains": [
+        "c1c",
+        "c48"
+      ],
+      "drawAs": "rect",
+      "fill": "#b4b464",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 58,
+      "id": "ed0d5",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupNone"
+      ],
+      "verticalAlign": "middle",
+      "width": 78.00000000000001,
+      "x": 75.66666666666667,
+      "y": 373,
+      "zIndex": 32768
+    },
+    "eec27": {
+      "contains": [
+        "c53",
+        "cdb"
+      ],
+      "drawAs": "rect",
+      "fill": "#b4b464",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 58,
+      "id": "eec27",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupNone"
+      ],
+      "verticalAlign": "middle",
+      "width": 78,
+      "x": 249.66666666666669,
+      "y": 312.6666666666667,
+      "zIndex": 32768
+    },
+    "ef4": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "Label",
+      "height": 31.5,
+      "id": "ef4",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Cholecystokinin/\nGastrin Receptors",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 114,
+      "x": 58,
+      "y": 343.1666666666667,
+      "zIndex": 28672
+    },
+    "f35": {
+      "backpageHead": "IL8RB | interleukin 8 receptor beta",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:3579",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "f35",
+      "isPartOf": "a071b",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CXCR2",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000026753",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000026753",
+        "CXCR2",
+        "Ensembl:ENSBTAG00000026753",
+        "Entrez Gene:281863",
+        "UniProt:J3QY08",
+        "UniProt:G5E6Q0"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000026753",
+      "y": 69,
+      "zIndex": 32768
+    },
+    "f41b6": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "f41b6",
+      "isAttachedTo": [
+        "da478",
+        "c53"
+      ],
+      "kaavioType": "Edge",
+      "markerStart": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "id": "afb3f",
+          "isAttachedTo": "da478",
+          "orientation": [
+            0,
+            -1
+          ],
+          "x": 202.5,
+          "y": 579
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0,
+              0.5
+            ]
+          },
+          "id": "f4ea5",
+          "isAttachedTo": "c53",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 258.6666666666667,
+          "y": 331.6666666666667
+        }
+      ],
+      "stroke": "#00ff00",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "f42": {
+      "backpageHead": "OPRD1 | opioid receptor delta 1",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:4985",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "f42",
+      "isPartOf": "a3cc9",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "OPRD1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000003202",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000003202",
+        "OPRD1",
+        "Ensembl:ENSBTAG00000003202",
+        "Entrez Gene:781956",
+        "UniProt:F1N083"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000003202",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "f47": {
+      "backpageHead": "OPRL1 | opiate receptor-like 1",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:4987",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "f47",
+      "isPartOf": "a3cc9",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "OPRL1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000045701",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000045701",
+        "OPRL1"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000045701",
+      "y": 68.99999999999994,
+      "zIndex": 32768
+    },
+    "f49": {
+      "backpageHead": "CCR10 | chemokine (C-C motif) receptor 10",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:2826",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "f49",
+      "isPartOf": "a6912",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CCR10",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000019095",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000019095",
+        "CCR10",
+        "Ensembl:ENSBTAG00000019095",
+        "Entrez Gene:539108",
+        "UniProt:D9ZDE4"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 69,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000019095",
+      "y": 68.99999999999999,
+      "zIndex": 32768
+    },
+    "f54": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "Label",
+      "height": 19,
+      "id": "f54",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Chemotactic Receptors",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 145.16666666666666,
+      "x": 648.8333333333333,
+      "y": 264.1666666666667,
+      "zIndex": 28672
+    },
+    "f57": {
+      "backpageHead": "NPY6R | neuropeptide Y receptor Y6 (pseudogene)...",
+      "comments": [
+        {
+          "content": "human Acc# BAA13103",
+          "source": "GenMAPP remarks"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "f57",
+      "isPartOf": "bacb1",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "NPY6R",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "GeneProduct"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "y": 88.99999999999994,
+      "zIndex": 32768
+    },
+    "f5f": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "Label",
+      "height": 30.166666666666668,
+      "id": "f5f",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Releasing Hormone\nReceptors",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 156.33333333333334,
+      "x": 36.5,
+      "y": 237.16666666666666,
+      "zIndex": 28672
+    },
+    "f65": {
+      "backpageHead": "C3AR1 | complement component 3a receptor 1",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:719",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "f65",
+      "isPartOf": "a071b",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "C3AR1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000019741",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000019741",
+        "C3AR1",
+        "Ensembl:ENSBTAG00000019741",
+        "Entrez Gene:540702",
+        "UniProt:A4IFF5"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000019741",
+      "y": 9,
+      "zIndex": 32768
+    },
+    "f6673": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "f6673",
+      "isAttachedTo": [
+        "da478",
+        "cd6"
+      ],
+      "kaavioType": "Edge",
+      "markerStart": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "id": "b7587",
+          "isAttachedTo": "da478",
+          "orientation": [
+            0,
+            -1
+          ],
+          "x": 202.5,
+          "y": 579
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0,
+              0.5
+            ]
+          },
+          "id": "de388",
+          "isAttachedTo": "cd6",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 259.6666666666667,
+          "y": 256.3333333333333
+        }
+      ],
+      "stroke": "#00ff00",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "f70": {
+      "backpageHead": "AGTR1 | angiotensin II receptor type 1",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:185",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "f70",
+      "isPartOf": "b9847",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "AGTR1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000045633",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000045633",
+        "AGTR1",
+        "Ensembl:ENSBTAG00000045633",
+        "Entrez Gene:281607",
+        "UniProt:P25104"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000045633",
+      "y": 49,
+      "zIndex": 32768
+    },
+    "f79e5": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 17,
+      "id": "f79e5",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#0000ff",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "Bradykinin",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "HMDB:HMDB0004246",
+        "Metabolite",
+        "CompactIdentifier:hmdb:HMDB0004246",
+        "Bradykinin",
+        "ChEBI:3165",
+        "InChI:QXZGBUJJYSLZLT-FDISYFBBSA-N",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 63,
+      "wpType": "Metabolite",
+      "x": 257,
+      "xrefDataSource": "HMDB",
+      "xrefIdentifier": "HMDB0004246",
+      "y": 386,
+      "zIndex": 32768
+    },
+    "f7a": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "Label",
+      "height": 19,
+      "id": "f7a",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Bradykinin Receptors",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 135,
+      "x": 217,
+      "y": 367.1666666666667,
+      "zIndex": 28672
+    },
+    "f89d0": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "f89d0",
+      "isAttachedTo": [
+        "daf",
+        "da478"
+      ],
+      "kaavioType": "Edge",
+      "markerEnd": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              1,
+              0.5
+            ]
+          },
+          "id": "c16e0",
+          "isAttachedTo": "daf",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 144.66666666666669,
+          "y": 304.6666666666667
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.25,
+              0
+            ]
+          },
+          "id": "d6307",
+          "isAttachedTo": "da478",
+          "orientation": [
+            0,
+            1
+          ],
+          "x": 172.75,
+          "y": 579
+        }
+      ],
+      "stroke": "#00ff00",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "f96f1": {
+      "contains": [
+        "c69",
+        "d93",
+        "daf"
+      ],
+      "drawAs": "rect",
+      "fill": "#b4b464",
+      "fillOpacity": 0.1,
+      "fontSize": 1,
+      "fontWeight": "bold",
+      "gpmlElementName": "Group",
+      "height": 78,
+      "id": "f96f1",
+      "kaavioType": "Group",
+      "padding": 8,
+      "stroke": "#808080",
+      "strokeDasharray": "5,3",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "type": [
+        "Group",
+        "GroupNone"
+      ],
+      "verticalAlign": "middle",
+      "width": 78.00000000000001,
+      "x": 75.66666666666667,
+      "y": 265.6666666666667,
+      "zIndex": 32768
+    },
+    "fa6": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "Label",
+      "height": 19,
+      "id": "fa6",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Galanin Receptors",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 111.83333333333333,
+      "x": 397.16666666666663,
+      "y": 323.8333333333333,
+      "zIndex": 28672
+    },
+    "fa8": {
+      "drawAs": "none",
+      "fill": "transparent",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "bold",
+      "gpmlElementName": "Label",
+      "height": 19,
+      "id": "fa8",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "textAlign": "center",
+      "textContent": "Chemokine Receptors",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "Label",
+        "SingleFreeNode"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 136,
+      "x": 589,
+      "y": 75.83333333333333,
+      "zIndex": 28672
+    },
+    "faa": {
+      "backpageHead": "C5R1 | complement component 5 receptor 1 (C5a l...",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:728",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "faa",
+      "isPartOf": "a071b",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "C5AR1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000020872",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000020872",
+        "C5AR1",
+        "Ensembl:ENSBTAG00000020872",
+        "Entrez Gene:493645",
+        "UniProt:Q673L2"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000020872",
+      "y": 29,
+      "zIndex": 32768
+    },
+    "fb2": {
+      "backpageHead": "CCR3 | chemokine (C-C motif) receptor 3",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:1232",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "fb2",
+      "isPartOf": "a6912",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CCR3",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000001338",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000001338",
+        "CCR3",
+        "Ensembl:ENSBTAG00000001338",
+        "Entrez Gene:408018",
+        "UniProt:F1MP16"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000001338",
+      "y": 48.999999999999986,
+      "zIndex": 32768
+    },
+    "fbd": {
+      "backpageHead": "FY | Duffy blood group",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:2532",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "fbd",
+      "isPartOf": "a6912",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "ACKR1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000003220",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000003220",
+        "ACKR1",
+        "Ensembl:ENSBTAG00000003220",
+        "Entrez Gene:528076",
+        "UniProt:F1N018"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 129,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000003220",
+      "y": 68.99999999999999,
+      "zIndex": 32768
+    },
+    "fd3cf": {
+      "drawAs": "ElbowLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "fd3cf",
+      "isAttachedTo": [
+        "a8d32",
+        "ddc"
+      ],
+      "kaavioType": "Edge",
+      "markerStart": "Arrow",
+      "points": [
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "id": "e5523",
+          "isAttachedTo": "a8d32",
+          "orientation": [
+            0,
+            -1
+          ],
+          "x": 535.5,
+          "y": 582
+        },
+        {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0,
+              0.5
+            ]
+          },
+          "id": "f0fcb",
+          "isAttachedTo": "ddc",
+          "orientation": [
+            1,
+            0
+          ],
+          "x": 567,
+          "y": 450.6666666666667
+        }
+      ],
+      "stroke": "#ff8000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ],
+      "zIndex": 12288
+    },
+    "ff5": {
+      "backpageHead": "CCR1 | chemokine (C-C motif) receptor 1",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:1230",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "ff5",
+      "isPartOf": "a6912",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CCR1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000019428",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000019428",
+        "CCR1",
+        "Ensembl:ENSBTAG00000019428",
+        "Entrez Gene:407771",
+        "UniProt:A0JN72"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 69,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000019428",
+      "y": 88.99999999999999,
+      "zIndex": 32768
+    },
+    "ffe": {
+      "backpageHead": "CCR4 | chemokine (C-C motif) receptor 4",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:1233",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "ffe",
+      "isPartOf": "a6912",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CCR4",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000034883",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000034883",
+        "CCR4",
+        "Ensembl:ENSBTAG00000034883",
+        "Entrez Gene:408019",
+        "UniProt:A6QLA5"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000034883",
+      "y": 68.99999999999999,
+      "zIndex": 32768
+    },
+    "fff": {
+      "backpageHead": "CCR6 | chemokine (C-C motif) receptor 6",
+      "comments": [
+        {
+          "content": "HomologyConvert: Homo sapiens to Bos taurus: Original ID = L:1235",
+          "source": "HomologyConvert"
+        }
+      ],
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 10,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 20,
+      "id": "fff",
+      "isPartOf": "a6912",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "CCR6",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSBTAG00000014496",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSBTAG00000014496",
+        "CCR6",
+        "Ensembl:ENSBTAG00000014496",
+        "Entrez Gene:519716",
+        "UniProt:F1MT56"
+      ],
+      "verticalAlign": "middle",
+      "whiteSpace": "pre",
+      "width": 60,
+      "wpType": "GeneProduct",
+      "x": 9,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSBTAG00000014496",
+      "y": 108.99999999999999,
+      "zIndex": 32768
+    },
+    "http://identifiers.org/pw/PW:0000125": {
+      "gpmlElementName": "openControlledVocabulary",
+      "id": "http://identifiers.org/pw/PW:0000125",
+      "ontology": "Pathway Ontology",
+      "term": "G protein mediated signaling pathway",
+      "type": [
+        "openControlledVocabulary"
+      ],
+      "xrefIdentifier": "PW:0000125"
+    }
+  },
+  "pathway": {
+    "@context": [
+      "https://cdn.rawgit.com/wikipathways/WpVocabularies/7a46a05/contexts/pvjs.jsonld",
+      {
+        "@base": "WP1001__PR64/"
+      }
+    ],
+    "author": "[MaintBot, Andra, Egonw, Mkutmon]",
+    "comments": [
+      {
+        "source": "WikiPathways-description"
+      },
+      {
+        "content": "This pathway was inferred from Homo sapiens pathway [http://wikipathways.org/instance/WP24_r79999 WP24(79999)]  with a 89.0% conversion rate.",
+        "source": "HomologyConvert"
+      }
+    ],
+    "contains": [
+      "a0c4f",
+      "a5d9d",
+      "a622d",
+      "a6973",
+      "a927d",
+      "adcc4",
+      "ae7de",
+      "b0b53",
+      "b9d0a",
+      "be3e9",
+      "bfacc",
+      "ca53f",
+      "ca8b2",
+      "d3cc2",
+      "d3dfc",
+      "d5402",
+      "d610c",
+      "d7dbf",
+      "d7fcb",
+      "d816b",
+      "e55e5",
+      "ec29f",
+      "f41b6",
+      "f6673",
+      "f89d0",
+      "fd3cf",
+      "d79b8",
+      "e4264",
+      "a87",
+      "a93",
+      "af1",
+      "b2d",
+      "c20",
+      "c22",
+      "c8c",
+      "cb1",
+      "cdc",
+      "d4c",
+      "d57",
+      "ef4",
+      "f54",
+      "f5f",
+      "f7a",
+      "fa6",
+      "fa8",
+      "a8d32",
+      "d9d",
+      "da478",
+      "ebaa0",
+      "f79e5",
+      "aea5f",
+      "eec27",
+      "a6912",
+      "c0906",
+      "a3cc9",
+      "f96f1",
+      "bacb1",
+      "bb353",
+      "e8207",
+      "a071b",
+      "c1942",
+      "b9847",
+      "d2cf1",
+      "e4c24",
+      "e6eed",
+      "d10ac",
+      "ed0d5"
+    ],
+    "dataSourceVersion": "WP1001_r115319",
+    "displayName": "Changing file name to test changes",
+    "drawAs": "rect",
+    "fill": "white",
+    "fontSize": 12,
+    "fontWeight": "bold",
+    "gpmlElementName": "Pathway",
+    "height": 632,
+    "id": "WP1001__PR64",
+    "kaavioType": "Group",
+    "lastModified": "20210213090943",
+    "name": "Changing file name to test changes",
+    "organism": "Bos taurus",
+    "padding": 5,
+    "pathwayVersion": "PR64",
+    "standardName": "Changing file name to test changes",
+    "stroke": "black",
+    "strokeWidth": 0,
+    "textAlign": "left",
+    "textContent": "Name: Changing file name to test changes\nLast Modified: 20210213090943\nOrganism: Bos taurus",
+    "type": [
+      "Pathway",
+      "http://identifiers.org/pw/PW:0000125"
+    ],
+    "verticalAlign": "top",
+    "width": 823.9999999999999,
+    "x": 0,
+    "y": 0,
+    "zIndex": 0
+  }
+}
