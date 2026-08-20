@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<a class="btn btn-sm btn-pill btn-organism" style="float: right;" href="/browse/organisms.html">Organisms</a>
+<a class="btn btn-sm btn-pill btn-organism" style="float: right;" href="{{ site.baseurl }}/browse/organisms.html">Organisms</a>
 <h1 id="title"> {{ page.title }}
   <a href="https://github.com/wikipathways/wikipathways.github.io/edit/main/_organisms/{{ page.slug }}.md"
   target="_blank"> 
@@ -34,8 +34,8 @@ layout: default
      or <a href="https://github.com/wikipathways/wikipathways-homology/archive/refs/heads/main.zip" target="_blank">download</a> 
      repository.</em></p>
 {% endif %}
-<a class="btn btn-sm btn-front my-2" style="float:right;" href="/browse/table.html?Organism={{ page.latin }}">Table</a>
-<a class="btn btn-sm btn-front my-2" style="float:right; margin-right: 4px;" href="/browse/filters.html?Organism={{ page.latin }}">Filters</a>
+<a class="btn btn-sm btn-front my-2" style="float:right;" href="{{ site.baseurl }}/browse/table.html?Organism={{ page.latin }}">Table</a>
+<a class="btn btn-sm btn-front my-2" style="float:right; margin-right: 4px;" href="{{ site.baseurl }}/browse/filters.html?Organism={{ page.latin }}">Filters</a>
 <br/>
     <ul class="nav nav-tabs">
       <li class="nav-item">
@@ -54,8 +54,8 @@ layout: default
         {% for pw in sorted_pathways %}
           <div class="col-sm-auto">
             <div class="card" style="width: 10rem;">
-              <a class="card-link" href="{{ pw.url }}">
-              <img class="card-img-top" loading="lazy" src="/assets/img/{{pw.wpid}}/{{pw.wpid}}-thumb.png" alt="{{ pw.title }}">
+              <a class="card-link" href="{{ pw.url | relative_url }}">
+              <img class="card-img-top" loading="lazy" src="{{ site.baseurl }}/assets/img/{{pw.wpid}}/{{pw.wpid}}-thumb.png" alt="{{ pw.title }}">
               <div class="card-body">
                 <p class="card-text">{{ pw.title }}</p>
               </div>
@@ -70,7 +70,7 @@ layout: default
         <div class="row" style="margin-left: 10px;">
           <ul>
             {% for pw in sorted_pathways %}
-              <li><a href="{{ pw.url }}">{{ pw.title }} - {{pw.wpid}}</a></li>
+              <li><a href="{{ pw.url | relative_url }}">{{ pw.title }} - {{pw.wpid}}</a></li>
             {% endfor %}
           </ul>
         </div>  

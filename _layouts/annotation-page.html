@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<a class="btn btn-sm btn-pill btn-annotation" style="float: right;" href="/browse/annotations.html">Annotations</a>
+<a class="btn btn-sm btn-pill btn-annotation" style="float: right;" href="{{ site.baseurl }}/browse/annotations.html">Annotations</a>
     <h1> {{ page.type }}</h1>
     <h2> 
       <a href="http://bioportal.bioontology.org/ontologies/{{ page.xref-dataSource }}?p=classes&conceptid=http://purl.obolibrary.org/obo/{{ page.xref-dataSource }}_{{page.xref-identifier}}"
@@ -10,8 +10,8 @@ layout: default
       </a>
     </h2>
     <p>{{ page.definition }}</p>
-    <a class="btn btn-sm btn-front my-2" style="float:right;" href="/browse/table.html?{{ page.type }}={{ page.value }}">Table</a>
-    <a class="btn btn-sm btn-front my-2" style="float:right; margin-right: 4px;" href="/browse/filters.html?{{ page.type }}={{ page.value }}">Filters</a>
+    <a class="btn btn-sm btn-front my-2" style="float:right;" href="{{ site.baseurl }}/browse/table.html?{{ page.type }}={{ page.value }}">Table</a>
+    <a class="btn btn-sm btn-front my-2" style="float:right; margin-right: 4px;" href="{{ site.baseurl }}/browse/filters.html?{{ page.type }}={{ page.value }}">Filters</a>
     <br/>
     <ul class="nav nav-tabs">
       <li class="nav-item">
@@ -31,8 +31,8 @@ layout: default
         {% if annot-values contains page.value %}
           <div class="col-sm-auto">
             <div class="card" style="width: 10rem;">
-              <a class="card-link" href="{{ pw.url }}">
-              <img class="card-img-top" loading="lazy" src="/assets/img/{{pw.wpid}}/{{pw.wpid}}-thumb.png" alt="{{ pw.title }}">
+              <a class="card-link" href="{{ pw.url | relative_url }}">
+              <img class="card-img-top" loading="lazy" src="{{ site.baseurl }}/assets/img/{{pw.wpid}}/{{pw.wpid}}-thumb.png" alt="{{ pw.title }}">
               <div class="card-body">
                 <p class="card-text">{{ pw.title }} <em>({{ pw.organisms.first }})</em></p>
               </div>
@@ -50,7 +50,7 @@ layout: default
         {% for pw in sorted_pathways %}
           {% assign annot-values= pw.annotations | where: "type", page.type | map: "parent" %}
           {% if annot-values contains page.value %}
-              <li><a href="{{ pw.url }}">{{ pw.title }} - {{pw.wpid}} <em>({{ pw.organisms.first }})</em></a></li>
+              <li><a href="{{ pw.url | relative_url }}">{{ pw.title }} - {{pw.wpid}} <em>({{ pw.organisms.first }})</em></a></li>
           {% endif %}
         {% endfor %}
       </ul>

@@ -23,6 +23,11 @@ tagline: A community curated pathway database
 description: WikiPathways is a community curated pathway database dedicated to open science.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sandbox.wikipathways.org" # the base hostname & protocol for your site, e.g. http://example.com
+# Published pathway assets live in a separate repository, so they need an
+# absolute base. This is the host the layouts used to hardcode, so the value
+# below changes nothing here; a deployment serving its own assets -- a fork,
+# or this sandbox once it publishes its own -- overrides it in its _config.yml.
+assets_base_url: "https://www.wikipathways.org/wikipathways-assets"
 twitter_username: wikipathways
 mastodon_username: wikipathways
 github_username: wikipathways
