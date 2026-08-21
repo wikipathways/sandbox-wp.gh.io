@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<a class="btn btn-sm btn-pill btn-community" style="float: right;" href="/browse/communities.html">Communities</a>
+<a class="btn btn-sm btn-pill btn-community" style="float: right;" href="{{ site.baseurl }}/browse/communities.html">Communities</a>
 {% if page.logo %}
 <p><a class="logo-link" href="{{ page.logo-link }}"><img src="{{ page.logo }}" style="height:{{ page.logo-height }};"></a></p>
 {% endif %}
@@ -21,7 +21,7 @@ layout: default
   {% for auth in site.authors %}
    {% if contacts contains auth.username %}
       {% capture thisContact %}
-        <a href="{{site.url}}/authors/{{auth.username}}.html" title="View author profile">{{auth.realname}}</a>
+        <a href="{{ site.baseurl }}/authors/{{auth.username}}.html" title="View author profile">{{auth.realname}}</a>
       {% endcapture %}
       {% assign all_contacts = all_contacts | push: thisContact %}
     {% endif %} 
@@ -44,8 +44,8 @@ layout: default
             {% if c.wpids contains pw.wpid %}
             <div class="col-sm-auto">
               <div class="card" style="width: 10rem;">
-                <a class="card-link" href="{{ pw.url }}">
-                <img class="card-img-top" loading="lazy" src="/assets/img/{{pw.wpid}}/{{pw.wpid}}-thumb.png" alt="{{ pw.title }}">
+                <a class="card-link" href="{{ pw.url | relative_url }}">
+                <img class="card-img-top" loading="lazy" src="{{ site.baseurl }}/assets/img/{{pw.wpid}}/{{pw.wpid}}-thumb.png" alt="{{ pw.title }}">
                 <div class="card-body">
                   <p class="card-text">{{ pw.title }} <em>({{ pw.organisms.first }})</em></p>
                 </div>
@@ -66,8 +66,8 @@ layout: default
         </span>
       </a>
     </h2>
-    <a class="btn btn-sm btn-front my-2" style="float:right;" href="/browse/table.html?Community={{ page.community-tag }}">Table</a>
-    <a class="btn btn-sm btn-front my-2" style="float:right; margin-right: 4px;" href="/browse/filters.html?Community={{ page.community-tag }}">Filters</a>
+    <a class="btn btn-sm btn-front my-2" style="float:right;" href="{{ site.baseurl }}/browse/table.html?Community={{ page.community-tag }}">Table</a>
+    <a class="btn btn-sm btn-front my-2" style="float:right; margin-right: 4px;" href="{{ site.baseurl }}/browse/filters.html?Community={{ page.community-tag }}">Filters</a>
     <br/>
     <ul class="nav nav-tabs" style="margin-left: 0px;">
       <li class="nav-item">
@@ -97,8 +97,8 @@ layout: default
       {% for pw in sorted_pathways %}
           <div class="col-sm-auto">
             <div class="card" style="width: 10rem;">
-              <a class="card-link" href="{{ pw.url }}">
-              <img class="card-img-top" loading="lazy" src="/assets/img/{{pw.wpid}}/{{pw.wpid}}-thumb.png" alt="{{ pw.title }}">
+              <a class="card-link" href="{{ pw.url | relative_url }}">
+              <img class="card-img-top" loading="lazy" src="{{ site.baseurl }}/assets/img/{{pw.wpid}}/{{pw.wpid}}-thumb.png" alt="{{ pw.title }}">
               <div class="card-body">
                 <p class="card-text">{{ pw.title }} <em>({{ pw.organisms.first }})</em></p>
               </div>
@@ -117,7 +117,7 @@ layout: default
     <div class="row" style="margin-left: 0px;">
       <ul style="list-style-type: none; margin-left: 0px;">
         {% for pw in sorted_pathways %}
-              <li><a href="{{ pw.url }}">{{ pw.title }} - {{pw.wpid}} <em>({{ pw.organisms.first }})</em></a></li>
+              <li><a href="{{ pw.url | relative_url }}">{{ pw.title }} - {{pw.wpid}} <em>({{ pw.organisms.first }})</em></a></li>
         {% endfor %}
       </ul>
     </div>  
@@ -150,7 +150,7 @@ layout: default
     {% unless blocked_authors contains auth.username %}
       {% unless blocked_authors contains auth.realname %}
         {% capture thisAuth %}
-        <a href="{{site.url}}/authors/{{auth.username}}.html" title="View author profile">{{auth.realname}}</a>
+        <a href="{{ site.baseurl }}/authors/{{auth.username}}.html" title="View author profile">{{auth.realname}}</a>
       {% endcapture %}
       {% assign all_authors = all_authors | push: thisAuth %}
       {% endunless %}
@@ -164,7 +164,7 @@ layout: default
     {% assign realname = site.authors | where: "username", auth | map: "realname" | first  %}
     {% unless blocked_authors contains realname %}
       {% capture thisAuth %}
-        <a href="{{site.url}}/authors/{{auth}}.html" title="View author profile">{{realname}}</a>
+        <a href="{{ site.baseurl }}/authors/{{auth}}.html" title="View author profile">{{realname}}</a>
       {% endcapture %}
       {% assign all_authors = all_authors | push: thisAuth %}
     {% endunless %}
