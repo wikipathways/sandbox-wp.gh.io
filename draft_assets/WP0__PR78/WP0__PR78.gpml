@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pathway Version="WP0001_r20260821131410" xmlns="http://pathvisio.org/GPML/2013a" Name="Org cutover verification 2026-08-21" Author="[marvinm2]" Organism="Homo sapiens">
+  <Graphics BoardWidth="480.0" BoardHeight="440.0" />
+  <Comment Source="WikiPathways-description">Verification submission for the portal cutover to the organisation sandbox repository. Insulin binds and activates the insulin receptor, which phosphorylates IRS1 and propagates the signal downstream.</Comment>
+  <BiopaxRef>ref1</BiopaxRef>
+
+  <DataNode TextLabel="INS" Type="GeneProduct">
+    <Graphics CenterX="240.0" CenterY="80.0" Width="120.0" Height="34.0" Color="1a5276" />
+    <Xref Database="Ensembl" ID="ENSG00000254647" />
+  </DataNode>
+
+  <DataNode TextLabel="INSR" Type="GeneProduct">
+    <Graphics CenterX="240.0" CenterY="200.0" Width="120.0" Height="34.0" Color="1a5276" />
+    <Xref Database="Ensembl" ID="ENSG00000171105" />
+  </DataNode>
+
+  <!-- Now annotated with its Ensembl identifier. -->
+  <DataNode TextLabel="IRS1" Type="GeneProduct">
+    <Graphics CenterX="240.0" CenterY="320.0" Width="120.0" Height="34.0" Color="1a5276" />
+    <Xref Database="Ensembl" ID="ENSG00000169047" />
+  </DataNode>
+
+  <Interaction>
+    <Graphics LineThickness="1.0">
+      <Point X="240.0" Y="97.0" />
+      <Point X="240.0" Y="183.0" ArrowHead="Arrow" />
+    </Graphics>
+  </Interaction>
+
+  <Interaction>
+    <Graphics LineThickness="1.0">
+      <Point X="240.0" Y="217.0" />
+      <Point X="240.0" Y="303.0" ArrowHead="Arrow" />
+    </Graphics>
+  </Interaction>
+
+  <OntologyTerm Term="insulin signaling pathway" ID="PW:0000143" Ontology="Pathway Ontology" />
+
+  <Biopax>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"
+                        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ref1">
+      <bp:ID>12169433</bp:ID>
+      <bp:DB>PubMed</bp:DB>
+      <bp:TITLE>IRS proteins and the common path to diabetes</bp:TITLE>
+    </bp:PublicationXref>
+  </Biopax>
+</Pathway>

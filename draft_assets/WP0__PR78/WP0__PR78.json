@@ -1,0 +1,248 @@
+{
+  "entitiesById": {
+    "publicationXrefref1": {
+      "gpmlElementName": "PublicationXref",
+      "id": "publicationXrefref1",
+      "standardName": "IRS proteins and the common path to diabetes",
+      "textContent": "1",
+      "type": [
+        "PublicationXref",
+        "PubMed:12169433"
+      ],
+      "xrefDataSource": "PubMed",
+      "xrefIdentifier": "12169433"
+    },
+    "pvjsgeneratedida01": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 34,
+      "id": "pvjsgeneratedida01",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#1a5276",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "INS",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSG00000254647",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSG00000254647",
+        "INS",
+        "Ensembl:ENSG00000254647",
+        "Entrez Gene:3630",
+        "HGNC:INS",
+        "UniProt:C9JNR5",
+        "UniProt:I3WAC9",
+        "UniProt:A6XGL2",
+        "UniProt:P01308"
+      ],
+      "verticalAlign": "top",
+      "whiteSpace": "pre",
+      "width": 120,
+      "wpType": "GeneProduct",
+      "x": 180,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSG00000254647",
+      "y": 63
+    },
+    "pvjsgeneratedida02": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 34,
+      "id": "pvjsgeneratedida02",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#1a5276",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "INSR",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSG00000171105",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSG00000171105",
+        "INSR",
+        "Ensembl:ENSG00000171105",
+        "Entrez Gene:3643",
+        "HGNC:INSR",
+        "UniProt:M0R3E6",
+        "UniProt:P06213"
+      ],
+      "verticalAlign": "top",
+      "whiteSpace": "pre",
+      "width": 120,
+      "wpType": "GeneProduct",
+      "x": 180,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSG00000171105",
+      "y": 183
+    },
+    "pvjsgeneratedida03": {
+      "drawAs": "rect",
+      "fill": "#ffffff",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "gpmlElementName": "DataNode",
+      "height": 34,
+      "id": "pvjsgeneratedida03",
+      "kaavioType": "SingleFreeNode",
+      "lineHeight": 1.1,
+      "overflow": "hidden",
+      "padding": 8,
+      "stroke": "#1a5276",
+      "strokeWidth": 1,
+      "textAlign": "center",
+      "textContent": "IRS1",
+      "textDecoration": "none",
+      "textOverflow": "clip",
+      "type": [
+        "DataNode",
+        "SingleFreeNode",
+        "Ensembl:ENSG00000169047",
+        "GeneProduct",
+        "CompactIdentifier:ensembl:ENSG00000169047",
+        "IRS1",
+        "Ensembl:ENSG00000169047",
+        "Entrez Gene:3667",
+        "HGNC:IRS1",
+        "UniProt:P35568"
+      ],
+      "verticalAlign": "top",
+      "whiteSpace": "pre",
+      "width": 120,
+      "wpType": "GeneProduct",
+      "x": 180,
+      "xrefDataSource": "Ensembl",
+      "xrefIdentifier": "ENSG00000169047",
+      "y": 303
+    },
+    "pvjsgeneratedida04": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "pvjsgeneratedida04",
+      "kaavioType": "Edge",
+      "markerEnd": "Arrow",
+      "points": [
+        {
+          "x": 240,
+          "y": 97
+        },
+        {
+          "x": 240,
+          "y": 183
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ]
+    },
+    "pvjsgeneratedida05": {
+      "drawAs": "StraightLine",
+      "fill": "none",
+      "gpmlElementName": "Interaction",
+      "id": "pvjsgeneratedida05",
+      "kaavioType": "Edge",
+      "markerEnd": "Arrow",
+      "points": [
+        {
+          "x": 240,
+          "y": 217
+        },
+        {
+          "x": 240,
+          "y": 303
+        }
+      ],
+      "stroke": "#000000",
+      "strokeWidth": 1,
+      "type": [
+        "Interaction",
+        "Edge",
+        "SBO:0000167",
+        "SBO:0000393",
+        "SBO:0000394",
+        "DirectedInteraction"
+      ]
+    }
+  },
+  "pathway": {
+    "@context": [
+      "https://cdn.rawgit.com/wikipathways/WpVocabularies/7a46a05/contexts/pvjs.jsonld",
+      {
+        "@base": "WP0__PR78/"
+      }
+    ],
+    "author": "[marvinm2]",
+    "comments": [
+      {
+        "content": "Verification submission for the portal cutover to the organisation sandbox repository. Insulin binds and activates the insulin receptor, which phosphorylates IRS1 and propagates the signal downstream.",
+        "source": "WikiPathways-description"
+      }
+    ],
+    "contains": [
+      "pvjsgeneratedida01",
+      "pvjsgeneratedida02",
+      "pvjsgeneratedida03",
+      "pvjsgeneratedida04",
+      "pvjsgeneratedida05"
+    ],
+    "dataSourceVersion": "WP0001_r20260821131410",
+    "displayName": "Org cutover verification 2026-08-21",
+    "drawAs": "rect",
+    "fill": "white",
+    "fontSize": 12,
+    "fontWeight": "bold",
+    "gpmlElementName": "Pathway",
+    "height": 440,
+    "id": "WP0__PR78",
+    "kaavioType": "Group",
+    "name": "Org cutover verification 2026-08-21",
+    "organism": "Homo sapiens",
+    "padding": 5,
+    "pathwayVersion": "PR78",
+    "standardName": "Org cutover verification 2026-08-21",
+    "stroke": "black",
+    "strokeWidth": 0,
+    "textAlign": "left",
+    "textContent": "Name: Org cutover verification 2026-08-21\nOrganism: Homo sapiens",
+    "type": [
+      "Pathway"
+    ],
+    "verticalAlign": "top",
+    "width": 480,
+    "x": 0,
+    "y": 0,
+    "zIndex": 0
+  }
+}
