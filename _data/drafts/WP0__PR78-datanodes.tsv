@@ -1,0 +1,4 @@
+Label	Type	Identifier	Comment	Ensembl	NCBI gene	HGNC	UniProt	Wikidata	ChEBI	InChI	PubChem	ChemSpider	HMDB	KEGG	LipidMaps
+INS	GeneProduct	ensembl:ENSG00000254647	""	ensembl:ENSG00000254647	ncbigene:3630	hgnc.symbol:INS	uniprot:C9JNR5;uniprot:I3WAC9;uniprot:A6XGL2;uniprot:P01308								
+INSR	GeneProduct	ensembl:ENSG00000171105	""	ensembl:ENSG00000171105	ncbigene:3643	hgnc.symbol:INSR	uniprot:M0R3E6;uniprot:P06213								
+IRS1	GeneProduct	ensembl:ENSG00000169047	""	ensembl:ENSG00000169047	ncbigene:3667	hgnc.symbol:IRS1	uniprot:P35568								
