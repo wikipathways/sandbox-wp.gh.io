@@ -14,8 +14,8 @@ organisms:
 redirect_from:
 - /index.php/Pathway:WP0__PR78
 - /instance/WP0__PR78
-- /instance/WP0__PR78_r20260821131410
-revision: r20260821131410
+- /instance/WP0__PR78_r20260821133253
+revision: r20260821133253
 schema-jsonld:
 - '@context': https://schema.org/
   '@id': https://wikipathways.github.io/pathways/WP0__PR78.html

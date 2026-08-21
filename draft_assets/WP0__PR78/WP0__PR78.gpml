@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway Version="WP0001_r20260821131410" xmlns="http://pathvisio.org/GPML/2013a" Name="Org cutover verification 2026-08-21" Author="[marvinm2]" Organism="Homo sapiens">
+<Pathway Version="WP0001_r20260821133253" xmlns="http://pathvisio.org/GPML/2013a" Name="Org cutover verification 2026-08-21" Author="[marvinm2]" Organism="Homo sapiens">
   <Graphics BoardWidth="480.0" BoardHeight="440.0" />
   <Comment Source="WikiPathways-description">Verification submission for the portal cutover to the organisation sandbox repository. Insulin binds and activates the insulin receptor, which phosphorylates IRS1 and propagates the signal downstream.</Comment>
   <BiopaxRef>ref1</BiopaxRef>
 
-  <DataNode TextLabel="INS" Type="GeneProduct">
+  <DataNode TextLabel="INS" GraphId="a1001" Type="GeneProduct">
     <Graphics CenterX="240.0" CenterY="80.0" Width="120.0" Height="34.0" Color="1a5276" />
     <Xref Database="Ensembl" ID="ENSG00000254647" />
   </DataNode>
 
-  <DataNode TextLabel="INSR" Type="GeneProduct">
+  <DataNode TextLabel="INSR" GraphId="b1002" Type="GeneProduct">
     <Graphics CenterX="240.0" CenterY="200.0" Width="120.0" Height="34.0" Color="1a5276" />
     <Xref Database="Ensembl" ID="ENSG00000171105" />
   </DataNode>
 
   <!-- Now annotated with its Ensembl identifier. -->
-  <DataNode TextLabel="IRS1" Type="GeneProduct">
+  <DataNode TextLabel="IRS1" GraphId="c1003" Type="GeneProduct">
     <Graphics CenterX="240.0" CenterY="320.0" Width="120.0" Height="34.0" Color="1a5276" />
     <Xref Database="Ensembl" ID="ENSG00000169047" />
   </DataNode>
 
   <Interaction>
     <Graphics LineThickness="1.0">
-      <Point X="240.0" Y="97.0" />
-      <Point X="240.0" Y="183.0" ArrowHead="Arrow" />
+      <Point X="240.0" Y="97.0" GraphRef="a1001" RelX="0.0" RelY="1.0" />
+      <Point X="240.0" Y="183.0" GraphRef="b1002" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
   </Interaction>
 
   <Interaction>
     <Graphics LineThickness="1.0">
-      <Point X="240.0" Y="217.0" />
-      <Point X="240.0" Y="303.0" ArrowHead="Arrow" />
+      <Point X="240.0" Y="217.0" GraphRef="b1002" RelX="0.0" RelY="1.0" />
+      <Point X="240.0" Y="303.0" GraphRef="c1003" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
   </Interaction>
 

@@ -438,32 +438,32 @@
   </defs>
   <g id="WP0__PR78" class="Viewport" color="black" name="Name: Org cutover verification 2026-08-21 Organism: Homo sapiens">
     <rect fill="white" stroke="black" stroke-width="0" fill-opacity="1" height="440px" id="WP0__PR78-icon" width="480px" x="0" y="0" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
-    <a id="pvjsgeneratedida01" class="SingleFreeNode DataNode Ensembl_ENSG00000254647 GeneProduct CompactIdentifier_ensembl_ENSG00000254647 INS Entrez_Gene_3630 HGNC_INS UniProt_C9JNR5 UniProt_I3WAC9 UniProt_A6XGL2 UniProt_P01308" color="#1a5276" name="INS" transform="translate(180,63)" xlink:href="https://bioregistry.io/ensembl:ENSG00000254647" target="_blank">
-      <rect fill="#ffffff" stroke="#1a5276" stroke-width="1" fill-opacity="1" height="34px" id="pvjsgeneratedida01-icon" width="120px" x="0" y="0" transform="matrix(0.9917355371900827, 0, 0, 0.9714285714285714, 0.49586776859504056, 0.48571428571428754)" class="Icon"/>
-      <text id="pvjsgeneratedida01-text" class="Text" direction="ltr" fill="#1a5276" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(60,18.600000000000001)">
+    <a id="a1001" class="SingleFreeNode DataNode Ensembl_ENSG00000254647 GeneProduct CompactIdentifier_ensembl_ENSG00000254647 INS Entrez_Gene_3630 HGNC_INS UniProt_C9JNR5 UniProt_I3WAC9 UniProt_A6XGL2 UniProt_P01308" color="#1a5276" name="INS" transform="translate(180,63)" xlink:href="https://bioregistry.io/ensembl:ENSG00000254647" target="_blank">
+      <rect fill="#ffffff" stroke="#1a5276" stroke-width="1" fill-opacity="1" height="34px" id="a1001-icon" width="120px" x="0" y="0" transform="matrix(0.9917355371900827, 0, 0, 0.9714285714285714, 0.49586776859504056, 0.48571428571428754)" class="Icon"/>
+      <text id="a1001-text" class="Text" direction="ltr" fill="#1a5276" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(60,18.600000000000001)">
         <tspan x="0" y="0">INS</tspan>
       </text>
     </a>
-    <a id="pvjsgeneratedida02" class="SingleFreeNode DataNode Ensembl_ENSG00000171105 GeneProduct CompactIdentifier_ensembl_ENSG00000171105 INSR Entrez_Gene_3643 HGNC_INSR UniProt_M0R3E6 UniProt_P06213" color="#1a5276" name="INSR" transform="translate(180,183)" xlink:href="https://bioregistry.io/ensembl:ENSG00000171105" target="_blank">
-      <rect fill="#ffffff" stroke="#1a5276" stroke-width="1" fill-opacity="1" height="34px" id="pvjsgeneratedida02-icon" width="120px" x="0" y="0" transform="matrix(0.9917355371900827, 0, 0, 0.9714285714285714, 0.49586776859504056, 0.48571428571428754)" class="Icon"/>
-      <text id="pvjsgeneratedida02-text" class="Text" direction="ltr" fill="#1a5276" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(60,18.600000000000001)">
+    <a id="b1002" class="SingleFreeNode DataNode Ensembl_ENSG00000171105 GeneProduct CompactIdentifier_ensembl_ENSG00000171105 INSR Entrez_Gene_3643 HGNC_INSR UniProt_M0R3E6 UniProt_P06213" color="#1a5276" name="INSR" transform="translate(180,183)" xlink:href="https://bioregistry.io/ensembl:ENSG00000171105" target="_blank">
+      <rect fill="#ffffff" stroke="#1a5276" stroke-width="1" fill-opacity="1" height="34px" id="b1002-icon" width="120px" x="0" y="0" transform="matrix(0.9917355371900827, 0, 0, 0.9714285714285714, 0.49586776859504056, 0.48571428571428754)" class="Icon"/>
+      <text id="b1002-text" class="Text" direction="ltr" fill="#1a5276" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(60,18.600000000000001)">
         <tspan x="0" y="0">INSR</tspan>
       </text>
     </a>
-    <a id="pvjsgeneratedida03" class="SingleFreeNode DataNode Ensembl_ENSG00000169047 GeneProduct CompactIdentifier_ensembl_ENSG00000169047 IRS1 Entrez_Gene_3667 HGNC_IRS1 UniProt_P35568" color="#1a5276" name="IRS1" transform="translate(180,303)" xlink:href="https://bioregistry.io/ensembl:ENSG00000169047" target="_blank">
-      <rect fill="#ffffff" stroke="#1a5276" stroke-width="1" fill-opacity="1" height="34px" id="pvjsgeneratedida03-icon" width="120px" x="0" y="0" transform="matrix(0.9917355371900827, 0, 0, 0.9714285714285714, 0.49586776859504056, 0.48571428571428754)" class="Icon"/>
-      <text id="pvjsgeneratedida03-text" class="Text" direction="ltr" fill="#1a5276" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(60,18.600000000000001)">
+    <a id="c1003" class="SingleFreeNode DataNode Ensembl_ENSG00000169047 GeneProduct CompactIdentifier_ensembl_ENSG00000169047 IRS1 Entrez_Gene_3667 HGNC_IRS1 UniProt_P35568" color="#1a5276" name="IRS1" transform="translate(180,303)" xlink:href="https://bioregistry.io/ensembl:ENSG00000169047" target="_blank">
+      <rect fill="#ffffff" stroke="#1a5276" stroke-width="1" fill-opacity="1" height="34px" id="c1003-icon" width="120px" x="0" y="0" transform="matrix(0.9917355371900827, 0, 0, 0.9714285714285714, 0.49586776859504056, 0.48571428571428754)" class="Icon"/>
+      <text id="c1003-text" class="Text" direction="ltr" fill="#1a5276" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(60,18.600000000000001)">
         <tspan x="0" y="0">IRS1</tspan>
       </text>
     </a>
-    <g id="pvjsgeneratedida04" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+    <g id="pvjsgeneratedidc1004" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
       <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="80.2, 5.8" stroke-width="1">
-        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="pvjsgeneratedida04-path" d="M240,97L240,183" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="pvjsgeneratedidc1004-path" d="M240,97L240,183" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
       </g>
     </g>
-    <g id="pvjsgeneratedida05" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+    <g id="pvjsgeneratedidc1005" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
       <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="80.2, 5.8" stroke-width="1">
-        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="pvjsgeneratedida05-path" d="M240,217L240,303" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="pvjsgeneratedidc1005-path" d="M240,217L240,303" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
       </g>
     </g>
     <text id="WP0__PR78-text" class="Text" direction="ltr" dominant-baseline="central" fill="black" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="bold" overflow="visible" stroke="white" stroke-width="0px" text-anchor="start" transform="translate(5,27)">

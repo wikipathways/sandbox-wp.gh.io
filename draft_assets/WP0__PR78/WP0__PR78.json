@@ -1,18 +1,6 @@
 {
   "entitiesById": {
-    "publicationXrefref1": {
-      "gpmlElementName": "PublicationXref",
-      "id": "publicationXrefref1",
-      "standardName": "IRS proteins and the common path to diabetes",
-      "textContent": "1",
-      "type": [
-        "PublicationXref",
-        "PubMed:12169433"
-      ],
-      "xrefDataSource": "PubMed",
-      "xrefIdentifier": "12169433"
-    },
-    "pvjsgeneratedida01": {
+    "a1001": {
       "drawAs": "rect",
       "fill": "#ffffff",
       "fontFamily": "Arial",
@@ -21,7 +9,7 @@
       "fontWeight": "normal",
       "gpmlElementName": "DataNode",
       "height": 34,
-      "id": "pvjsgeneratedida01",
+      "id": "a1001",
       "kaavioType": "SingleFreeNode",
       "lineHeight": 1.1,
       "overflow": "hidden",
@@ -56,7 +44,7 @@
       "xrefIdentifier": "ENSG00000254647",
       "y": 63
     },
-    "pvjsgeneratedida02": {
+    "b1002": {
       "drawAs": "rect",
       "fill": "#ffffff",
       "fontFamily": "Arial",
@@ -65,7 +53,7 @@
       "fontWeight": "normal",
       "gpmlElementName": "DataNode",
       "height": 34,
-      "id": "pvjsgeneratedida02",
+      "id": "b1002",
       "kaavioType": "SingleFreeNode",
       "lineHeight": 1.1,
       "overflow": "hidden",
@@ -98,7 +86,7 @@
       "xrefIdentifier": "ENSG00000171105",
       "y": 183
     },
-    "pvjsgeneratedida03": {
+    "c1003": {
       "drawAs": "rect",
       "fill": "#ffffff",
       "fontFamily": "Arial",
@@ -107,7 +95,7 @@
       "fontWeight": "normal",
       "gpmlElementName": "DataNode",
       "height": 34,
-      "id": "pvjsgeneratedida03",
+      "id": "c1003",
       "kaavioType": "SingleFreeNode",
       "lineHeight": 1.1,
       "overflow": "hidden",
@@ -139,19 +127,65 @@
       "xrefIdentifier": "ENSG00000169047",
       "y": 303
     },
-    "pvjsgeneratedida04": {
+    "publicationXrefref1": {
+      "gpmlElementName": "PublicationXref",
+      "id": "publicationXrefref1",
+      "standardName": "IRS proteins and the common path to diabetes",
+      "textContent": "1",
+      "type": [
+        "PublicationXref",
+        "PubMed:12169433"
+      ],
+      "xrefDataSource": "PubMed",
+      "xrefIdentifier": "12169433"
+    },
+    "pvjsgeneratedidc1004": {
       "drawAs": "StraightLine",
       "fill": "none",
       "gpmlElementName": "Interaction",
-      "id": "pvjsgeneratedida04",
+      "id": "pvjsgeneratedidc1004",
+      "isAttachedTo": [
+        "a1001",
+        "b1002"
+      ],
       "kaavioType": "Edge",
       "markerEnd": "Arrow",
       "points": [
         {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              1
+            ]
+          },
+          "isAttachedTo": "a1001",
+          "orientation": [
+            0,
+            1
+          ],
           "x": 240,
           "y": 97
         },
         {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "isAttachedTo": "b1002",
+          "orientation": [
+            0,
+            1
+          ],
           "x": 240,
           "y": 183
         }
@@ -167,19 +201,53 @@
         "DirectedInteraction"
       ]
     },
-    "pvjsgeneratedida05": {
+    "pvjsgeneratedidc1005": {
       "drawAs": "StraightLine",
       "fill": "none",
       "gpmlElementName": "Interaction",
-      "id": "pvjsgeneratedida05",
+      "id": "pvjsgeneratedidc1005",
+      "isAttachedTo": [
+        "b1002",
+        "c1003"
+      ],
       "kaavioType": "Edge",
       "markerEnd": "Arrow",
       "points": [
         {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              1
+            ]
+          },
+          "isAttachedTo": "b1002",
+          "orientation": [
+            0,
+            1
+          ],
           "x": 240,
           "y": 217
         },
         {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              0
+            ]
+          },
+          "isAttachedTo": "c1003",
+          "orientation": [
+            0,
+            1
+          ],
           "x": 240,
           "y": 303
         }
@@ -211,13 +279,13 @@
       }
     ],
     "contains": [
-      "pvjsgeneratedida01",
-      "pvjsgeneratedida02",
-      "pvjsgeneratedida03",
-      "pvjsgeneratedida04",
-      "pvjsgeneratedida05"
+      "a1001",
+      "b1002",
+      "c1003",
+      "pvjsgeneratedidc1004",
+      "pvjsgeneratedidc1005"
     ],
-    "dataSourceVersion": "WP0001_r20260821131410",
+    "dataSourceVersion": "WP0001_r20260821133253",
     "displayName": "Org cutover verification 2026-08-21",
     "drawAs": "rect",
     "fill": "white",
