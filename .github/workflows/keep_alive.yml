@@ -1,0 +1,54 @@
+# GitHub disables a public repository's scheduled workflows after 60 days with no
+# repository activity, silently and on every trigger — not just the schedule. That is
+# what stopped "Deploy Jekyll site to Pages" on 2025-11-24: 3A kept pushing published
+# pathways to main and none of them built, because a disabled workflow ignores its
+# push trigger too.
+#
+# This runs monthly and does two independent things, either of which is enough:
+#   1. commits a heartbeat, which is the "repository activity" the rule counts;
+#   2. re-enables every workflow, which resets the 60-day timer even when nothing is
+#      disabled yet, and revives anything that already is.
+#
+# The heartbeat lands in .github/, which "Deploy Jekyll site to Pages" excludes via
+# paths-ignore, so it never provokes a site rebuild.
+name: Monthly keep-alive
+
+on:
+  schedule:
+    - cron: "17 4 1 * *" # 1st day monthly, 04:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  keep-alive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update heartbeat
+        run: |
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > .github/last-activity.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/last-activity.txt
+          git commit -m "chore: monthly repository heartbeat [skip ci]"
+          git push
+
+      - name: Re-enable every workflow
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Enabling an already-enabled workflow is a no-op that still resets the
+          # inactivity timer, so this is safe to run unconditionally.
+          gh api "repos/${GITHUB_REPOSITORY}/actions/workflows" --paginate \
+            --jq '.workflows[] | "\(.id)\t\(.name)"' |
+          while IFS=$'\t' read -r id name; do
+            if gh api -X PUT "repos/${GITHUB_REPOSITORY}/actions/workflows/${id}/enable" >/dev/null 2>&1; then
+              echo "enabled: ${name}"
+            else
+              echo "could not enable: ${name}" >&2
+            fi
+          done
