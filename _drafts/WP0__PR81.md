@@ -1,0 +1,39 @@
+---
+annotations: []
+authors:
+- marvinm2
+citedin: ''
+communities: []
+description: Epidermal growth factor binds the EGF receptor, which recruits the guanine
+  nucleotide exchange factor SOS1 and thereby loads KRAS with GTP, initiating downstream
+  proliferative signalling in human cells.
+last-edited: 2026-08-21
+ndex: null
+organisms:
+- Homo sapiens
+redirect_from:
+- /index.php/Pathway:WP0__PR81
+- /instance/WP0__PR81
+- /instance/WP0__PR81_r20260821200526
+revision: r20260821200526
+schema-jsonld:
+- '@context': https://schema.org/
+  '@id': https://wikipathways.github.io/pathways/WP0__PR81.html
+  '@type': Dataset
+  creator:
+    '@type': Organization
+    name: WikiPathways
+  description: Epidermal growth factor binds the EGF receptor, which recruits the
+    guanine nucleotide exchange factor SOS1 and thereby loads KRAS with GTP, initiating
+    downstream proliferative signalling in human cells.
+  keywords:
+  - EGF
+  - EGFR
+  - KRAS
+  - SOS1
+  license: CC0
+  name: EGF receptor to RAS browser test
+seo: CreativeWork
+title: EGF receptor to RAS browser test
+wpid: WP0__PR81
+---
