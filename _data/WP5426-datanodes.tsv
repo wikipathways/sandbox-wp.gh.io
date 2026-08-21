@@ -2,3 +2,4 @@ Label	Type	Identifier	Comment	Ensembl	NCBI gene	HGNC	UniProt	Wikidata	ChEBI	InCh
 INS	GeneProduct	ensembl:ENSG00000254647	""	ensembl:ENSG00000254647	ncbigene:3630	hgnc.symbol:INS	uniprot:C9JNR5;uniprot:I3WAC9;uniprot:A6XGL2;uniprot:P01308								
 INSR	GeneProduct	ensembl:ENSG00000171105	""	ensembl:ENSG00000171105	ncbigene:3643	hgnc.symbol:INSR	uniprot:M0R3E6;uniprot:P06213								
 IRS1	GeneProduct	ensembl:ENSG00000169047	""	ensembl:ENSG00000169047	ncbigene:3667	hgnc.symbol:IRS1	uniprot:P35568								
+PIK3CA	GeneProduct	ensembl:ENSG00000121879	""	ensembl:ENSG00000121879	ncbigene:5290	hgnc.symbol:PIK3CA	uniprot:A0A2R8Y2F6;uniprot:C9JAM9;uniprot:A0A6Q8PGN9;uniprot:A0A6Q8PGV1;uniprot:C9J951;uniprot:P42336								
