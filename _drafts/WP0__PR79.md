@@ -1,0 +1,38 @@
+---
+annotations: []
+authors:
+- marvinm2
+citedin: ''
+communities: []
+description: Second verification run for the portal cutover, exercising the automatic
+  publish path. Insulin binds and activates the insulin receptor, which phosphorylates
+  IRS1 and propagates the signal downstream.
+last-edited: 2026-08-21
+ndex: null
+organisms:
+- Homo sapiens
+redirect_from:
+- /index.php/Pathway:WP0__PR79
+- /instance/WP0__PR79
+- /instance/WP0__PR79_r20260821150449
+revision: r20260821150449
+schema-jsonld:
+- '@context': https://schema.org/
+  '@id': https://wikipathways.github.io/pathways/WP0__PR79.html
+  '@type': Dataset
+  creator:
+    '@type': Organization
+    name: WikiPathways
+  description: Second verification run for the portal cutover, exercising the automatic
+    publish path. Insulin binds and activates the insulin receptor, which phosphorylates
+    IRS1 and propagates the signal downstream.
+  keywords:
+  - INS
+  - INSR
+  - IRS1
+  license: CC0
+  name: Portal end-to-end check 2026-08-21
+seo: CreativeWork
+title: Portal end-to-end check 2026-08-21
+wpid: WP0__PR79
+---
