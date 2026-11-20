@@ -493,8 +493,8 @@
       </g>
     </g>
     <g id="i007" class="Edge Interaction" color="#000000">
-      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="67.10249675906654, 11" stroke-width="1">
-        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="i007-path" d="M620,230L680,280" marker-end="url(#markerEndMimTranscriptionTranslation)" class="EdgeBody"/>
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="76, 11" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="i007-path" d="M620,230L680,293" marker-end="url(#markerEndMimTranscriptionTranslation)" class="EdgeBody"/>
       </g>
     </g>
     <g id="l001" class="SingleFreeNode Label" color="#666666" name="Cytoplasm" transform="translate(140,160)">
