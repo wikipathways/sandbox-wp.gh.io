@@ -949,7 +949,8 @@
       "gpmlElementName": "Interaction",
       "id": "i008",
       "isAttachedTo": [
-        "d005"
+        "d005",
+        "d010"
       ],
       "kaavioType": "Edge",
       "markerEnd": "MimTranscriptionTranslation",
@@ -974,8 +975,23 @@
           "y": 213
         },
         {
+          "attachmentDisplay": {
+            "offset": [
+              0,
+              0
+            ],
+            "position": [
+              0.5,
+              1
+            ]
+          },
+          "isAttachedTo": "d010",
+          "orientation": [
+            0,
+            -1
+          ],
           "x": 680,
-          "y": 162
+          "y": 157
         }
       ],
       "stroke": "#000000",
@@ -1121,7 +1137,7 @@
       "d010",
       "g001"
     ],
-    "dataSourceVersion": "WP5430_r20261120163516",
+    "dataSourceVersion": "WP5430_r20261120164039",
     "displayName": "Aryl hydrocarbon receptor activation by dioxin",
     "drawAs": "rect",
     "fill": "white",
